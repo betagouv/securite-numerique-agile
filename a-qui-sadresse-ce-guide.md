@@ -1,8 +1,5 @@
-```
 ## A qui s'adresse ce guide ?
-```
 
-```
 Ce guide est intitulé "Intégrer la sécurité numérique dans une démarche Agile". Savoir précisément qui "est" ou "n'est pas" Agile est une question qui entraîne des débats sans fin; nous n'entendons pas répondre à cette question.
 
 Nous avons conçu ce guide pour des équipes dans lesquelles notamment:
@@ -19,7 +16,3 @@ Nous désignons l'ensemble des intervenants d'une telle équipe par le terme "é
 
 http://agilefocus.com/2009/02/06/agile-versus-agile/
 http://referentiel.institut-agile.fr/
-```
-
-
-
