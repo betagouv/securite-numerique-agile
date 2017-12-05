@@ -1,14 +1,22 @@
 ## L'analyse des risques: les bases à connaitre et transmettre
 
 La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en users stories. Les users stories au niveau le plus macroscopique (epics) représentent un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
--  [D] Disponibilité : la fonctionnalité peut être utilisée au moment voulu ;
--  [I] Intégrité : les données sont exactes et complètes ;
--  [C] Confidentialité : les informations ne sont divulguées qu'aux personnes autorisées ; 
+- [D] Disponibilité : la fonctionnalité peut être utilisée au moment voulu ;
+- [I] Intégrité : les données sont exactes et complètes ;
+- [C] Confidentialité : les informations ne sont divulguées qu'aux personnes autorisées ; 
 - [P] Preuve : les traces de l’activité du système sont opposables en cas de contestation.
 
 De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires de l'organisme, les epics doivent être protégées face aux menaces jugées plausibles (attaques informatiques, actes de fraude, erreurs, défaillances, etc.)
 
 ### Exemple (plateforme dématérialisée de mise en relation de taxis et de clients) :
+
+| **Epic** | **D** | **I** | **C** | **P** |
+|----------|-------|-------|-------|-------|
+| Un client transmet son identifiant, sa position et son numéro de téléphone | * | * | ** ||
+| Un client peut évaluer une course effectuée ou déclarer un incident |  | * |  | * |
+| Un administrateur peut enregistrer ou radier un taxi |  | * |  | * |
+
+> ** besoin important * besoin notable
 
 Un risque décrit la réalisation d’un scénario de menace intentionnel ou accidentel :
 1. une source de menace
