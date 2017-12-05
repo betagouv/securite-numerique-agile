@@ -11,6 +11,7 @@
 * [Se préparer à une démarche d'homologation](se-preparer-a-une-demarche-dhomologation.md)
 * [Formaliser le dossier d'homologation](formaliser-le-dossier-dhomologation.md)
 * [Fiches mémo](fiches-memo.md)
+* [Mémo: structuration d'une politique de sécurité](memo-structuration-dune-politique-de-securite.md)
 * [Mémo: menaces accidentelles et intentionnelles](memo-menaces-accidentelles-et-intentionnelles.md)
 * [Mémo: finalité des menaces](memo-sources-de-menaces.md)
 * [Mémo: séquences d'attaque](memo-sequences-dattaque.md)
