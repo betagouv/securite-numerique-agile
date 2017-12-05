@@ -35,9 +35,11 @@ Un risque décrit la réalisation d’un scénario de menace intentionnel ou acc
 1. une source de menace
 2. par le biais d’un composant vulnérable du SI
 3. provoque un événement redouté
-4. sur une valeur métier essentielle, occasionnant des impacts directs et indirects (humains, opérationnels, juridiques, etc.)
+4. occasionnant des impacts sur la valeur métier, directs et indirects (humains, opérationnels, juridiques, etc.)
 
-Chacune de ces catégories correspondra à une couleur de post-its. Voici une suggestion pour la correspondance entre les couleurs:
+On lui associe une *criticité* basée sur l'estimation conjointe de la *gravité* des impacts et de la *vraisemblance* du scénario de menace conduisant à l'événément redouté.
+
+Chacune des 4 catégories ci-dessus correspondra à une couleur de post-its. Voici une suggestion pour la correspondance entre les couleurs:
 - Vert pour les “user stories” macroscopiques, que vous annoterez avec les besoins de sécurité énumérés ci-dessus
 - Orange pour les sources de menace, le plus souvent des catégories d’attaquants
 - Bleu pour les composants du SI
