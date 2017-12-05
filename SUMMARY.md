@@ -9,3 +9,4 @@
 * [Que faire après l'atelier ?](que-faire-apres-latelier.md)
 * [Les ateliers suivants, itération après itération](les-ateliers-suivants-iteration-apres-iteration.md)
 * [Se préparer à une démarche d'homologation](se-preparer-a-une-demarche-dhomologation.md)
+* [Formaliser le dossier d'homologation](formaliser-le-dossier-dhomologation.md)
