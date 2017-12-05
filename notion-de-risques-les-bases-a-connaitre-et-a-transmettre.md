@@ -1,22 +1,35 @@
 ## L'analyse des risques: les bases à connaitre et transmettre
 
-La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en users stories. Les users stories au niveau le plus macroscopique (epics) représentent un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
+La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en users stories. Les users stories au niveau le plus macroscopique (parfois appelée epics) représentent un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
 - [D] Disponibilité : la fonctionnalité peut être utilisée au moment voulu ;
 - [I] Intégrité : les données sont exactes et complètes ;
 - [C] Confidentialité : les informations ne sont divulguées qu'aux personnes autorisées ; 
 - [P] Preuve : les traces de l’activité du système sont opposables en cas de contestation.
 
-De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires de l'organisme, les epics doivent être protégées face aux menaces jugées plausibles (attaques informatiques, actes de fraude, erreurs, défaillances, etc.)
+De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires de l'organisme, ces usages doivent être protégées face aux menaces jugées plausibles (attaques informatiques, actes de fraude, erreurs, défaillances, etc.)
 
 ### Exemple (plateforme dématérialisée de mise en relation de taxis et de clients) :
 
-| **Epic** | **D** | **I** | **C** | **P** |
+| **User story** | **D** | **I** | **C** | **P** |
 |----------|-------|-------|-------|-------|
 | Un client transmet son identifiant, sa position et son numéro de téléphone | * | * | ** ||
 | Un client peut évaluer une course effectuée ou déclarer un incident |  | * |  | * |
 | Un administrateur peut enregistrer ou radier un taxi |  | * |  | * |
 
 > ** besoin important * besoin notable
+
+### Des besoins de sécurité aux événements redoutés
+
+Chaque besoin de sécurité identifié est le point de départ pour décrire un ou plusieurs *événements redoutés* qui pourraient compromettre la valeur d'usage.
+
+| **Evenements redoutés** | **Impact métier** | Sévérité |
+|---------------|---------------|---------------|
+| Le système ne répond pas | Expérience utilisateurs dégradée -> perte de clients | *** |
+| Un opérateur de taxis émet de fausses positions | Fausses adéquations clients-taxi -> perte de clients| *** |
+| Un taxi fait une course d'approche en pure perte | Manque d'adhésion des taxis -> offre trop faible | ** |
+| Un taxi s'enregistre avec de fausses informations | Captation abusive de courses -> perte de confiance, risque juridique | * |
+
+### Les risques résultent de la combinaison des éléments de l'analyse
 
 Un risque décrit la réalisation d’un scénario de menace intentionnel ou accidentel :
 1. une source de menace
@@ -25,7 +38,7 @@ Un risque décrit la réalisation d’un scénario de menace intentionnel ou acc
 4. sur une valeur métier essentielle, occasionnant des impacts directs et indirects (humains, opérationnels, juridiques, etc.)
 
 Chacune de ces catégories correspondra à une couleur de post-its. Voici une suggestion pour la correspondance entre les couleurs:
-- Vert pour les “user stories” macroscopiques (parfois appelées “epics”), que vous annoterez avec les besoins de sécurité énumérés ci-dessus
+- Vert pour les “user stories” macroscopiques, que vous annoterez avec les besoins de sécurité énumérés ci-dessus
 - Orange pour les sources de menace, le plus souvent des catégories d’attaquants
 - Bleu pour les composants du SI
 - Rouge pour les événements redoutés
