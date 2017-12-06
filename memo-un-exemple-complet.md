@@ -31,7 +31,7 @@ Les tableaux que nous livrons ci-dessous correspondent à la restitution formell
 |Un taxi peut remonter sa position via l'API|Disponibilité : une position doit remonter sous 5 minutes<br/> Intégrité : altérations détectables|
 |**Un client et un taxi conviennent d'une course** (scénario global décomposé en sous-scénarios ci-dessous)|Disponibilité : sous 5 minutes<br/>Intégrité : altérations détectables et corrigeables<br/>Confidentialité : l'information sur les courses est à diffusion limitée|
 |Un client peut connaître les taxis à proximité (ou suivre un taxi en approche)|_idem_|
-|Un client peut émettre une demande ("héler virtuellement" un taxi)|_idem_|
+|Un client peut émettre une demande (« héler virtuellement » un taxi)|_idem_|
 |Le taxi, puis le client peuvent confirmer la prise en charge|_idem_|
 |Le taxi ou le client peuvent annuler la course|_idem_|
 |Un client peut évaluer la course|Disponibilité : sous 72h|

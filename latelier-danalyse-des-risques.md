@@ -1,6 +1,6 @@
 ## L'atelier d'analyse des risques: le coeur de la démarche
 
-L’adage est bien connu: “Le meilleur moment pour planter un arbre, c’était il y a 20 ans; le deuxième meilleur moment, c’est maintenant.” En matière de sécurité numérique, le meilleur moment, c’est dès le début des travaux de réalisation, voire d’investigation. Le deuxième meilleur moment, c’est maintenant !
+L’adage est bien connu: « Le meilleur moment pour planter un arbre, c’était il y a 20 ans; le deuxième meilleur moment, c’est maintenant. » En matière de sécurité numérique, le meilleur moment, c’est dès le début des travaux de réalisation, voire d’investigation. Le deuxième meilleur moment, c’est maintenant !
 
 L’atelier type d’analyse de risque lors d’une itération se déroule dans les conditions usuelles pour des équipes agiles :
 - le format est présentiel,
