@@ -10,5 +10,5 @@ Vous trouverez également ce guide sur Github: [https://github.com/sgmap/securit
 
 
 
-Bonne sécurisation !
+Bonne sécurisation !
 
