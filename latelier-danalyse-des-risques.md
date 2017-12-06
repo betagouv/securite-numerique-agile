@@ -1,6 +1,6 @@
 ## L'atelier d'analyse des risques: le coeur de la démarche
 
-Distillées à l'essentiel, nos recommandations concrètes envers les équipes agiles peuvent se résumer en une phrase : **l'équipe se réunit, à intervalle réguliers, pour discuter de façon structurée des risques numériques qui peuvent impacter les usagers de son service ou son produit, et décide comment traiter ces risques**. Le moteur de la prise en compte des risques est donc un format d'atelier.
+Distillées à l'essentiel, nos recommandations concrètes envers les équipes agiles peuvent se résumer en une phrase : **l'équipe se réunit, à intervalles réguliers, pour discuter de façon structurée des risques numériques qui peuvent impacter les usagers de son service ou son produit, et décide comment traiter ces risques**. Le moteur de la prise en compte des risques est donc un format d'atelier.
 
 L’atelier type d’analyse de risque lors d’une itération se déroule dans les conditions usuelles pour des équipes agiles :
 
