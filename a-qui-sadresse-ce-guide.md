@@ -1,6 +1,6 @@
 ## À qui s'adresse ce guide ?
 
-Ce guide est intitulé « Intégrer la sécurité numérique dans une démarche Agile ». Savoir précisément qui « est » ou « n'est pas » Agile est une question qui entraîne des [débats](http://agilefocus.com/2009/02/06/agile-versus-agile/) sans fin; nous n'entendons pas répondre à cette question.
+Ce guide est intitulé « Intégrer la sécurité numérique dans une démarche Agile ». Savoir précisément qui « est » ou « n'est pas » Agile est une question qui entraîne des [débats](http://agilefocus.com/2009/02/06/agile-versus-agile/) sans fin ; nous n'entendons pas répondre à cette question.
 
 Nous avons conçu ce guide pour des équipes dans lesquelles notamment:
 
@@ -13,7 +13,7 @@ Quant à la question de la sécurité numérique, elle concerne toutes les organ
 
 Ce guide ne prétend pas couvrir le sujet de façon exhaustive, mais à donner des éléments pratiques et concrets pour les équipes revendiquant une démarche Agile et présentant les caractéristiques ci-dessus.
 
-Généralement, ces caractéristiques s'observent dans des équipes plutôt réduites, et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel \(task board, etc.\), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations, et ainsi de suite; cependant, prises individuellement aucune de ces propriétés n'est essentielle à « l'Agilité ».
+Généralement, ces caractéristiques s'observent dans des équipes plutôt réduites, et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel \(task board, etc.\), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations, et ainsi de suite ; cependant, prises individuellement aucune de ces propriétés n'est essentielle à « l'Agilité ».
 
 Nous désignons l'ensemble des intervenants d'une telle équipe par le terme « équipe produit ». Afin d'éviter de trop ancrer notre discours dans celui de telle ou telle « chapelle » de cette grande communauté qu'est le mouvement Agile, nous ne distinguerons pas les rôles au sein de l'équipe de façon plus spécifique.
 

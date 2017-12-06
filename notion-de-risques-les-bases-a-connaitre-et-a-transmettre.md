@@ -49,7 +49,7 @@ Commencez par ces quatre catégories qui ont tendance à constituer « l’angl
 - les mesures de sécurité déjà mises en place
 - les mesures de sécurité à prendre, déjà connue ou qui ont émergé de la discussion
 
-Cette correspondance n’est qu’une suggestion, c’est ce qui a marché pour nous; n’hésitez pas à en dévier si cela a du sens pour vous.
+Cette correspondance n’est qu’une suggestion, c’est ce qui a marché pour nous ; n’hésitez pas à en dévier si cela a du sens pour vous.
 
 La notion d’une Abuser Story peut être intéressante pour les équipes déjà familières du jargon agile, puisqu’elle correspond au « revers » néfaste d’une « User Story » :
 
