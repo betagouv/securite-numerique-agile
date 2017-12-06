@@ -1,4 +1,4 @@
-## L'analyse des risques: les bases à connaitre et transmettre
+## L'analyse des risques : les bases à connaitre et transmettre
 
 La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en users stories. Les users stories au niveau le plus macroscopique (parfois appelée epics) représentent un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
 - [D] Disponibilité : la fonctionnalité peut être utilisée au moment voulu ;
