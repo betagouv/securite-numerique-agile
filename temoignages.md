@@ -22,6 +22,12 @@ Cette section est amenée à s'enrichir au fil des contributions \(voir la secti
 
 > Pour ma part, et pour aller au plus vite \(un objectif des méthodes agiles\) en essayant de couvrir tous les cas de figure, je préfère m’attacher à suivre des référentiels de bonne pratique. J’utilise d’ailleurs les critères ASVS de l’OWASP, qui ont l’avantage d’être exhaustifs, réfléchis, adaptés au niveau de sécurité recherché. En les suivant, on s’assure \(au moins en première approche\) de ne pas laisser une faille béante par un simple oubli : je vois malheureusement trop d’applis web litigieuses sur le plan de la sécurité. Par exemple, en 1 an, c’est 2 applis \(une fournie par une municipalité, l’autre par une université\) qui m’ont envoyé mon mot de passe associé à mon login en clair dans ma messagerie \(sans commentaire\).
 
+### Témoignage d'OccSImore
+
+> La méthode utilisée se rapproche de celle proposée, à ceci près que les exigences de sécurité sont formalisées en début de projet au cours d’un atelier dédié, puis adaptées ensuite au fil des sprints. Elles le sont sous la forme « d’user story » fonctionnelles ou techniques. Le projet fait ensuite appel à sa discrétion à l’expert SSI qui lui est affecté. Les risques sont évalués à la fin du projet et en fonction du niveau de risque, le Product Owner \(PO\) peut décider d’accepter que le produit soit proposé à la mise en production. Au-delà d’un certain niveau de risque, une instance hors du projet doit se prononcer.
+>
+> Les sachants SSI sont aujourd’hui en général en sous-effectif dans les organisations. De plus, ces profils dans le domaine du développement sont encore plus rares. Les organisations peuvent donc être confrontées à des difficultés quant à la mise en œuvre de la démarche par l’impossibilité d’affecter une ressource. L’intégration systématique risque d’être une pratique impossible à suivre. A défaut, la présence de l’expert SSI lors de la réunion de planification, ainsi qu’une rencontre régulière entre le PO et l’expert SSI est indispensable.
+
 
 
 
