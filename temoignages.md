@@ -1,6 +1,6 @@
 # Témoignages
 
-Cette section est amenée à s'enrichir au fil des contributions \(voir la section suivante\). Nous avons choisi d'y présenter pour l'instant quelques retours qui nous paraissaient saillants à l'issue du premier appel à commentaires lancé par l'ANSSI et la DINSIC en septembre 2017.
+Cette section est amenée à s'enrichir au fil des contributions \(voir la section suivante\). Nous avons choisi d'y présenter pour l'instant quelques retours qui nous paraissaient saillants à l'issue du premier appel à commentaires lancé par l'ANSSI et la DINSIC en septembre 2017. Faute de place, nous ne pouvons citer ici toutes les personnes qui ont bien voulu nous transmettre leurs remarques, mais nous tenons à toutes les remercier.
 
 ### Témoignage de Thomas Coquelin \(1er appel à commentaires\)
 
@@ -27,8 +27,6 @@ Cette section est amenée à s'enrichir au fil des contributions \(voir la secti
 > La méthode utilisée se rapproche de celle proposée, à ceci près que les exigences de sécurité sont formalisées en début de projet au cours d’un atelier dédié, puis adaptées ensuite au fil des sprints. Elles le sont sous la forme « d’user story » fonctionnelles ou techniques. Le projet fait ensuite appel à sa discrétion à l’expert SSI qui lui est affecté. Les risques sont évalués à la fin du projet et en fonction du niveau de risque, le Product Owner \(PO\) peut décider d’accepter que le produit soit proposé à la mise en production. Au-delà d’un certain niveau de risque, une instance hors du projet doit se prononcer.
 >
 > Les sachants SSI sont aujourd’hui en général en sous-effectif dans les organisations. De plus, ces profils dans le domaine du développement sont encore plus rares. Les organisations peuvent donc être confrontées à des difficultés quant à la mise en œuvre de la démarche par l’impossibilité d’affecter une ressource. L’intégration systématique risque d’être une pratique impossible à suivre. A défaut, la présence de l’expert SSI lors de la réunion de planification, ainsi qu’une rencontre régulière entre le PO et l’expert SSI est indispensable.
-
-
 
 
 
