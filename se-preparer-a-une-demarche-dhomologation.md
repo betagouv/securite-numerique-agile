@@ -4,7 +4,13 @@ L'homologation de sécurité est un acte formel par lequel l'autorité responsab
 
 Pour les entreprises privées, l'homologation n'est pas obligatoire mais n'en reste pas moins une excellente façon de témoigner, vis-à-vis des usagers, de la volonté de prendre en compte la sécurité numérique des services qu'elles proposent, et d'expliciter le niveau de maîtrise des risques qu'elles revendiquent.
 
-Comme le rappelle le guide "L'homologation de sécurité, en 9 étapes simples"
+Comme le rappelle le guide [_L'homologation de sécurité, en 9 étapes simples_](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/) :
 
+> L'objectif de la démarche d'homologation \[...\] est de trouver un équilibre entre le risque acceptable et les coûts de sécurisation, puis de faire arbitrer cet équilibre, de manière formelle, par un responsable qui a autorité pour le faire.
 
+Les livrables de l'atelier d'analyse des risques, tel que nous l'avons présenté dans ces pages, constituent un entrant nécessaire mais non suffisant à une démarche d'homologation.
+
+Par conséquent, en vue de la préparation de l'homologation, l'équipe peut décider de donner la priorité à la réalisation et au suivi des mesures de sécurité pendant une itération.
+
+Nous ne détaillerons pas ici les étapes de la constitution du dossier ou de la commission d'homologation. Nous renvoyons le lecteur au guide [_L'homologation de sécurité, en 9 étapes simples_](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/).
 
