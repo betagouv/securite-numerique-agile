@@ -20,7 +20,7 @@ En particulier, le fait que l'équipe ait déjà réalisé un ou plusieurs incr�
 
 ### Faut-il se faire accompagner ?
 
-La présence d'un·e expert·e en sécurité des systèmes d'information \(SSI\) n'est pas indispensable pour la réussite de la démarche. Quelles que soient les conclusions de l'analyse des risques, c'est à l'équipe dans son ensemble qu'il incombera de les mettre en oeuvre — c'est une conséquence de notre définition d'une équipe « agile ». Les participants pertinents pour cet atelier sont donc les membres de l'équipe et eux seuls.
+La présence d'un·e expert·e en sécurité des systèmes d'information \(SSI\) n'est pas indispensable pour la réussite de la démarche. Quelles que soient les conclusions de l'analyse des risques, c'est à l'équipe dans son ensemble qu'il incombera de les mettre en oeuvre — c'est une conséquence de notre définition d'une équipe « agile ». Les personnes pertinentes pour cet atelier sont donc les membres de l'équipe et eux seuls.
 
 Notez bien en particulier qu'un atelier de travail n'est pas une réunion ; l'efficacité d'un atelier est conditionnée par une prise de parole et d'initiative à peu près équilibrée entre les différents participants, elle risque d'être diminuée par la présence d'observateurs, et a fortiori si des personnes qui n'ont pas de responsabilité pour la réalisation du produit y prennent une part active.
 
