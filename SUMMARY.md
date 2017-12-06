@@ -9,6 +9,7 @@
 * [Que faire après l'atelier ?](que-faire-apres-latelier.md)
 * [Les ateliers suivants, itération après itération](les-ateliers-suivants-iteration-apres-iteration.md)
 * [Se préparer à une démarche d'homologation](se-preparer-a-une-demarche-dhomologation.md)
+* [Témoignages](temoignages.md)
 * [Contribuer à ce guide](contribuer-a-ce-guide.md)
 * [Fiches mémo](fiches-memo.md)
 * [Mémo: structuration d'une politique de sécurité](memo-structuration-dune-politique-de-securite.md)
