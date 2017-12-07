@@ -16,15 +16,15 @@ Par conséquent, en vue de la préparation de l'homologation, l'équipe peut dé
 
 Par hypothèse, l'équipe à laquelle ce guide s'adresse cherche à mettre rapidement une première version incomplète du produit ou du service, puis à l'étoffer progressivement par incréments fonctionnels.
 
-Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'adapter le niveau de risque résiduel accepté à un contexte donné. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de flux, etc.
+Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'adapter le niveau de risque résiduel accepté à un contexte donné. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de flux, etc.
 
 L'équipe pourra moduler la durée et les critères de validité des homologations provisoires en fonction de la diffusion réellement constatée du service.
 
-Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décliner en trois jalons :
+Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décliner en trois jalons :
 
-* Un jalon « autorisation de tests » \(ADT\) pour une durée de 1 à 3 mois, menée exclusivement avec des usagers volontaires et donnant un consentement explicite
-* Un jalon « autorisation provisoire d'exploitation », pour une durée maximale de 12 mois, et un plafond de 1000 courses
-* Un jalon « mise en service ferme » tel que décrit ci-dessous
+* Un jalon « autorisation de tests » \(ADT\) pour une durée de 1 à 3 mois, menée exclusivement avec des usagers volontaires et donnant un consentement explicite
+* Un jalon « autorisation provisoire d'exploitation » \(APE\), pour une durée maximale de 12 mois, et un plafond de 1000 courses
+* Un jalon « mise en service ferme » tel que décrit ci-dessous
 
 ### Décision ferme
 
@@ -42,7 +42,7 @@ La plateforme Le.Taxi, qui nous a fourni de la matière pour illustrer ce guide,
 
 Cette invitation pose cependant une question sensible : dans la mesure où une décision d'homologation s'appuie sur le recensement des mesures de sécurité qui ont permis de déplacer, réduire ou supprimer un scénario de risque, _mais également_ de l'analyse des risques résiduels, c'est-à-dire des vulnérabilités qui peuvent encore exister, est-il dangereux de rendre publique cette analyse ? Pour dire les choses brutalement, n'est-ce pas une invitation aux _hackers_ et autres malveillants que de signaler quelles portes dérobées ils pourraient le plus facilement emprunter ?
 
-Nous pensons que les codes sources ouverts, et au-delà le principe même du logiciel libre, vont dans le sens d'un meilleur service rendu aux usagers. Il est indéniable qu'ils contribuent substantiellement à toute l'économie numérique. Ils semblent par ailleurs être, pour l'administration publique en général, et plus précisément dans le cas français, une orientation stratégique se traduisant progressivement dans la loi. Nous croyons de moins en moins à « \[la sécurité par l'obscurité\]\([https://fr.wikipedia.org/wiki/Sécurité\_par\_l'obscurité](https://fr.wikipedia.org/wiki/Sécurité_par_l'obscurité)\) ».
+Nous pensons que les codes sources ouverts, et au-delà le principe même du logiciel libre, vont dans le sens d'un meilleur service rendu aux usagers. Il est indéniable qu'ils contribuent substantiellement à toute l'économie numérique. Ils semblent par ailleurs être, pour l'administration publique en général, et plus précisément dans le cas français, une orientation stratégique se traduisant progressivement dans la loi. Nous croyons de moins en moins à « \[la sécurité par l'obscurité\]\(\[[https://fr.wikipedia.org/wiki/Sécurité\_par\_l'obscurité\]\(https://fr.wikipedia.org/wiki/Sécurité\_par\_l'obscurité\)\](https://fr.wikipedia.org/wiki/Sécurité_par_l'obscurité]%28https://fr.wikipedia.org/wiki/Sécurité_par_l'obscurité%29\)\) ».
 
 Pour autant, il nous semble raisonnable que certaines portions du dossier d'homologation puissent ne pas être systématiquement communiquées, en particulier la section de l'analyse des risques traitant précisément des risques résiduels.
 
