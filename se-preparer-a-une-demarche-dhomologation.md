@@ -1,6 +1,6 @@
 # Se préparer à une démarche d'homologation
 
-L'homologation de sécurité est un acte formel par lequel l'autorité responsable d'un système engage sa responsabilité en matière de gestion du risque. Elle est rendue obligatoire, pour les administrations, par le [décret n° 2010-112 du 2 février 2010](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021779444&categorieLien=id), selon des modalités précisées par le [Référentiel Général de Sécurité](https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/liste-des-documents-constitutifs-du-rgs-v-2-0/).
+L'homologation de sécurité est un acte formel par lequel l'autorité responsable d'un système engage sa responsabilité en matière de gestion du risque. Elle est rendue obligatoire, pour les administrations[^1], par le [décret n° 2010-112 du 2 février 2010](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021779444&categorieLien=id), selon des modalités précisées par le [Référentiel Général de Sécurité](https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-referentiel-general-de-securite-rgs/liste-des-documents-constitutifs-du-rgs-v-2-0/).
 
 Pour les entreprises privées, l'homologation n'est pas obligatoire mais n'en reste pas moins une excellente façon de témoigner, vis-à-vis des usagers, de la volonté de prendre en compte la sécurité numérique des services qu'elles proposent, et d'expliciter le niveau de maîtrise des risques qu'elles revendiquent.
 
@@ -16,9 +16,9 @@ Par conséquent, en vue de la préparation de l'homologation, l'équipe peut dé
 
 Par hypothèse, l'équipe à laquelle ce guide s'adresse cherche à mettre rapidement une première version incomplète du produit ou du service, puis à l'étoffer progressivement par incréments fonctionnels.
 
-Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'adapter le niveau de risque résiduel accepté à un contexte donné. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de flux, etc.
+Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'**adapter le niveau de risque résiduel accepté à un contexte donné**. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume ou à l'intensité d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de transactions, etc.
 
-L'équipe pourra moduler la durée et les critères de validité des homologations provisoires en fonction de la diffusion réellement constatée du service.
+Ces critères de validité doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on est resté ou non dans les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
 
 Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décliner en trois jalons :
 
@@ -32,9 +32,13 @@ Une décision d'homologation ferme pourra être prononcée dès lors qu'un produ
 
 Si l'équipe n'a pas eu recours aux services d'un·e expert·e SSI pendant les ateliers d'analyse des risques, ni à l'intervention d'un auditeur externe pour réaliser par exemple des tests d'intrusion ou une revue de code axée sur les besoins de sécurité, ces vérifications extérieures s'imposent comme préalables à une décision ferme.
 
+La mise en place d'un plan d'amélioration continue de la sécurité pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation.
+
 Notez enfin qu'on prend soin de ne pas parler d'homologation « définitive » — le caractère évolutif du logiciel impose de réévaluer périodiquement les risques, quand bien même le logiciel serait resté inchangé — ce qui n'arrive en pratique que rarement…
 
 ### Formaliser le dossier d'homologation
 
 Nous ne détaillerons pas ici les étapes de la constitution du dossier ou de la commission d'homologation. Le guide [_L'homologation de sécurité, en 9 étapes simples_](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/) prend ici notre relais : simple, pratique et concis, nous pouvons témoigner sur la base de l'expérience réelle, qui nous a souvent servi dans ces pages, qu'il sera un compagnon précieux pour toutes les équipes Agiles qui souhaitent aboutir à une décision d'homologation.
+
+[^1]: ...ainsi que pour tout produit traitant d'information relevant du secret de la défense nationale, comme précisé dans l'Instruction Générale Interministérielle 1300 \(IGI 1300\)
 
