@@ -18,6 +18,17 @@ L’adage est bien connu: « Le meilleur moment pour planter un arbre, c’étai
 
 En particulier, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
 
+### Comment animer l'atelier ?
+
+Les conditions de succès pour un atelier d'analyse des risques sont à rapprocher de celles d'autres « rituels » Agiles, comme la rétrospective par exemple. Le rôle de l'animateur·trice, en charge de la facilitation, est particulièrement important. Il comprend entre autres responsabilités :
+
+* s'assurer que la parole est bien répartie entre les différents participants à l'atelier
+* s'assurer que le groupe ne dévie pas du sujet à traiter
+* maintenir un climat bienveillant
+* surveiller l'horloge… un bon atelier ne déborde pas \(trop\) du temps imparti
+
+Pour une animation efficace, il est donc important de bien maîtriser le canevas d'analyse des risques ; celui-ci est présenté schématiquement ci-dessous \(section « Notion de risques : les bases à connaître et à transmettre »\) et de façon plus détaillé et analytique en fiche mémo.
+
 ### Faut-il se faire accompagner ?
 
 La présence d'un·e expert·e en sécurité des systèmes d'information \(SSI\) n'est pas indispensable pour la réussite de la démarche. Quelles que soient les conclusions de l'analyse des risques, c'est à l'équipe dans son ensemble qu'il incombera de les mettre en oeuvre — c'est une conséquence de notre définition d'une équipe « agile ». Les personnes pertinentes pour cet atelier sont donc les membres de l'équipe et eux seuls.
