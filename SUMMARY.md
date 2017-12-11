@@ -12,13 +12,10 @@
 * [Témoignages](temoignages.md)
 * [Contribuer à ce guide](contribuer-a-ce-guide.md)
 * [Fiches mémo](fiches-memo.md)
-* [Mémo: structuration d'une politique de sécurité](memo-structuration-dune-politique-de-securite.md)
-* [Mémo: menaces accidentelles et intentionnelles](memo-menaces-accidentelles-et-intentionnelles.md)
-* [Mémo: finalité des menaces](memo-sources-de-menaces.md)
-* [Mémo: séquences d'attaque](memo-sequences-dattaque.md)
+* [Mémo: structurer votre politique de sécurité](memo-structuration-dune-politique-de-securite.md)
 * [Mémo: un exemple complet](memo-un-exemple-complet.md)
 * [Mémo: schéma détaillé de l'analyse des risques](memo-schema-detaille-de-lanalyse-des-risques.md)
 * [Annexes](annexes.md)
 * [Glossaire](glossaire.md)
-* [Bibliographie](bibliographie.md)
+* Un exemple suivi pas à pas: Le.Taxi
 
