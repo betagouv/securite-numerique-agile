@@ -6,9 +6,9 @@ L'articulation entre les éléments de l'analyse des risques est résumée par l
 
 \(1\) Les user stories et leurs besoins de sécurité
 
-Pour cette rubrique, il s’agit de recenser les principaux éléments de valeur d'usage mis en œuvre par le produit, et à estimer leurs besoins de sécurité \(DICP : disponibilité, intégrité, confidentialité, preuve\). Ces éléments prendront généralement la forme de user stories.
+Pour cette rubrique, il s’agit de recenser les principaux éléments de valeur d'usage mis en œuvre par le produit, et à estimer leurs besoins de sécurité \(DICP : disponibilité, intégrité, confidentialité, preuve\). Ces éléments seront généralement exprimés sous la forme de user stories.
 
-_En démarche Agile, on ne cherche pas à coter systématiquement sur une échelle numérique les besoins de sécurité : l’objectif est plutôt d’identifier pour chaque user story quels besoins sont importants \(ex : la confidentialité\), ceci afin d’orienter par la suite le travail d’identification des scénarios de risques pertinents associés à la valeur métier. Le degré d’importance peut être pondéré par un indice simple, par exemple : **• besoin important, •• besoin notable**. Un schéma similaire pourra être adopté pour les autres éléments de l'analyse._
+L_’objectif est d’identifier pour chaque user story quels besoins sont importants, afin d’orienter par la suite le travail d’identification des scénarios de risques pertinents. Le degré d’importance peut être pondéré par un indice simple, par exemple : **• besoin important, •• besoin notable**. \(En cas de divergences parmi les participants, on peut procéder à un exercice de type « _[_dot vote_](https://en.wikipedia.org/wiki/Dot-voting)_ ».\) Un schéma similaire pourra être adopté pour les autres éléments de l'analyse._
 
 _Le point de départ de l’atelier – les user stories – est important. En commençant par là, l’équipe ancre le reste de l’atelier dans l’idée que les mesures de sécurité servent à assurer la valeur livrée aux usagers. En effet, pour chaque besoin de sécurité important d’une valeur métier, il y a un événement redouté et au moins un scénario de risque susceptible de compromettre la proposition de valeur._
 
