@@ -13,7 +13,7 @@ De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires d
 
 | **User story** | **D** | **I** | **C** | **P** |
 | --- | --- | --- | --- | --- |
-| Un client transmet son identifiant, sa position et son numéro de téléphone | \* | \* | _ _ |  |
+| Un client transmet son identifiant, sa position et son numéro de téléphone | \* | \* | \* \* |  |
 | Un client peut évaluer une course effectuée ou déclarer un incident |  | \* |  | \* |
 | Un administrateur peut enregistrer ou radier un taxi |  | \* |  | \* |
 
