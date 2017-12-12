@@ -20,7 +20,7 @@ L’analyse de risque doit s’attacher à identifier les abuser stories dimens
 
 L’analyse de risque n’a pas vocation à re-identifier des mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit \(voir fiche mémo précédente\).
 
-Par contre, elle a vocation à 
+Par contre, elle a vocation à
 
 * valider \(ou non\) les dérogations éventuelles à ce socle de sécurité,
 * identifier le besoin de durcir ce socle,
@@ -30,14 +30,19 @@ Par contre, elle a vocation à
 
 Parmi les abuser stories à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent être particulièrement redoutables lorsque l’attaque est menée avec une volonté délibérément forte d’atteindre un objectif visé avec des moyens engagés qui peuvent être importants. Les éléments constitutifs classiques à prendre en compte dans un abuser story intentionnel sont les suivants :
 
-  
+![](/assets/attaque.png)
+
 Une attaque réussie sur un système d'information ne relève que rarement de l'exploitation d'une faille unique ; les attaques intentionnelles suivent le plus souvent une séquence \(appelée cyber kill chain\) exploitant plusieurs vulnérabilités de façon coordonnée. C'est en raison de ce type de séquence que des failles d'apparence anodines peuvent entraîner des effets importants. Nous vous recommandons d'intégrer une vision globale des séquences d'attaques possibles dans vos ateliers de sécurité, afin de ne pas minorer par erreur un scénario dont la vraisemblance et l'impact pourraient être en fait disproportionnés.
 
 Plusieurs modèles de cyber kill chain existent et peuvent être utilisés \(exemple : Lockheed Martin\). L’équipe pourra exploiter le modèle suivant, donné à titre d’information. Cette approche doit permettre d’identifier facilement les composants critiques susceptibles de servir de vecteurs d’entrée, de relais de propagation, de vecteurs d’exploitation, etc. Ces composants – de nature technique, humaine ou organisationnelle – feront alors l’objet de mesures ad hoc ou de durcissement du socle existant.
 
+![](/assets/killchain.png)
+
 ## Considérer l’écosystème comme une source de risque potentiel
 
-L’écosystème constitue l’ensemble des parties prenantes qui gravitent autour du produit et/ou qui sont nécessaires à son fonctionnement. De plus en plus de modes opératoires d’attaques exploitent les éléments vulnérables d’un écosystème pour atteindre leur cible. La connaissance de l’écosystème permet ainsi d’identifier les vulnérabilités latentes induites par les adhérences entre les composants du produit et les éléments de son écosystème, susceptibles de rendre possibles ou de faciliter des abuser stories \(ex : injection d’un code malveillant dans le SI par rebond via un partenaire tiers connecté, atteinte à la disponibilité du SI via une attaque en déni de service sur le fournisseur de service en nuage, compromission d’un réseau bureautique via le piégeage de la chaîne d’approvisionnement des postes et serveurs d’administration\). Dans ce cadre, l’analyse de l’écosystème permet d’identifier les entités et interfaces de l’écosystème susceptibles d’être des vecteurs de menace privilégiés pour le produit. L’analyse de risque doit alors prendre en compte ces éléments de l’écosystème dans les scénarios d’abuser stories.
+L’écosystème constitue l’ensemble des parties prenantes qui gravitent autour du produit ou qui sont nécessaires à son fonctionnement. De plus en plus de modes opératoires d’attaques exploitent les éléments vulnérables d’un écosystème pour atteindre leur cible. La connaissance de l’écosystème permet ainsi d’identifier les vulnérabilités latentes induites par les adhérences entre les composants du produit et les éléments de son écosystème, susceptibles de rendre possibles ou de faciliter des abuser stories \(ex : injection d’un code malveillant dans le SI par rebond via un partenaire tiers connecté, atteinte à la disponibilité du SI via une attaque en déni de service sur le fournisseur de service en nuage, compromission d’un réseau bureautique via le piégeage de la chaîne d’approvisionnement des postes et serveurs d’administration\). Dans ce cadre, l’analyse de l’écosystème permet d’identifier les entités et interfaces de l’écosystème susceptibles d’être des vecteurs de menace privilégiés pour le produit. L’analyse de risque doit alors prendre en compte ces éléments de l’écosystème dans les scénarios d’abuser stories.
 
 La sélection des parties prenantes potentiellement critiques d’un écosystème, à prendre en compte dans l’analyse de risque, peut se baser sur l’évaluation des critères suivants, chaque critère étant évalué par exemple sur une échelle de 1 à 4. Les critères d’exposition tendent à accroître le risque alors que ceux relatifs à la protection l’atténue. Les parties prenantes les plus critiques sont ensuite sélectionnées en prenant celles qui totalisent les scores les plus élevés.
+
+![](/assets/ecosysteme.png)
 
