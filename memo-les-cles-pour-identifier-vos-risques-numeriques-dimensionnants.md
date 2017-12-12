@@ -6,8 +6,7 @@ Les activités de sécurité visent à identifier les scénarios de risques
 
 * user story : « en tant qu’utilisateur, je réserve en ligne mon billet de spectacle ».
 
-* abuser story \(intentionnel\) : « En tant qu’hacktiviste, j’empêche les clients de réserver en ligne leur billet de spectacle en saturant le serveur applicatif par une attaque en déni de service. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire  
-  du service, voire une perte de clients ».
+* abuser story \(intentionnel\) : « En tant qu’hacktiviste, j’empêche les clients de réserver en ligne leur billet de spectacle en saturant le serveur applicatif par une attaque en déni de service. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».
 
 * scénario accidentel : « Le service de réservation en ligne est rendu indisponible suite à  
   une erreur de mise à jour du serveur applicatif par le prestataire de maintenance. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».
@@ -16,7 +15,7 @@ Les activités de sécurité visent à identifier les scénarios de risques
 
 ## Se concentrer sur les risques numériques dimensionnants
 
-L’analyse de risque doit s’attacher à identifier les abuser stories dimensionnantes, c’est-à-dire significatives en terme d’impact et qui relèvent de menaces – intentionnelles ou accidentelles – liées à des vulnérabilités ou modes opératoires différenciés. Ces abuser stories permettent à elles seuls de structurer la politique de sécurité du produit : en terme de volumétrie, l’identification et le traitement de 5 à 10 abuser stories est généralement suffisant pour identifier les mesures de sécurité structurantes liées aux cas d’usage typiques du produit.
+L’analyse de risque doit s’attacher à identifier les abuser stories dimensionnantes, c’est-à-dire significatives en terme d’impact et qui relèvent de menaces – intentionnelles ou accidentelles – liées à des vulnérabilités ou modes opératoires différenciés. Ces abuser stories permettent à elles seuls de structurer la politique de sécurité du produit : en terme de volumétrie, l’identification et le traitement de 5 à 10 abuser stories constituent une première base qui nous paraît suffisante pour définir les mesures de sécurité structurantes liées aux cas d'usage typiques du produit.
 
 L’analyse de risque n’a pas vocation à re-identifier des mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit \(voir fiche mémo précédente\).
 
@@ -40,9 +39,11 @@ Plusieurs modèles de cyber kill chain existent et peuvent être utilisés \(
 
 ## Considérer l’écosystème comme une source de risque potentiel
 
-L’écosystème constitue l’ensemble des parties prenantes qui gravitent autour du produit ou qui sont nécessaires à son fonctionnement. De plus en plus de modes opératoires d’attaques exploitent les éléments vulnérables d’un écosystème pour atteindre leur cible. La connaissance de l’écosystème permet ainsi d’identifier les vulnérabilités latentes induites par les adhérences entre les composants du produit et les éléments de son écosystème, susceptibles de rendre possibles ou de faciliter des abuser stories \(ex : injection d’un code malveillant dans le SI par rebond via un partenaire tiers connecté, atteinte à la disponibilité du SI via une attaque en déni de service sur le fournisseur de service en nuage, compromission d’un réseau bureautique via le piégeage de la chaîne d’approvisionnement des postes et serveurs d’administration\). Dans ce cadre, l’analyse de l’écosystème permet d’identifier les entités et interfaces de l’écosystème susceptibles d’être des vecteurs de menace privilégiés pour le produit. L’analyse de risque doit alors prendre en compte ces éléments de l’écosystème dans les scénarios d’abuser stories.
+L’écosystème constitue l’ensemble des parties prenantes qui gravitent autour du produit ou qui sont nécessaires à son fonctionnement. De plus en plus de modes opératoires d’attaques exploitent les éléments vulnérables d’un écosystème pour atteindre leur cible. \(On a ainsi vu un casino aux Etats-Unis victime d'une attaque par le biais… [d'un aquarium connecté à Internet](https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-hack-a-casino/).\) L’analyse de risque doit alors prendre en compte ces éléments de l’écosystème.
 
 La sélection des parties prenantes potentiellement critiques d’un écosystème, à prendre en compte dans l’analyse de risque, peut se baser sur l’évaluation des critères suivants, chaque critère étant évalué par exemple sur une échelle de 1 à 4. Les critères d’exposition tendent à accroître le risque alors que ceux relatifs à la protection l’atténue. Les parties prenantes les plus critiques sont ensuite sélectionnées en prenant celles qui totalisent les scores les plus élevés.
 
 ![](/assets/ecosysteme.png)
+
+L’identification des scénarios de risques, particulièrement ceux qui sont intentionnels, nécessite une certaine expertise en cybersécurité. Ceci est d’autant plus vrai pour les cas d’attaques sophistiquées, mettant en œuvre un séquencement planifié de modes d’actions sur plusieurs composants – techniques et humains généralement – du produit et de son écosystème. Comme nous l'avons précisé plus haut, l'accompagnement de l'équipe par un expert dans ce domaine peut donc être un facteur favorable à la réussite de l'atelier, en proportion avec le degré de complexité du produit et de l'écosystème.
 
