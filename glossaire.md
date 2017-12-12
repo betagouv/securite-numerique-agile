@@ -1,9 +1,5 @@
 # Glossaire
 
-|  |
-| :--- |
-
-
 | Terme | Définitions |
 | :--- | :--- |
 | Abuser story | Brève description d’un scénario de risque qui sera utilisé pourdéterminer les mesures de sécurité à implémenter et réaliser les tests de couverture du risque. |
@@ -12,9 +8,6 @@
 | Valeur métier \(Bien essentiel\) | Information ou processus jugé comme important pour l'organismeet qu’il convient donc de protéger. On appréciera ses besoins de sécurité. En démarche Agile, une valeur métier est généralementexprimée sous la forme d’uneUser story. |
 | Composant du SI \(Bien support\) | Ressource sur laquelle reposent des valeurs métiers, et qu’ilconvient de sécuriser en fonction de sa criticité. On distingue notamment : les systèmes informatiques/numériques, les organisations et ressources humaines, les locaux et infrastructures physiques. On appréciera ses vulnérabilités mais pas ses besoins de sécurité.La notion de composant SI peut être abordée en début de projet sous la forme de briques fonctionnelles : réseau LAN bureautique, réseau WAN de transit, applicatifs métiers éventuellement en mode Saas, bases de données localisées ou distantes, voire en Cloud. |
 | Ecosystème | Parties intéressées qui « gravitent » autour du SI et quientretiennent des relations d’échanges au travers d’interfaces logiques ou physiques. Il peut s’agir desclients ouusagers d’unservice, de partenaires ou cotraitants, de sous-traitants, etc.L’écosystème inclut également l’ensemble des services et réseaux supports nécessaires au fonctionnement du SI. |
-
-- 14 -
-
 | Événement redouté | Situation crainte par l'organisme. Il s'exprime par la combinaison des sources de menaces susceptibles d'en être à l'origine, d'une valeur métier, du besoin de sécurité concerné et des impacts potentiels.Un événement redouté correspond à une atteinte d’un besoin de sécurité d’unevaleur métier. |
 | :--- | :--- |
 | Effet final recherché | Objectif visé par une source de menace, selon ses motivations et la valeur que représente le SI. Exemples : déstabilisation, propagande, espionnage, sabotage, fraude, lucratif. |
