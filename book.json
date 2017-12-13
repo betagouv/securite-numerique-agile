@@ -1,0 +1,10 @@
+{
+    "plugins": ["build"],
+    "pluginsConfig": {
+	    "build": {
+		    "args":["-o guide.docx"],
+		    "output":"guide.docx",
+		    "format":"docx"
+	    }
+    }
+}
