@@ -29,13 +29,13 @@ Par contre, elle a vocation à
 
 Parmi les abuser stories à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent être particulièrement redoutables lorsque l’attaque est menée avec une volonté délibérément forte d’atteindre un objectif visé avec des moyens engagés qui peuvent être importants. Les éléments constitutifs classiques à prendre en compte dans un abuser story intentionnel sont les suivants :
 
-![](/assets/attaque.png)
+![](assets/attaque.png)
 
 Une attaque réussie sur un système d'information ne relève que rarement de l'exploitation d'une faille unique ; les attaques intentionnelles suivent le plus souvent une séquence \(appelée cyber kill chain\) exploitant plusieurs vulnérabilités de façon coordonnée. C'est en raison de ce type de séquence que des failles d'apparence anodines peuvent entraîner des effets importants. Nous vous recommandons d'intégrer une vision globale des séquences d'attaques possibles dans vos ateliers de sécurité, afin de ne pas minorer par erreur un scénario dont la vraisemblance et l'impact pourraient être en fait disproportionnés.
 
 Plusieurs modèles de cyber kill chain existent et peuvent être utilisés \(exemple : Lockheed Martin\). L’équipe pourra exploiter le modèle suivant, donné à titre d’information. Cette approche doit permettre d’identifier facilement les composants critiques susceptibles de servir de vecteurs d’entrée, de relais de propagation, de vecteurs d’exploitation, etc. Ces composants – de nature technique, humaine ou organisationnelle – feront alors l’objet de mesures ad hoc ou de durcissement du socle existant.
 
-![](/assets/killchain.png)
+![](assets/killchain.png)
 
 ## Considérer l’écosystème comme une source de risque potentiel
 
@@ -43,7 +43,7 @@ L’écosystème constitue l’ensemble des parties prenantes qui gravitent au
 
 La sélection des parties prenantes potentiellement critiques d’un écosystème, à prendre en compte dans l’analyse de risque, peut se baser sur l’évaluation des critères suivants, chaque critère étant évalué par exemple sur une échelle de 1 à 4. Les critères d’exposition tendent à accroître le risque alors que ceux relatifs à la protection l’atténue. Les parties prenantes les plus critiques sont ensuite sélectionnées en prenant celles qui totalisent les scores les plus élevés.
 
-![](/assets/ecosysteme.png)
+![](assets/ecosysteme.png)
 
 L’identification des scénarios de risques, particulièrement ceux qui sont intentionnels, nécessite une certaine expertise en cybersécurité. Ceci est d’autant plus vrai pour les cas d’attaques sophistiquées, mettant en œuvre un séquencement planifié de modes d’actions sur plusieurs composants – techniques et humains généralement – du produit et de son écosystème. Comme nous l'avons précisé plus haut, l'accompagnement de l'équipe par un expert dans ce domaine peut donc être un facteur favorable à la réussite de l'atelier, en proportion avec le degré de complexité du produit et de l'écosystème.
 

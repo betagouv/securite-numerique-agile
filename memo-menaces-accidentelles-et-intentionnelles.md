@@ -4,7 +4,7 @@ Il peut être utile de distinguer des impacts accidentels \(par exemple, panne d
 
 Le schéma d'une attaque intentionnelle est généralement le suivant:
 
-![](/assets/attaque.png)
+![](assets/attaque.png)
 
 
 

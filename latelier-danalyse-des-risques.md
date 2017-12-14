@@ -10,7 +10,7 @@ L’atelier type d’analyse de risque lors d’une itération se déroule dans 
 
 Le support d’animation de l’atelier peut consister en une feuille au format paper board ou Post-It géant. Au fur et à mesure de la discussion les éléments d’analyse des risques émergeront sous la forme de post-its de couleurs différentes. Nous allons détailler plus loin ces éléments et le canevas pour les structurer, mais voici à quoi cela pourrait ressembler :
 
-![](/assets/atelier-1.jpg)![](/assets/atelier-2.JPG)
+![](assets/atelier-1.jpg)![](assets/atelier-2.JPG)
 
 ### Quand faut-il tenir ces ateliers ?
 

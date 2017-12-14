@@ -6,7 +6,7 @@ La politique de sécurité d'un système d'information \(ou PSSI\) peut se struc
 * les mesures règlementaires
 * les mesures issues de l'analyse de risque
 
-![](/assets/pyramide.png)
+![](assets/pyramide.png)
 
 Les **mesures d’hygiène** couvrent divers domaines : cryptographie, postes de travail et serveurs, liaisons sans fil, applications Web, réseaux, externalisation, technologies sans contact,
 

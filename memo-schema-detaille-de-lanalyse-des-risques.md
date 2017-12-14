@@ -2,7 +2,7 @@
 
 L'articulation entre les éléments de l'analyse des risques est résumée par le schéma suivant :
 
-![](/assets/canevas.png)
+![](assets/canevas.png)
 
 \(1\) Les user stories et leurs besoins de sécurité
 
@@ -16,7 +16,7 @@ Le point de départ de l’atelier – les user stories – est important. En c
 
 Il s’agit de recenser les sources de risques – accidentelles ou intentionnelles, externes ou internes – susceptibles d’impacter la valeur métier : qui ou quoi pourrait porter atteinte aux besoins de sécurité. Le schéma ci-dessous résume visuellement ce qui peut motiver des attaques intentionnelles, et peut fournir un bon point de départ à la discussion lors de l’atelier.
 
-![](/assets/sources.png)
+![](assets/sources.png)
 
 \(3\) Les événements redoutés et leur gravité
 
