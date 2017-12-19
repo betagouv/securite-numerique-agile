@@ -27,7 +27,7 @@ Par contre, elle a vocation à
 
 ## Privilégier les abuser stories \(scénarios intentionnels\)
 
-Parmi les abuser stories à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent être particulièrement redoutables lorsque l’attaque est menée avec une volonté délibérément forte d’atteindre un objectif visé avec des moyens engagés qui peuvent être importants. Les éléments constitutifs classiques à prendre en compte dans un abuser story intentionnel sont les suivants :
+Parmi les scénarios de risque à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent être particulièrement redoutables lorsque l’attaque est menée avec une volonté délibérément forte d’atteindre un objectif visé avec des moyens engagés qui peuvent être importants. Les éléments constitutifs classiques à prendre en compte dans un abuser story intentionnel sont les suivants :
 
 ![](assets/attaque.png)
 

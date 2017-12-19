@@ -40,7 +40,7 @@ La finalité de l’atelier est d’identifier les risques numériques dimensi
 
 * Dans l’étape \(5\), l’équipe commence par dresser une liste de scénarios de risques – les abuser stories – en confrontant les sources de risques \(2\), les événements redoutés \(3\) et les composants vulnérables \(4\). Concrètement, il s’agit de voir de quelle façon chaque source de risque retenue peut impacter des composants du produit, par exploitation notamment de leurs vulnérabilités ou d’un facteur externe aggravant, pour générer un événement redouté.
 
-* Puis, pour chaque abuser story répertorié, l’équipe définit l’option de traitement du risque la plus appropriée \(éviter, réduire, transférer, accepter\). Dans le cas où le risque doit être réduit, les participants définissent les mesures de sécurité complémentaires qu'il faudra mettre en œuvre, en plus des mesures existantes ou déjà prévues. Leur réalisation est priorisée par l’équipe au même titre que les autres user stories.
+* Puis, pour chaque abuser story répertorié, l’équipe définit l’**option de traitement du risque** la plus appropriée \(éviter, réduire, transférer, accepter\). Dans le cas où le risque doit être réduit, les participants définissent les mesures de sécurité complémentaires qu'il faudra mettre en œuvre, en plus des mesures existantes ou déjà prévues. Leur réalisation est priorisée par l’équipe au même titre que les autres user stories.
 
 La section suivante présente l'intégralité de l'analyse des risques pour la plateforme Le.Taxi et vous permettra d'observer l'articulation des différents éléments présentés ici sur un cas pratique.
 
