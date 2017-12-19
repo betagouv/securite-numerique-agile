@@ -15,7 +15,7 @@ Les activités de sécurité visent à identifier les scénarios de risques
 
 ## Se concentrer sur les risques numériques dimensionnants
 
-L’analyse de risque doit s’attacher à identifier les abuser stories dimensionnantes, c’est-à-dire significatives en terme d’impact et qui relèvent de menaces – intentionnelles ou accidentelles – liées à des vulnérabilités ou modes opératoires différenciés. Ces abuser stories permettent à elles seuls de structurer la politique de sécurité du produit : en terme de volumétrie, l’identification et le traitement de 5 à 10 abuser stories constituent une première base qui nous paraît suffisante pour définir les mesures de sécurité structurantes liées aux cas d'usage typiques du produit.
+L’analyse de risque doit s’attacher à identifier les abuser stories dimensionnantes, c’est-à-dire significatives en terme d’impact et qui relèvent de menaces – intentionnelles ou accidentelles – non traitées par les mesures d'hygiène ou règlementaires. Ces abuser stories permettent à elles seuls de structurer la politique de sécurité du produit : en terme de volumétrie, l’identification et le traitement de 5 à 10 abuser stories constituent une première base qui nous paraît suffisante pour définir les mesures de sécurité structurantes liées aux cas d'usage typiques du produit.
 
 L’analyse de risque n’a pas vocation à re-identifier des mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit \(voir fiche mémo précédente\).
 
