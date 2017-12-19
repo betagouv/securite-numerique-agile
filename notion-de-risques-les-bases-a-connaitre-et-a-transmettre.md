@@ -9,7 +9,7 @@ La valeur métier correspond à la valeur livrée aux utilisateurs et s’articu
 
 De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires de l'organisme, ces qualités doivent être protégées face aux menaces jugées plausibles \(attaques informatiques, actes de fraude, erreurs, défaillances, etc.\)
 
-### Exemple \(plateforme dématérialisée de mise en relation de taxis et de clients\) :
+### Exemple \(Le.Taxi\) :
 
 | **User story** | **D** | **I** | **C** | **P** |
 | --- | --- | --- | --- | --- |
