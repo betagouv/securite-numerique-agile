@@ -7,7 +7,7 @@ Au fur et à mesure des itérations, il va s’avérer périodiquement nécessai
 * des retours des usagers amènent à évaluer différemment la valeur métier des différentes user stories, ou les besoins de sécurité associés à celles-ci
 * le nombre d’usagers ou le volume de transactions métier a évolué sensiblement, de sorte que l’exposition totale au risque a elle aussi évolué
 
-Comme pour les autres activités menées par les équipes agiles, le travail à réaliser alors est quasiment le même que lors du premier atelier.
+Comme pour les autres activités menées par les équipes agiles, le travail à réaliser alors est quasiment le même que lors du premier atelier. Au fil des itérations, l'équipe apprendra ainsi à tenir compte, dans son plan de charge, du temps consommé par les activités liées à la sécurité afin de lisser ce travail dans le temps - comme elle le fait pour les activités liées à la qualité.
 
 ### Dette sécuritaire
 
