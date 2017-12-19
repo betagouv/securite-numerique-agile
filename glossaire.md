@@ -14,7 +14,7 @@
 | Impact | Conséquence directe ou indirecte de l'insatisfaction des besoins de sécurité sur l'organisme et/ou sur son environnement. |
 | Mesure de sécurité | Moyen de traiter un risque de sécurité. Une mesure peut être de nature technique, physique ou organisationnelle. |
 | Objectif de sécurité | Dans le présent guide, un objectif de sécurité correspond à l’option de traitement décidée pour un scénario de risque : éviter, réduire, transférer, accepter. |
-| Risque résiduel | Risque subsistant après le traitement du risque et la mise en œuvre des mesures de sécurité. |
+| Risque résiduel | Risque subsistant après le traitement du risque et la mise en œuvre des mesures de sécurité, qui peut être par conception \(l'équipe a accepté la présence du risque\) ou identifié a posteriori \(par exemple lors d'un audit externe\). |
 | Scénario de risque | Scénario décrivant des modes opératoires séquencés et itératifs qui s’inscrivent dans un chemin d’attaque conduisant à un événement redouté. Il combine les sources de risques susceptibles d'en être à l'origine, les composants du SI qui sont visés, des modes d’actions sur ces composants, et les vulnérabilités exploitables pour qu'ils se réalisent. Un scénario de risque s’applique donc à un composant du SI. En démarche Agile il est décrit de façon synthétique sous la forme d’une Abuser story qui peut être de nature intentionnelle ou accidentelle. |
 | Source de risque | Entité ou personne à l'origine de scénarios de menace. |
 | Vulnérabilité | Caractéristique d'un composant du SI qui peut constituer une faiblesse ou une faille au regard de la sécurité numérique. |
