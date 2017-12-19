@@ -22,7 +22,7 @@ Il s’agit de recenser les sources de risques – accidentelles ou intentionnel
 
 Un événement redouté correspond au non-respect d’un besoin de sécurité : chaque besoin de sécurité associé à chaque user story est donc décliné sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions, sur la sécurité des personnes, financiers, juridiques, sur l'image, sur l'environnement, sur les tiers, etc.\) ainsi que le niveau de gravité estimé.
 
-Afin de faire le lien à ce stade avec les sources de risques identifiées dans l’étape \(2\), il peut être pertinent de mentionner les sources de risques les plus plausibles susceptibles d’en être à l’origine. Enfin, dans un souci d’efficacité, l’équipe s’intéresse en première approche aux événements redoutés associés aux besoins de sécurité « importants ».
+Afin de faire le lien à ce stade avec les sources de risques identifiées dans l’étape \(2\), il peut être pertinent de mentionner les sources de risques les plus vraisemblables susceptibles d’en être à l’origine. Enfin, dans un souci d’efficacité, l’équipe s’intéresse en première approche aux événements redoutés associés aux besoins de sécurité « importants ».
 
 \(4\) Les composants vulnérables
 

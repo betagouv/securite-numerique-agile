@@ -7,7 +7,7 @@ La valeur métier correspond à la valeur livrée aux utilisateurs et s’articu
 * \[C\] Confidentialité : les informations ne sont divulguées qu'aux personnes autorisées ; 
 * \[P\] Preuve : les traces de l’activité du système sont opposables en cas de contestation.
 
-De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires de l'organisme, ces qualités doivent être protégées face aux menaces jugées plausibles \(attaques informatiques, actes de fraude, erreurs, défaillances, etc.\).
+De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires de l'organisme, ces qualités doivent être protégées face aux menaces jugées vraisemblables \(attaques informatiques, actes de fraude, erreurs, défaillances, etc.\)
 
 ### Exemple \(Le.Taxi\) :
 
