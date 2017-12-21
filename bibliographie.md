@@ -18,7 +18,7 @@ DevOps
 
 Vous trouverez sur le site de l'ANSSI un ensemble de guides de recommandations et de bonnes pratiques vous permettant de sécuriser un produit et de lui conférer un socle de sécurité à l'état de l'art \(cryptographie, postes de travail et serveurs, liaisons sans fil et mobilité, réseaux, applications Web, externalisation, systèmes industriels, technologies sans contact, archivage électronique, etc.\) : [http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/](http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/)
 
-_OWASP Proactive Controls_ propose une liste de dix contrôles de sécurité préventifs dédiés au développement de logiciel. Ces techniques sont classées par ordre d’importance décroissant. Ce document a été écrit par des développeurs pour les développeurs afin d’accompagner ceux qui sont nouveaux dans le développement sécurisé : xxxxx
+_OWASP Proactive Controls \(Open Web Application Security Project\) _propose une liste de dix contrôles de sécurité préventifs dédiés au développement de logiciel. Ces techniques sont classées par ordre d’importance décroissant. Ce document a été écrit par des développeurs pour les développeurs afin d’accompagner ceux qui sont nouveaux dans le développement sécurisé : xxxxx
 
 _SAFECode - Security Guidance for Agile Practitioners -_ propose des recommandations pratiques aux praticiens de l’Agile sous la forme de « user stories » centrées sur la sécurité et les tâches de sécurité qu'ils peuvent facilement intégrer dans leurs environnements de développement Agile : [https://safecode.org/publications/](https://safecode.org/publications/)
 
