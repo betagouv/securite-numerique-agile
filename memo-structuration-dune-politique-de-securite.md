@@ -3,7 +3,7 @@
 La politique de sécurité d'un système d'information \(ou PSSI\) peut se structurer autour de trois niveaux de mesure de sécurité:
 
 * les mesures d'hygiène informatique
-* les mesures règlementaires
+* les mesures règlementaires et normatives
 * les mesures issues de l'analyse de risque
 
 ![](assets/pyramide.png)
