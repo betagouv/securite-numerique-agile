@@ -16,5 +16,5 @@ Les **mesures réglementaires et normatives** complètent ce socle d’hygiè
 
 Les **mesures issues des ateliers d’analyse** de risque complètent le socle ci-dessus par des mesures contextuelles, spécifiques à la mise en œuvre technique et fonctionnelle du produit ou service au sein de son écosystème \(exemples : mise en place d’une liste blanche pour sécuriser un processus de traitement automatisé, durcissement d’une mesure d’hygiène, adaptation d’une mesure réglementaire\). Ces mesures permettent au produit d’être robuste et résilient à des menaces plus particulièrement ciblées et/ou sophistiquées jugées plausibles.
 
-L'analyse de risque n'a donc pas vocation à ré-identifier des mesures de sécurité connues ou imposées, qui relèvent respectivement de l'hygiène ou de la règlementation.
+L'analyse de risque n'a donc pas vocation à ré-identifier des mesures de sécurité connues ou imposées, qui relèvent respectivement de l'hygiène et de la règlementation.
 
