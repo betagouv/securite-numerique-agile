@@ -12,17 +12,23 @@ Référentiel des pratiques Agiles - Institut Agile & Agile Alliance
 
 Security Test Driven Development: [http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus](http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus)
 
+DevOps
+
 ### Développement sécurisé
 
-OWASP
+Vous trouverez sur le site de l'ANSSI un ensemble de guides de recommandations et de bonnes pratiques vous permettant de sécuriser un produit et de lui conférer un socle de sécurité à l'état de l'art \(cryptographie, postes de travail et serveurs, liaisons sans fil et mobilité, réseaux, applications Web, externalisation, systèmes industriels, technologies sans contact, archivage électronique, etc.\) : [http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/](http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/) 
 
-### Homologation & méthodologies
+_OWASP Proactive Controls_ propose une liste de dix contrôles de sécurité préventifs dédiés au développement de logiciel. Ces techniques sont classées par ordre d’importance décroissant. Ce document a été écrit par des développeurs pour les développeurs afin d’accompagner ceux qui sont nouveaux dans le développement sécurisé.
 
-Guide ANSSI "L'homologation de sécurité en 9 étapes simples": http://www.ssi.gouv.fr/entreprise/guide/lhomologation-de-securite-en-neuf-etapes-simples/
+SAFECode - Security Guidance for Agile Practitioners
 
-Méthode EBIOS "Expression des besoins et identification des objectifs de sécurité" : http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/
+### Pratiques d'homologation
 
-Vous trouverez sur le site de l'ANSSI d'autres guides et bases de connaissances vous permettant d'approfondir vos pratiques en matière par exemple de défense en profondeur, d'élaboration d'une PSSI, 
+Guide ANSSI "L'homologation de sécurité en 9 étapes simples": [http://www.ssi.gouv.fr/entreprise/guide/lhomologation-de-securite-en-neuf-etapes-simples/](http://www.ssi.gouv.fr/entreprise/guide/lhomologation-de-securite-en-neuf-etapes-simples/)
 
+Méthode EBIOS "Expression des besoins et identification des objectifs de sécurité" : [http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/](http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/)
 
+Vous trouverez également sur le site de l'ANSSI d'autres guides et bases de connaissances vous permettant d'approfondir vos pratiques en matière par exemple de défense en profondeur, d'élaboration d'une PSSI, d'élaboration d'un plan de montée en maturité SSI : [http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/methodologie/](http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/methodologie/)
+
+ 
 
