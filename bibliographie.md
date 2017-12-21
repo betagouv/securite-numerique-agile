@@ -30,5 +30,13 @@ Méthode EBIOS "Expression des besoins et identification des objectifs de sécur
 
 Vous trouverez également sur le site de l'ANSSI d'autres guides et bases de connaissances vous permettant d'approfondir vos pratiques en matière par exemple de défense en profondeur, d'élaboration d'une PSSI, d'élaboration d'un plan de montée en maturité SSI : [http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/methodologie/](http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/methodologie/)
 
-Nous citons enfin les bases de connaissances suivantes qui pourront vous aider à identifier et évaluer les scénarios de menaces dans le cadre de vos ateliers d'analyse de risque : base de connaissances EBIOS de l'ANSSI \([http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/](http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/)\), _Tactical Threat Modeling_ de SAFECode \([https://safecode.org/publications/](https://safecode.org/publications/)\), base de connaissances STRIDE de Microsoft \(\), métrique DREAD _de Risk Rating Security Threats_ \([https://wiki.openstack.org/wiki/Security/OSSA-Metrics\#DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD) ou [https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#DREAD](https://www.owasp.org/index.php/Threat_Risk_Modeling#DREAD)\), framework du NIST 
+Nous citons enfin les outils suivants qui pourront vous aider à identifier, évaluer et prioriser les scénarios de menaces dimensionnants dans le cadre de vos ateliers d'analyse de risque : 
+
+* base de connaissances EBIOS de l'ANSSI \([http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/](http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/)\), 
+* _Tactical Threat Modeling_ de SAFECode \([https://safecode.org/publications/](https://safecode.org/publications/)\), 
+* _STRIDE Threat Model_ de Microsoft \([https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#STRIDE](https://www.owasp.org/index.php/Threat_Risk_Modeling#STRIDE)\), 
+* métrique DREAD _de Risk Rating Security Threats_ \([https://wiki.openstack.org/wiki/Security/OSSA-Metrics\#DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD) ou [https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#DREAD](https://www.owasp.org/index.php/Threat_Risk_Modeling#DREAD)\), 
+* framework du NIST
+
+
 
