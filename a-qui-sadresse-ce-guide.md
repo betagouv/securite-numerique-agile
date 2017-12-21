@@ -2,7 +2,7 @@
 
 Ce guide est intitulé « Intégrer la sécurité numérique dans une démarche Agile ». Il n'a pas pour intention d'épuiser le sujet, ni d'être exhaustif sur les bases théoriques de la sécurité numérique ou de la démarche Agile, mais de donner un canevas pratique et concret pour les équipes concernées et qui souhaitent traiter la question de la sécurité.
 
-Nous vous renvoyons notamment aux fiches mémo présentes en annexe, qui rentrent dans le détail de la démarche d'analyse et de traitement des risques numériques, ou à la bibliographie pour des sources proposant des guides et bases de connaissances en matière de développement sécurisé, et permettant d'approfondir ce qu'on entend par « Agile » - une question qui entraîne des [débats](http://agilefocus.com/2009/02/06/agile-versus-agile/) sans fin.
+Nous vous renvoyons notamment aux fiches mémo présentes en annexe, qui rentrent dans le détail de la démarche d'analyse et de traitement des risques numériques, ou à la bibliographie pour des sources proposant des bases de connaissances en matière de développement sécurisé, et permettant d'approfondir ce qu'on entend par « Agile » - une question qui entraîne des [débats](http://agilefocus.com/2009/02/06/agile-versus-agile/) sans fin.
 
 Pour les cerner de façon concrète, nous avons conçu ce guide pour des équipes dans lesquelles :
 
