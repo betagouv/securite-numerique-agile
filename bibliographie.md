@@ -1,6 +1,6 @@
 # Bibliographie
 
-La présente bibliographie n'est pas exhaustive. Elle constitue un bon point de départ pour tout organisme souhaitant approfondir ses connaissances ou bâtir son propre référentiel en matière de démarche Agile, de développement sécurisé et de pratiques d'homologation. Les références externes à celles de l'ANSSI ou de la DINSIC sont données à titre d'information.
+Les sources ci-après constituent un bon point de départ pour tout organisme souhaitant approfondir ses connaissances ou bâtir son propre référentiel en matière de démarche Agile, de développement sécurisé ou de pratiques d'homologation. Cette bibliographie ne se veut pas exhasutive. Les références externes à celles de l'ANSSI ou de la DINSIC sont données à titre d'information.
 
 ### Démarche Agile
 
@@ -35,8 +35,7 @@ Nous citons enfin les outils pratiques suivants qui pourront vous aider à ident
 * base de connaissances EBIOS de l'ANSSI \([http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/](http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/)\), 
 * _Tactical Threat Modeling_ de SAFECode \([https://safecode.org/publications/](https://safecode.org/publications/)\), 
 * _STRIDE Threat Model_ de Microsoft \([https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#STRIDE](https://www.owasp.org/index.php/Threat_Risk_Modeling#STRIDE)\), 
-* DREAD _Risk Rating Security Threats_ \([https://wiki.openstack.org/wiki/Security/OSSA-Metrics\#DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD) ou [https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#DREAD](https://www.owasp.org/index.php/Threat_Risk_Modeling#DREAD)\), 
-* framework du NIST
+* DREAD _Risk Rating Security Threats_ \([https://wiki.openstack.org/wiki/Security/OSSA-Metrics\#DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD) ou [https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#DREAD](https://www.owasp.org/index.php/Threat_Risk_Modeling#DREAD)\).
 
 
 
