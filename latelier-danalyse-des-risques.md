@@ -6,9 +6,11 @@ L’atelier type d’analyse de risque lors d’une itération se déroule dans 
 
 * le format est présentiel,
 * toute l'équipe est présente — et seulement l'équipe, mais nous allons nuancer ci-dessous,
-* la durée est limitée, quitte à programmer plusieurs ateliers \(une durée de une heure minimum à trois heures maximum, pause comprise, est appropriée\).
+* la durée est limitée, quitte à programmer plusieurs ateliers \(une durée de une à trois heures, pause comprise, est appropriée\).
 
 Le support d’animation de l’atelier peut consister en une feuille au format paper board ou Post-It géant. Au fur et à mesure de la discussion les éléments d’analyse des risques émergeront sous la forme de post-its de couleurs différentes. Nous allons détailler plus loin ces éléments et le canevas pour les structurer, mais voici à quoi cela pourrait ressembler :
+
+_**==&gt; Pour l'équipe d'infographie : ici sera inséré, en lieu et place des deux visuels, une photo ou un visuel illustrant un atelier.**_
 
 ![](assets/atelier-1.jpg)![](assets/atelier-2.JPG)
 
