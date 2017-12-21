@@ -20,7 +20,7 @@ Vous trouverez sur le site de l'ANSSI un ensemble de guides de recommandations e
 
 _OWASP Proactive Controls_ propose une liste de dix contrôles de sécurité préventifs dédiés au développement de logiciel. Ces techniques sont classées par ordre d’importance décroissant. Ce document a été écrit par des développeurs pour les développeurs afin d’accompagner ceux qui sont nouveaux dans le développement sécurisé : xxxxx
 
-_SAFECode - Software Security Guidance for Agile Practitioners -_ propose des recommandations pratiques aux praticiens de l’Agile sous la forme de « user stories » centrées sur la sécurité et les tâches de sécurité qu'ils peuvent facilement intégrer dans leurs environnements de développement Agile : xxxxx
+_SAFECode - Security Guidance for Agile Practitioners -_ propose des recommandations pratiques aux praticiens de l’Agile sous la forme de « user stories » centrées sur la sécurité et les tâches de sécurité qu'ils peuvent facilement intégrer dans leurs environnements de développement Agile : [https://safecode.org/publications/](https://safecode.org/publications/)
 
 ### Pratiques d'homologation et d'analyse de risque
 
@@ -30,5 +30,5 @@ Méthode EBIOS "Expression des besoins et identification des objectifs de sécur
 
 Vous trouverez également sur le site de l'ANSSI d'autres guides et bases de connaissances vous permettant d'approfondir vos pratiques en matière par exemple de défense en profondeur, d'élaboration d'une PSSI, d'élaboration d'un plan de montée en maturité SSI : [http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/methodologie/](http://www.ssi.gouv.fr/entreprise/bonnes-pratiques/methodologie/)
 
-Nous citons enfin les outils suivants
+Nous citons enfin les références suivantes qui pourront vous aider à identifier de façon structurée les menaces et vulnérabilités dans le cadre de vos ateliers d'analyse de risque : base de sonnaissances EBIOS \([http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/](http://www.ssi.gouv.fr/entreprise/guide/ebios-2010-expression-des-besoins-et-identification-des-objectifs-de-securite/)\), _Tactical Threat Modeling_ de SAFECode \([https://safecode.org/publications/](https://safecode.org/publications/)\), 
 
