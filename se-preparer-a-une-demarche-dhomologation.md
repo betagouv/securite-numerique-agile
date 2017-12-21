@@ -32,9 +32,9 @@ Une décision d'homologation ferme pourra être prononcée dès lors qu'un produ
 
 Si l'équipe n'a pas eu recours aux services d'un·e expert·e SSI pendant les ateliers d'analyse des risques, ni à l'intervention d'un auditeur externe pour réaliser par exemple des tests d'intrusion ou une revue de code axée sur les besoins de sécurité, ces vérifications extérieures s'imposent comme préalables à une décision ferme.
 
-La mise en place d'un **plan d'amélioration continue de la sécurité** pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation. Ce plan garantit la montée en puissance et en maturité de la sécurité du produit, et permet une gestion priorisée des risques résiduels selon leur criticité. 
+La mise en place d'un **plan d'amélioration continue de la sécurité** pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation. Ce plan garantit la montée en puissance et en maturité de la sécurité du produit, et permet une gestion priorisée des **risques résiduels** selon leur criticité.
 
-Notez enfin qu'on prend soin de ne pas parler d'homologation « définitive » — le caractère évolutif du logiciel impose de réévaluer périodiquement les risques, quand bien même le logiciel serait resté inchangé — ce qui n'arrive en pratique que rarement…
+Notez enfin qu'on prend soin de ne pas parler d'homologation « définitive » — le caractère évolutif du produit impose de réévaluer périodiquement les risques, quand bien même le produit serait resté inchangé — ce qui n'arrive en pratique que rarement…
 
 ### Formaliser le dossier d'homologation
 
