@@ -12,13 +12,13 @@ Les livrables de l'atelier d'analyse des risques, tel que nous l'avons présent�
 
 Par conséquent, en vue de la préparation de l'homologation, l'équipe peut décider de donner la priorité à la réalisation et au suivi des mesures de sécurité pendant une itération.
 
-### Décision provisoire
+### Homologation provisoire
 
 Par hypothèse, l'équipe à laquelle ce guide s'adresse cherche à mettre rapidement une première version incomplète du produit ou du service, puis à l'étoffer progressivement par incréments fonctionnels.
 
 Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'**adapter le niveau de risque résiduel accepté à un contexte donné**. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume ou à l'intensité d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de transactions, etc.
 
-Ces critères de validité doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on est resté ou non dans les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
+Ces **critères de validité** doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on est resté ou non dans les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
 
 Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décliner en trois jalons :
 
@@ -26,13 +26,13 @@ Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décl
 * Un jalon « autorisation provisoire d'exploitation » \(APE\), pour une durée maximale de 12 mois, et un plafond de 1000 courses
 * Un jalon « mise en service ferme » tel que décrit ci-dessous
 
-### Décision ferme
+### Homologation ferme
 
 Une décision d'homologation ferme pourra être prononcée dès lors qu'un produit ou un service aura atteint son « régime de croisière ». Elle est généralement assortie d'une période de validité plus longue \(3 ans étant une valeur typique\) et vise le contexte d'exploitation normalement prévu, sans restrictions particulières d'usage.
 
 Si l'équipe n'a pas eu recours aux services d'un·e expert·e SSI pendant les ateliers d'analyse des risques, ni à l'intervention d'un auditeur externe pour réaliser par exemple des tests d'intrusion ou une revue de code axée sur les besoins de sécurité, ces vérifications extérieures s'imposent comme préalables à une décision ferme.
 
-La mise en place d'un plan d'amélioration continue de la sécurité pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation.
+La mise en place d'un **plan d'amélioration continue de la sécurité** pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation. Ce plan garantit la montée en puissance et en maturité de la sécurité du produit, et permet une gestion priorisée des risques résiduels selon leur criticité. 
 
 Notez enfin qu'on prend soin de ne pas parler d'homologation « définitive » — le caractère évolutif du logiciel impose de réévaluer périodiquement les risques, quand bien même le logiciel serait resté inchangé — ce qui n'arrive en pratique que rarement…
 
