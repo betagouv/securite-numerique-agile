@@ -37,5 +37,7 @@ Nous citons enfin les outils pratiques suivants qui pourront vous aider à ident
 * _STRIDE Threat Model_ de Microsoft \([https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#STRIDE](https://www.owasp.org/index.php/Threat_Risk_Modeling#STRIDE)\), 
 * DREAD _Risk Rating Security Threats_ \([https://wiki.openstack.org/wiki/Security/OSSA-Metrics\#DREAD](https://wiki.openstack.org/wiki/Security/OSSA-Metrics#DREAD) ou [https://www.owasp.org/index.php/Threat\_Risk\_Modeling\#DREAD](https://www.owasp.org/index.php/Threat_Risk_Modeling#DREAD)\).
 
+### Réglementation
 
+Le lecteur pourra se reporter au site de l'ANSSI qui présente un panorama des textes réglementaires en matière de cybersécurité, relatifs à la protection des systèmes d’information, à la confiance numérique, ainsi que plus spécifiquement à la cryptographie ou à d’autres réglementations techniques : [https://www.ssi.gouv.fr/entreprise/reglementation/](https://www.ssi.gouv.fr/entreprise/reglementation/).
 
