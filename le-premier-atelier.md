@@ -14,5 +14,3 @@ Pour ce système d'information nous avons donc déroulé l'ensemble de la démar
 
 
 
-![](/assets/Pense-bête.jpg)
-
