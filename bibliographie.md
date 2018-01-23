@@ -4,15 +4,13 @@ Les sources ci-après constituent un bon point de départ pour tout organisme so
 
 ### Démarche Agile
 
-"Gestion de Projet : Vers les méthodes agiles" de V Messager
+_[Le Manifeste Agile](http://agilemanifesto.org/iso/fr/manifesto.html)_ est le document « historique » et de ce fait incontournable pour qui souhaite maîtriser le sujet ; toute la littérature qui suit se répartit en deux catégories, des gloses sur le Manifeste et des retours d'expériences du terrain.
 
-[https://www.agiliste.fr/introduction-methodes-agiles/](https://www.agiliste.fr/introduction-methodes-agiles/) ou équivalent
+_[Le Référentiel des pratiques Agiles](http://institut-agile.fr/)_ de l'Institut Agile, avec le soutien de l'association Agile Alliance, vise un recensement des pratiques les plus répandues dans la communauté. On l'utilisera avec profit comme un glossaire étendu permettant d'éviter des incompréhensions : la littérature sur le sujet est en effet riche en jargon, souvent anglophone, qui déroute parfois les néophytes.
 
-Référentiel des pratiques Agiles - Institut Agile & Agile Alliance
+_Gestion de projet agile, avec Scrum, Lean, Extreme Programming..._ de Véronique Messager propose aux personnes ayant le rôle (formel ou informel) de Chef de Projet un tour d'horizon, tenant compte des spécificités du contexte français, de l'historique des démarches Agiles et des principales ruptures avec les doctrines antérieures de gestion de projet. Il s'appuie sur les témoignages de nombreux experts issus de la communauté Agile francophone.
 
-Security Test Driven Development: [http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus](http://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus)
-
-DevOps
+_The Phoenix Project_ de Gene Kim est une bonne introduction à l'un des domaines les plus récemment développés par la communauté Agile : les principes et pratiques regroupées sous l'étiquette Devops. Sous une forme inédite (c'est un roman) il constitue une entrée en matière accessible et efficace.
 
 ### Développement sécurisé
 
