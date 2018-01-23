@@ -1,4 +1,4 @@
-## La prise en compte incrémentale du risque: la clé de la "compatibilité" Agile
+## La prise en compte incrémentale du risque: la clé de la « compatibilité » Agile
 
 Dans une démarche EBIOS classique, l'équipe définit les besoins de sécurité de l'application et les façons d'y répondre dès la phase de conception du projet. Certains risques sécuritaires impacteront l'expérience utilisateur avant même que le service ait un premier utilisateur. Dans une démarche Agile, l’équipe cherche à livrer très tôt de la valeur à un public et espère « gagner des parts de marché » en suscitant de l'adhésion.
 
