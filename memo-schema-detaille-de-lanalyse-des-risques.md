@@ -44,7 +44,7 @@ L’identification des composants peut être structurée comme suit :
 * Organisations : structures organisationnelles, processus métiers et supports, ressources humaines
 * Systèmes numériques matériels et logiciels : systèmes informatiques et de téléphonie, réseaux de \(télé\)-communication.
 
-Le degré de granularité dans la description des composants sera adapté au niveau de connaissance du produit lors de l’atelier. Enfin, les composants prioritaires à recenser sont ceux qui contribuent \(de façon directe ou indirecte\) aux _user stories_ ayant des besoins de sécurité "importants".
+Le degré de granularité dans la description des composants sera adapté au niveau de connaissance du produit lors de l’atelier. Enfin, les composants prioritaires à recenser sont ceux qui contribuent \(de façon directe ou indirecte\) aux _user stories_ ayant des besoins de sécurité « importants ».
 
 \(5\) **Les scénarios de risques \(**_**abuser stories**_**\) et les mesures de traitement**
 
