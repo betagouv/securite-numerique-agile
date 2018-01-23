@@ -2,7 +2,7 @@
 
 Préalablement au premier atelier, ou en début de séance, il est important de définir le périmètre de l’analyse : qu’est-ce qui est « dedans », et engage la responsabilité de l’équipe et de sa hiérarchie; qu’est-ce qui est « dehors » et relève éventuellement d’autres acteurs.
 
-Pour lancer ce premier atelier vous pouvez proposer le cadrage suivant: « Nous sommes un mois après le lancement du produit, et vous découvrez avec horreur un article dans la presse nationale qui fait état d’une énorme faille de sécurité exploitée avec succès. Quels sont les scénarios de menaces possibles qui vous viennent à l’esprit ? »
+Pour lancer ce premier atelier vous pouvez proposer le cadrage suivant[^1]: « Nous sommes un mois après le lancement du produit, et vous découvrez avec horreur un article dans la presse nationale qui fait état d’une énorme faille de sécurité exploitée avec succès. Quels sont les scénarios de menaces possibles qui vous viennent à l’esprit ? »
 
 Cet exercice permettra de concentrer l’attention des participants sur les enjeux et besoins de sécurité les plus importants, et permettra d’amorcer la discussion. Une fois que celle-ci cesse de produire de nouvelles idées, proposez aux participants de formaliser ce qui a émergé de l’atelier en consultant la section suivante.
 
@@ -18,3 +18,4 @@ Afin d'illustrer concrètement la démarche proposée, nous avons choisi de rend
 
 Pour ce système d'information nous avons donc déroulé l'ensemble de la démarche telle qu'elle est présentée dans ce guide, du premier atelier \(organisé alors que le système était en production depuis quelque temps\), jusqu'à la constitution d'un dossier en vue d'une homologation temporaire et la décision d'homologation par la DINSIC. Nous présentons ci-dessous plusieurs exemples extraits de ces ateliers et de leurs livrables, et vous trouverez également l'analyse de risque complète en fiche mémo.
 
+[^1]: L'intention est de se projeter dans l'avenir pour mieux parler de ce qu'on va faire *maintenant*, au commencement. Ce format d'atelier est parfois appelé « [futurespective](http://www.funretrospectives.com/category/futurespective/) », en référence aux « [rétrospectives](http://referentiel.institut-agile.fr/retro.html) » pratiquées par de nombreuses équipes Agiles pour faire le bilan d'une période passée.
