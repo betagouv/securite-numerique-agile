@@ -1,6 +1,6 @@
 # Bibliographie
 
-Les sources ci-après constituent un bon point de départ pour tout organisme souhaitant approfondir ses connaissances ou bâtir son propre référentiel en matière de démarche Agile, de développement sécurisé ou de pratiques d'homologation. Cette bibliographie ne se veut pas exhasutive. Les références externes à celles de l'ANSSI ou de la DINSIC sont données à titre d'information.
+Les sources ci-après constituent un bon point de départ pour tout organisme souhaitant approfondir ses connaissances ou bâtir son propre référentiel en matière de démarche Agile, de développement sécurisé ou de pratiques d'homologation. Cette bibliographie ne se veut pas exhaustive. Les références externes à celles de l'ANSSI ou de la DINSIC sont données à titre d'information.
 
 ### Démarche Agile
 
