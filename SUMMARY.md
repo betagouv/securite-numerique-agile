@@ -16,6 +16,5 @@
 * [Mémo: les clés pour identifier vos risques numériques dimensionnants](memo-les-cles-pour-identifier-vos-risques-numeriques-dimensionnants.md)
 * [Mémo: le canevas de l'analyse des risques](memo-schema-detaille-de-lanalyse-des-risques.md)
 * [Mémo: un exemple complet](memo-un-exemple-complet.md)
-* [Annexes](annexes.md)
 * [Glossaire](glossaire.md)
 * [Bibliographie](bibliographie.md)
