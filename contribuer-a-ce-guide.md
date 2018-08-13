@@ -4,7 +4,7 @@ La présente version de ce guide ne constitue qu'un point de départ. Comme tout
 
 Nous vous invitons donc à essayer pour vous-même, en l'état ou en les modifiant, les idées et pratiques qui y sont contenues, et à nous transmettre vos retours à l'adresse securite-agile@beta.gouv.fr — afin que d'autres équipes puissent à leur tour profiter de votre expérience et continuer à l'enrichir.
 
-Vous trouverez également ce guide sur Github: [https://github.com/sgmap/securite-numerique-agile](https://github.com/sgmap/securite-numerique-agile)
+Vous trouverez également ce guide sur Github: [https://github.com/betagouv/securite-numerique-agile](https://github.com/sgmap/securite-numerique-agile)
 
 
 
