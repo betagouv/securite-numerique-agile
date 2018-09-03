@@ -4,12 +4,12 @@ Intitulé « Agilité & sécurité numériques – Méthode et outils à l’usa
 
 De l’analyse au traitement des risques numériques, des fiches mémo, exemples et ressources documentaires *vous accompagnent pas à pas dans le développement sécurisé de vos projets*.
 
-Pour les cerner de façon concrète, nous avons conçu ce guide pour des équipes dans lesquelles :
+Plus précisément, sont concernées par ce document les équipes dont :
 
-* le principal objectif est de livrer rapidement et fréquemment un produit ou un service[^1] à ses usagers, pour résoudre un problème auquel ceux-ci sont confrontés ;
-* des personnes dotées de compétences diverses \(techniques et non techniques\) travaillent ensemble au quotidien ;
-* les membres de l'équipe ont assez d'autonomie pour décider ensemble, sans en référer à leur hiérarchie, de l'organisation de leur propre travail ;
-* l'équipe porte une attention particulière à la qualité de ce qu'elle produit, s'outille en conséquence et cherche en permanence à s'améliorer.
+* le principal objectif est de livrer rapidement et fréquemment un produit ou un service à ses usagers, pour résoudre un problème auquel ceux-ci sont confrontés ;
+* les membres sont dotés de compétences diverses – techniques ou non – et travaillent ensemble au quotidien ;
+* les membres sont suffisamment autonomes pour décider ensemble de l'organisation de leur propre travail ;
+* l’attention est prioritairement tournée vers la qualité de ce qu'elles produisent et qui s'outillent en conséquence dans un souci permanent d'amélioration.
 
 Généralement, ces caractéristiques s'observent dans des équipes plutôt réduites \(souvent de 5 à 10 personnes\), et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel \(task board, etc.\), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations, et ainsi de suite; cependant, prises individuellement aucune de ces propriétés n'est essentielle à « l'Agilité ».
 
