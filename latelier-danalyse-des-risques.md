@@ -2,11 +2,10 @@
 
 Nos recommandations concrètes envers les équipes agiles peuvent se résumer ainsi : **l'équipe se réunit à intervalles réguliers et munie d’outils, pour discuter des risques numériques qui peuvent impacter les usagers de son service ou produit et décider de la meilleure manière de traiter ces risques**. Le moteur de la prise en compte des risques prend la forme d’un atelier organisé à intervalles réguliers au cours duquel l’équipe discute des risques numériques encourus par les usagers d’un service ou d’un produit donné en vue de déterminer la manière la plus appropriée de les traiter.
 
-L’atelier type d’analyse de risque lors d’une itération se déroule dans les conditions usuelles pour des équipes agiles :
+Pour les équipes agiles, un atelier type d’analyse de risque se déroule dans les conditions suivantes :
 
-* le format est présentiel,
-* toute l'équipe est présente — et seulement l'équipe, mais nous allons nuancer ci-dessous,
-* la durée est limitée, quitte à programmer plusieurs ateliers \(une durée de une à trois heures, pause comprise, est appropriée\).
+* présence de toute l'équipe et seulement l'équipe ;
+* durée fixe et limitée (une à trois heures), mieux vaut privilégier la programmation de plusieurs ateliers.
 
 Le support d’animation de l’atelier peut consister en une feuille au format paper board ou Post-It géant. Au fur et à mesure de la discussion les éléments d’analyse des risques émergeront sous la forme de post-its de couleurs différentes. Nous allons détailler plus loin ces éléments et le canevas pour les structurer, mais voici à quoi cela pourrait ressembler :
 
