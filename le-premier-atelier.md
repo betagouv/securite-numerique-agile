@@ -14,7 +14,11 @@ N'hésitez pas à ordonnancer dès ce premier atelier les grandes étapes qui gu
 
 ![](assets/Pense-bête.jpg)
 
-En amont de cet atelier, vous pouvez explorer pour vous-même, et inviter les participant à prendre connaissance, d'autres éléments de cadrage qui pourront s'avérer structurants : les référentiels réglementaires et normatifs applicables, les guides d'hygiène numérique qui constitueront le socle de sécurité du produit, les bases de connaissances susceptibles de guider l'analyse des risques, la stratégie d'homologation visée.
+Ressources utiles :
+- référentiels réglementaires et normatifs applicables
+- guides d'hygiène informatique
+- bases de connaissances susceptibles de guider l'analyse de risque
+- stratégie d'homologation visée
 
 ### Un exemple suivi pas à pas: Le.Taxi
 
