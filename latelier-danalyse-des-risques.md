@@ -26,7 +26,7 @@ Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher 
 * maintenir un climat bienveillant
 * surveiller l'horloge… un bon atelier ne déborde pas \(trop\) du temps imparti
 
-Une animation efficace suppose donc de bien maîtriser le canevas d'analyse de risque ; celui-ci est présenté schématiquement ci-après (section « Notion de risques : les bases à connaître et à transmettre ») et de façon plus détaillée et analytique en fiche mémo.
+Une animation efficace suppose également de bien maîtriser le canevas d'analyse de risque ; celui-ci est présenté schématiquement ci-après (section « Notion de risques : les bases à connaître et à transmettre ») et de façon plus détaillée et analytique en fiche mémo.
 
 ### Faut-il se faire accompagner ?
 
