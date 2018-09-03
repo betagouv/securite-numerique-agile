@@ -2,7 +2,7 @@
 
 Intitulé « Agilité & sécurité numériques – Méthode et outils à l’usage des équipes projet », ce guide explique de manière pratique et concrète aux équipes d’entités publiques et privées comment conduire un projet numérique de manière agile tout en considérant le volet sécurité.
 
-De l’analyse au traitement des risques numériques, des fiches mémo, exemples et ressources documentaires *vous accompagnent pas à pas dans le développement sécurisé de vos projets*.
+De l’analyse au traitement des risques numériques, des fiches mémo, exemples et ressources documentaires **vous accompagnent pas à pas dans le développement sécurisé de vos projets**.
 
 Plus précisément, sont concernées par ce document les équipes dont :
 
@@ -13,4 +13,4 @@ Plus précisément, sont concernées par ce document les équipes dont :
 
 Généralement, ces caractéristiques – sans être individuellement essentielles à « l’agilité » – s'observent dans des équipes plutôt réduites de 5 à 10 personnes et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel (task board, etc.), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations. Nous désignons l'ensemble des intervenants d'une telle équipe par le terme équipe produit.
 
-Enfin, s’agissant de la sécurité numérique, elle concerne toute organisation et tous types de projets. La méthode d'identification et de traitement des risques décrite dans ce guide permet de mettre en évidence quels sont, parmi ces risques numériques, les plus conséquents dans un contexte donné. Citons par exemple les attaques par rançongiciel, le vol de données, l’exploitation de vulnérabilités, mais également la fraude, le détournement d'usage, l’usurpation d’identité ou encore les actions de déstabilisation.
+Enfin, s’agissant de la **sécurité numérique**, elle concerne toute organisation et tous types de projets. La méthode d'identification et de traitement des risques décrite dans ce guide permet de mettre en évidence quels sont, parmi ces risques numériques, les plus conséquents dans un contexte donné. Citons par exemple les attaques par rançongiciel, le vol de données, l’exploitation de vulnérabilités, mais également la fraude, le détournement d'usage, l’usurpation d’identité ou encore les actions de déstabilisation.
