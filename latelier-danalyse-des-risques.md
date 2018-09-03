@@ -19,10 +19,10 @@ Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les
 
 Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. Véritable facilitateur, l'animateur de ces ateliers assume un rôle  particulièrement important dont voici quelques-unes des principales responsabilités :
 
-* s'assurer que la parole est bien répartie entre les différents participants à l'atelier
-* s'assurer que le groupe ne dévie pas du sujet à traiter
-* maintenir un climat bienveillant
-* surveiller l'horloge… un bon atelier ne déborde pas \(trop\) du temps imparti
+* répartition équilibrée de la prise de parole ;
+* cadrage et modération des échanges ;
+* maintien d’un climat de bienveillance ;
+* respect du temps : un bon atelier ne déborde pas (trop) du temps imparti.
 
 Pour une animation efficace, il est donc important de bien maîtriser le canevas d'analyse des risques ; celui-ci est présenté schématiquement ci-dessous \(section « Notion de risques : les bases à connaître et à transmettre »\) et de façon plus détaillé et analytique en fiche mémo.
 
