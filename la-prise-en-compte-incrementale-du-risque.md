@@ -1,8 +1,12 @@
 ## La prise en compte incrémentale du risque: la clé de la compatibilité _agile_
 
-Dans une démarche EBIOS classique, l'équipe définit les besoins de sécurité de l'application et les façons d'y répondre dès la phase de conception du projet. Certains risques sécuritaires impacteront l'expérience utilisateur avant même que le service ait un premier utilisateur. Dans une démarche Agile, l’équipe cherche à livrer très tôt de la valeur à un public et espère « gagner des parts de marché » en suscitant de l'adhésion.
+Dans une démarche sécuritaire classique, l'équipe définit les besoins de sécurité d’un produit donné et les façons d'y répondre dès la phase de conception du projet, les mesures de sécurité étant très souvent définies et mises en œuvre pour le produit final et son cas d’usage à la cible. Dans une démarche agile, l’équipe cherche à livrer très tôt de la valeur à un public donné tout en cherchant à susciter l'adhésion d’autres publics.
 
-Voici, illustrées graphiquement, ces deux conceptions opposées de ce que devrait être la “courbe de diffusion” d’un outil informatique. \(Nous avons détaillé cette comparaison dans un article du blog de l'Incubateur de Services Numériques auquel nous renvoyons le lecteur pour approfondissement.\)![](assets/projet-vs-produit.png)Pour une équipe dont l'objectif est de livrer rapidement de la valeur à ses utilisateurs, une évaluation pertinente du risque est donc obtenue en multipliant le nombre d’usagers par le risque encouru par chaque usager, pour déterminer une exposition totale réelle au risque d’attaques numériques.
+Voici, illustrées graphiquement, ces deux conceptions opposées de ce que devrait être la “courbe de diffusion” d’un outil informatique. \(Nous avons détaillé cette comparaison dans un article du blog de l'Incubateur de Services Numériques auquel nous renvoyons le lecteur pour approfondissement.\)
+
+![](assets/projet-vs-produit.png)
+
+Pour une équipe dont l'objectif est de livrer rapidement de la valeur à ses utilisateurs, une évaluation pertinente du risque est donc obtenue en multipliant le nombre d’usagers par le risque encouru par chaque usager, pour déterminer une exposition totale réelle au risque d’attaques numériques.
 
 Ainsi la prise en compte des enjeux de sécurité par une équipe agile est continue — tout au long de la construction et de l'amélioration du service — et « pragmatique[^1] » — elle priorise les efforts en fonction du risque réel et assume l’existence de risques résiduels. Ce principe de management de la sécurité numérique par les risques est celui qui guide la démarche proposée. 
 
