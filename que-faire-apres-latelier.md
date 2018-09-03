@@ -1,4 +1,4 @@
-## Que faire après chaque atelier
+## Que faire après chaque atelier ?
 
 L'atelier initial ne sera peut-être pas suffisant pour que l'équipe se sente entièrement en confiance quant à son traitement des risques numériques, notamment si c'est la première fois qu'elle met en pratique cette démarche, ou si le sujet est particulièrement sensible. Il est parfaitement normal que vous ressentiez le besoin de répéter l'exercice, et tout à fait cohérent avec une approche itérative et incrémentale.
 
