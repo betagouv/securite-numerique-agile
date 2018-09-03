@@ -14,4 +14,4 @@ La figure ci-dessous superpose à la courbe de diffusion une courbe hypothétiqu
 
 ![](assets/risque-produit.png)
 
-L’important est donc de s’assurer qu’on arrive au point d’inflexion en ayant couvert les risques numériques les plus importants et non pas de traiter “tous les risques” en amont. Consentir un travail conséquent en sécurité numérique en amont de ce point est  doublement improductif. On aura dépensé des ressources qui auraient pu être investies dans une meilleure compréhension du besoin, alors que le gain réel en termes de sécurité sera resté très marginal.
+L’important est donc de s’assurer d’arriver au point d’inflexion en ayant couvert les risques numériques les plus importants, la recherche de l’exhaustivité n’étant pas forcément prioritaire, sous peine d’allouer des ressources conséquentes pour un résultat mitigé alors que ces dernières auraient pu être investies dans une meilleure compréhension du besoin.
