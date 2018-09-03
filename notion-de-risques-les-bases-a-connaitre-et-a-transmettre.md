@@ -26,9 +26,8 @@ Chaque besoin de sécurité identifié constitue le point de départ pour décri
 | **Evenements redoutés** | **Impact métier** | Sévérité |
 | --- | --- | --- |
 | Le système ne répond pas | Expérience utilisateurs dégradée -&gt; perte de clients | _\*_ |
-| Un opérateur de taxis émet de fausses positions | Fausses adéquations clients-taxi -&gt; perte de clients | _\*_ |
-| Un taxi fait une course d'approche en pure perte | Manque d'adhésion des taxis -&gt; offre trop faible | \*\* |
-| Un taxi s'enregistre avec de fausses informations | Captation abusive de courses -&gt; perte de confiance, risque juridique | \* |
+| Un opérateur de taxis émet de fausses positions | Qualité de service dégradée -&gt; perte de clients | _\*_ |
+| Un taxi fait une course d'approche en pure perte | Perte de confiance et d’adhésion des taxis -&gt; désengagement aboutissant à une réduction de l’offre de taxis  | \*\* |
 
 ### Les risques résultent de la combinaison des éléments de l'analyse
 
