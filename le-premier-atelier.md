@@ -25,5 +25,3 @@ Ressources utiles :
 Afin d'illustrer concrètement la démarche proposée, nous avons choisi de rendre compte du premier cas réel dans lequel elle a été utilisée. Il s'agit de la plateforme nationale Le.Taxi dont la mission est d’informer sur la disponibilité et la géolocalisation des véhicules des opérateurs de taxi participants.
 
 *Pour ce système d'information, nous avons souhaité retracer dans ce guide l'ensemble de la démarche, du premier atelier à la constitution du dossier d’homologation. L'analyse de risque complète est disponible en fiche mémo et les exemples à suivre sont issus de ces ateliers et de leurs livrables.*
-
-[^1]: L'intention est de se projeter dans l'avenir pour mieux parler de ce qu'on va faire *maintenant*, au commencement. Ce format d'atelier est parfois appelé « [futurespective](http://www.funretrospectives.com/category/futurespective/) », en référence aux « [rétrospectives](http://referentiel.institut-agile.fr/retro.html) » pratiquées par de nombreuses équipes Agiles pour faire le bilan d'une période passée.
