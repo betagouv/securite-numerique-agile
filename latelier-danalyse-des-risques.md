@@ -19,7 +19,7 @@ L’adage est bien connu: « Le meilleur moment pour planter un arbre, c’étai
 
 ### Comment animer l'atelier ?
 
-Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. **Véritable facilitateur, l'animateur de ces ateliers assume un rôle  particulièrement important dont voici quelques-unes des principales responsabilités :**
+Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. **Animer cet atelier, c'est occuper un rôle particulièrement important qui relève d'un véritable travail de facilitation et dont voici quelques-unes des principales responsabilités :**
 
 * s'assurer que la parole est bien répartie entre les différents participants à l'atelier
 * s'assurer que le groupe ne dévie pas du sujet à traiter
