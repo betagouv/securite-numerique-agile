@@ -12,7 +12,7 @@ Au fil des itérations, il deviendra périodiquement nécessaire d’actualiser 
 
 ### Dette sécuritaire
 
-Par analogie avec la dette technique, une équipe peut être amenée à différer le traitement de certains risques, dans le but de mettre plus rapidement de nouvelles version du produit ou du service entre les mains des usagers afin d'obtenir des retours ; on parlera alors de « dette sécuritaire ».
+Par analogie avec la dette technique, une équipe peut être amenée à différer le traitement de certains risques, dans le but de mettre plus rapidement de nouvelles versions du produit ou du service entre les mains des usagers et d'obtenir des retours de ces derniers : on parlera alors de « dette sécuritaire ».
 
 Notez cependant que le terme de « dette technique » sert trop souvent d'excuse à des équipes qui ne maîtrisent pas réellement la qualité de leur code. Il est risqué de privilégier systématiquement la réalisation de nouvelles fonctionnalités sans investir dans des pratiques de conception telles que le refactoring, l'automatisation en soutien du test ou la mise en commun des connaissances. On pourra observer de la même manière une carence d'attention portée à l'analyse de risques.
 
