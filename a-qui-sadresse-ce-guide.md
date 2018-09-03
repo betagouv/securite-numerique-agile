@@ -2,7 +2,7 @@
 
 Intitulé « Agilité & sécurité numériques – Méthode et outils à l’usage des équipes projet », ce guide explique de manière pratique et concrète aux équipes d’entités publiques et privées comment conduire un projet numérique de manière agile tout en considérant le volet sécurité.
 
-Nous vous renvoyons notamment aux fiches mémo présentes en annexe, qui rentrent dans le détail de la démarche d'analyse et de traitement des risques numériques, ou à la bibliographie pour des sources proposant des bases de connaissances en matière de développement sécurisé, et permettant d'approfondir ce qu'on entend par « Agile » - une question qui entraîne des [débats](http://agilefocus.com/2009/02/06/agile-versus-agile/) sans fin.
+De l’analyse au traitement des risques numériques, des fiches mémo, exemples et ressources documentaires *vous accompagnent pas à pas dans le développement sécurisé de vos projets*.
 
 Pour les cerner de façon concrète, nous avons conçu ce guide pour des équipes dans lesquelles :
 
