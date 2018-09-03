@@ -53,7 +53,7 @@ Commencez par ces quatre catégories qui ont tendance à constituer « l’angl
 
 Cette correspondance n’est qu’une suggestion, c’est ce qui a marché pour nous; n’hésitez pas à en dévier si cela a du sens pour vous.
 
-La notion d’une Abuser Story peut être intéressante pour les équipes déjà familières du jargon agile, puisqu’elle correspond au “revers” néfaste d’une “User Story”:
+Les scénarios de risques peuvent être nommés *abuser stories* car ils correspondent au revers néfaste d’une *user story* et engendrent une perte de valeur.
 
 ```
 En tant que <attaquant>
