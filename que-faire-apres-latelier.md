@@ -9,7 +9,5 @@ Pour favoriser la continuité de ce travail d'un atelier à l'autre, il est util
 * si l’équipe le fait pour les *user stories*, elles peuvent être priorisées, annotées par leurs définitions de *“Done”* et éventuellement *“Ready”*[^1]
 * la démonstration de la prise en compte des risques associés à une *abuser story* peut être faite par le biais de tests automatisés, comme c’est le cas pour les *user stories* : au lieu de démontrer par un test qu’un scénario fonctionnel aboutit, on cherchera à démontrer au contraire qu’un vecteur d’attaque n’aboutit pas.
 
-\(Une littérature abondante traite de l'automatisation des tests par les équipes agiles au titre de la recette du bon fonctionnement des produits, mais elle est nettement moins étoffée s'agissant de la prise en compte des mesures de sécurité. Nous espérons qu'une prochaine édition de ce guide, enrichie de retours d'expérience issus de la mise en oeuvre de ces propositions, permettra de traiter ce sujet de façon plus complète.\)
-
 [^1]: Merci à Baptiste Malguy pour cette suggestion.
 
