@@ -11,7 +11,7 @@ Plus précisément, sont concernées par ce document les équipes dont :
 * les membres sont suffisamment autonomes pour décider ensemble de l'organisation de leur propre travail ;
 * l’attention est prioritairement tournée vers la qualité de ce qu'elles produisent et qui s'outillent en conséquence dans un souci permanent d'amélioration.
 
-Généralement, ces caractéristiques s'observent dans des équipes plutôt réduites \(souvent de 5 à 10 personnes\), et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel \(task board, etc.\), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations, et ainsi de suite; cependant, prises individuellement aucune de ces propriétés n'est essentielle à « l'Agilité ».
+Généralement, ces caractéristiques – sans être individuellement essentielles à « l’agilité » – s'observent dans des équipes plutôt réduites de 5 à 10 personnes et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel (task board, etc.), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations. Nous désignons l'ensemble des intervenants d'une telle équipe par le terme équipe produit.
 
 Nous désignons l'ensemble des intervenants d'une telle équipe par le terme « équipe produit ». Afin d'éviter de trop ancrer notre discours dans celui de telle ou telle « chapelle » de cette grande communauté qu'est le mouvement Agile, nous ne distinguerons pas les rôles au sein de l'équipe de façon plus spécifique.
 
