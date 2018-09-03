@@ -1,6 +1,6 @@
-## L'analyse des risques: les bases à connaitre et transmettre
+## L’appréciation des risque : les bases à connaitre et à transmettre
 
-La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en users stories. Les users stories au niveau le plus macroscopique \(parfois appelée epics\) revêtent généralement un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
+**La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en *users stories*.** Les *users stories* au niveau le plus macroscopique (parfois appelées *epics*) revêtent généralement un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
 
 * \[D\] Disponibilité : la fonctionnalité peut être utilisée au moment voulu ;
 * \[I\] Intégrité : les données sont exactes et complètes ;
@@ -21,7 +21,7 @@ De par leur criticité vis-à-vis des enjeux opérationnels et réglementaires d
 
 ### Des besoins de sécurité aux événements redoutés
 
-Chaque besoin de sécurité identifié est le point de départ pour décrire un ou plusieurs _événements redoutés_ qui pourraient compromettre la valeur d'usage.
+Chaque besoin de sécurité identifié constitue le point de départ pour décrire un ou plusieurs événements redoutés susceptibles de compromettre la valeur d'usage.
 
 | **Evenements redoutés** | **Impact métier** | Sévérité |
 | --- | --- | --- |
