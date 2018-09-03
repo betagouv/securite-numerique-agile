@@ -32,12 +32,12 @@ Chaque besoin de sécurité identifié constitue le point de départ pour décri
 ### Les risques résultent de la combinaison des éléments de l'analyse
 
 Un risque décrit la réalisation d’un scénario de menace intentionnel ou accidentel :  
-1. une source de risque \(un attaquant par exemple\)  
+1. une source de risque \(un cybercriminel ou un fraudeur par exemple\)  
 2. par le biais d’un composant vulnérable du SI  
 3. provoque un événement redouté  
 4. occasionnant des impacts sur la valeur métier, directs et indirects \(humains, opérationnels, juridiques, etc.\)
 
-On lui associe une _criticité_ basée sur l'estimation conjointe de la _gravité_ des impacts et de la _vraisemblance_ du scénario de menace conduisant à l'événément redouté.
+On lui associe une criticité basée sur l'estimation conjointe de la gravité des impacts et de la vraisemblance du scénario de menace conduisant à l'événement redouté.
 
 Chacune des 4 catégories ci-dessus correspondra à une couleur de post-its. Voici une suggestion pour la correspondance entre les couleurs:
 
