@@ -2,7 +2,7 @@
 
 Dans une démarche sécuritaire classique, l'équipe définit les besoins de sécurité d’un produit donné et les façons d'y répondre dès la phase de conception du projet, les mesures de sécurité étant très souvent définies et mises en œuvre pour le produit final et son cas d’usage à la cible. Dans une démarche agile, l’équipe cherche à livrer très tôt de la valeur à un public donné tout en cherchant à susciter l'adhésion d’autres publics.
 
-Voici, illustrées graphiquement, ces deux conceptions opposées de ce que devrait être la “courbe de diffusion” d’un outil informatique. \(Nous avons détaillé cette comparaison dans un article du blog de l'Incubateur de Services Numériques auquel nous renvoyons le lecteur pour approfondissement.\)
+Voici, illustrées, deux conceptions opposées de ce que devrait être la courbe de diffusion d’un produit.
 
 ![](assets/projet-vs-produit.png)
 
