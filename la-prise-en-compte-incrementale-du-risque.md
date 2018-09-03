@@ -10,7 +10,7 @@ Pour une équipe dont l'objectif est de livrer rapidement de la valeur à ses ut
 
 Ainsi, la prise en compte des enjeux de sécurité par une équipe agile se veut continue (tout au long de la construction et de l'amélioration du service) et pragmatique puisqu’elle priorise les efforts en fonction du risque réel et assume l’existence de risques résiduels. *Ce principe de management de la sécurité numérique par les risques est celui qui guide la démarche proposée.*
 
-La façon de traiter la question de la sécurité numérique est donc très différente. La figure ci-dessous superpose à la courbe de diffusion une courbe hypothétique représentant le risque résiduel auquel un seul usager serait exposé. Initialement, le risque est substantiel mais avec une poignée d'utilisateurs il reste globalement acceptable; par contre, lorsque le produit devient un succès, l'équipe devra traiter plus agressivement les risques résiduels.
+La figure ci-dessous superpose à la courbe de diffusion une courbe hypothétique représentant le risque résiduel auquel un seul usager serait exposé. Initialement, le risque par usager est substantiel mais avec une poignée d'utilisateurs il reste globalement acceptable. Par contre, lorsque le produit devient un succès, l'équipe doit alors renforcer le traitement des risques résiduels.
 
 ![](assets/risque-produit.png)
 
