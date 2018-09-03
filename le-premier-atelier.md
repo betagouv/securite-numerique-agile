@@ -22,7 +22,7 @@ Ressources utiles :
 
 ### Un exemple suivi pas à pas: Le.Taxi
 
-Afin d'illustrer concrètement la démarche proposée, nous avons choisi de rendre compte du premier cas réel dans lequel elle a été utilisée. Il s'agit de la plateforme nationale Le.Taxi donnant accès aux informations de disponibilité et de géolocalisation des véhicules des opérateurs de taxi participants, développée dans le cadre des Startups d'État afin de proposer aux usagers des taxis la même qualité de service que leur proposent les VTC.
+Afin d'illustrer concrètement la démarche proposée, nous avons choisi de rendre compte du premier cas réel dans lequel elle a été utilisée. Il s'agit de la plateforme nationale Le.Taxi dont la mission est d’informer sur la disponibilité et la géolocalisation des véhicules des opérateurs de taxi participants.
 
 Pour ce système d'information nous avons donc déroulé l'ensemble de la démarche telle qu'elle est présentée dans ce guide, du premier atelier \(organisé alors que le système était en production depuis quelque temps\), jusqu'à la constitution d'un dossier en vue d'une homologation temporaire et la décision d'homologation par la DINSIC. Nous présentons ci-dessous plusieurs exemples extraits de ces ateliers et de leurs livrables, et vous trouverez également l'analyse de risque complète en fiche mémo.
 
