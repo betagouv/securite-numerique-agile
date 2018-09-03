@@ -1,6 +1,6 @@
 ## A qui s'adresse ce guide ?
 
-Intitulé « Agilité & sécurité numériques – Méthode et outils à l’usage des équipes projet », ce guide explique de manière pratique et concrète aux équipes d’entités publiques et privées comment conduire un projet numérique de manière agile tout en considérant le volet sécurité.
+Intitulé « Agilité & sécurité numériques – Méthode et outils à l’usage des équipes projet », ce guide explique de manière pratique et concrète aux équipes d’entités publiques et privées comment conduire un un développement numérique dans le cadre d'une équipe agile tout en considérant le volet sécurité.
 
 De l’analyse au traitement des risques numériques, des fiches mémo, exemples et ressources documentaires **vous accompagnent pas à pas dans le développement sécurisé de vos projets**.
 
