@@ -39,17 +39,17 @@ Un risque décrit la réalisation d’un scénario de menace intentionnel ou acc
 
 On lui associe une criticité basée sur l'estimation conjointe de la gravité des impacts et de la vraisemblance du scénario de menace conduisant à l'événement redouté.
 
-Chacune des 4 catégories ci-dessus correspondra à une couleur de post-its. Voici une suggestion pour la correspondance entre les couleurs:
+Chacune des quatre catégories ci-dessus correspondra à une couleur de *post-it*. Voici une suggestion pour la correspondance entre les couleurs :
 
-* Bleu pour les “user stories” macroscopiques, que vous annoterez avec les besoins de sécurité énumérés ci-dessus
-* Orange pour les sources de risque, le plus souvent des catégories d’attaquants
-* Vert pour les composants du SI
-* Rouge pour les événements redoutés
+* Bleu pour les *user stories* macroscopiques, que vous annoterez avec les besoins de sécurité énumérés ci-dessus ;
+* Orange pour les sources de risque, le plus souvent des catégories d’attaquants ;
+* Vert pour les composants du système d’information ;
+* Rouge pour les événements redoutés et leur gravité.
 
-Commencez par ces quatre catégories qui ont tendance à constituer “l’angle mort” pour beaucoup d’équipes. Réservez une couleur plus classique, le jaune, pour lister séparément et à la fin de l’exercice:
+Commencez par ces quatre catégories qui ont tendance à constituer « l’angle mort » pour beaucoup d’équipes. Réservez une couleur plus classique, le jaune par exemple, pour lister séparément à la fin de l’exercice :
 
-* les mesures de sécurité déjà mises en place
-* les mesures de sécurité à prendre, déjà connues ou qui ont émergé de la discussion
+* les mesures de sécurité déjà mises en place ;
+* les mesures de sécurité à prendre, déjà connues ou qui ont émergé de la discussion.
 
 Cette correspondance n’est qu’une suggestion, c’est ce qui a marché pour nous; n’hésitez pas à en dévier si cela a du sens pour vous.
 
