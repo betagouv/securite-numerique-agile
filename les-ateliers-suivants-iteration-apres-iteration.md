@@ -14,7 +14,6 @@ Au fil des itérations, il deviendra périodiquement nécessaire d’actualiser 
 
 Par analogie avec la dette technique, une équipe peut être amenée à différer le traitement de certains risques, dans le but de mettre plus rapidement de nouvelles versions du produit ou du service entre les mains des usagers et d'obtenir des retours de ces derniers : on parlera alors de « dette sécuritaire ».
 
-Notez cependant que le terme de « dette technique » sert trop souvent d'excuse à des équipes qui ne maîtrisent pas réellement la qualité de leur code. Il est risqué de privilégier systématiquement la réalisation de nouvelles fonctionnalités sans investir dans des pratiques de conception telles que le refactoring, l'automatisation en soutien du test ou la mise en commun des connaissances. On pourra observer de la même manière une carence d'attention portée à l'analyse de risques.
+Il est également risqué de privilégier le développement de nouvelles fonctionnalités sans investir dans des pratiques de conception telles que le développement piloté par des tests (refactoring), l'automatisation en soutien du test ou la mise en commun des connaissances. On pourra observer de la même manière une carence d'attention portée à l'analyse de risque.
 
-Dans les deux cas, un atelier d'analyse des risques tel que nous l'avons décrit ci-dessus peut amener l'équipe à réserver une part importante de sa capacité, ou consacrer une itération entière, à la prise en compte de la sécurité du système.
-
+Dans les deux cas, **un atelier d'analyse de risque tel que nous l'avons décrit plus haut peut amener l'équipe à réserver une part importante de sa capacité, ou consacrer une itération entière, à la prise en compte de la sécurité du système.**
