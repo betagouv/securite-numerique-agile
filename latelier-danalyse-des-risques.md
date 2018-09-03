@@ -28,7 +28,7 @@ Une animation efficace suppose donc de bien maîtriser le canevas d'analyse de r
 
 ### Faut-il se faire accompagner ?
 
-La présence d'un·e expert·e en sécurité des systèmes d'information \(SSI\) n'est pas indispensable pour la réussite de la démarche. Quelles que soient les conclusions de l'analyse des risques, c'est à l'équipe dans son ensemble qu'il incombera de les mettre en oeuvre — c'est une conséquence de notre définition d'une équipe « agile ». Les personnes pertinentes pour cet atelier sont donc les membres de l'équipe et eux seuls.
+La présence d'un expert en sécurité numérique n'est pas indispensable à la réussite de la démarche. Quelles que soient les conclusions de l'analyse de risque, c'est à l'équipe dans son ensemble qu'il incombera de mettre en œuvre les actions qui s’en dégagent et c'est notamment en cela que s’illustre l’agilité d'une équipe. 
 
 Notez bien en particulier qu'un atelier de travail n'est pas une réunion ; l'efficacité d'un atelier est conditionnée par une prise de parole et d'initiative à peu près équilibrée entre les différents participants, elle risque d'être diminuée par la présence d'observateurs, et a fortiori si des personnes qui n'ont pas de responsabilité pour la réalisation du produit y prennent une part active.
 
