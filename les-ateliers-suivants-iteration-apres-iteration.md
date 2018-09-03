@@ -2,10 +2,11 @@
 
 Au fil des itérations, il deviendra périodiquement nécessaire d’actualiser ou d’affiner le résultat du premier atelier, par exemple lors des événements suivants :
 
-* la réalisation d’une « user story » induit des évolutions d’architectures telles que l’ajout ou la modification d’un composant technique
-* la réalisation d’une « user story » amène à exposer des données d’une nature différente de celles qui étaient traitées \(par exemple des données personnelles alors que ce n’étais pas le cas auparavant\)
-* des retours des usagers amènent à évaluer différemment la valeur métier des différentes user stories, ou les besoins de sécurité associés à celles-ci
-* le nombre d’usagers ou le volume de transactions métier a évolué sensiblement, de sorte que l’exposition totale au risque a elle aussi évolué
+* la réalisation d’une *user story* induit des évolutions d’architecture telles que l’ajout ou la modification d’un composant technique ;
+* la réalisation d’une *user story* amène à exposer des données d’une autre nature que celles précédemment traitées \(des données personnelles par exemple, alors que ce n’était pas le cas auparavant\) ;
+* l’équipe réalise un atelier dédié à une fonctionnalité spécifique du produit, qui adresse une ou plusieurs *user stories* plus particulièrement sensibles en termes de sécurité ;
+* les retours des usagers amènent à évaluer différemment la valeur métier des différentes *user stories* ou les besoins de sécurité qui leur sont associés ;
+* le nombre d’usagers ou le volume de transactions métier a sensiblement évolué, de telle sorte que l’exposition totale au risque a elle aussi évolué.
 
 Comme pour les autres activités menées par les équipes agiles, le travail à réaliser alors est quasiment le même que lors du premier atelier. Au fil des itérations, l'équipe apprendra ainsi à tenir compte, dans son plan de charge, du temps consommé par les activités liées à la sécurité afin de lisser ce travail dans le temps - comme elle le fait pour les activités liées à la qualité.
 
