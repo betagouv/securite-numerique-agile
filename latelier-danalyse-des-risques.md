@@ -7,9 +7,7 @@ Pour les équipes agiles, un atelier type d’analyse de risque se déroule dans
 * présence de toute l'équipe et seulement l'équipe ;
 * durée fixe et limitée (une à trois heures), mieux vaut privilégier la programmation de plusieurs ateliers.
 
-Le support d’animation de l’atelier peut consister en une feuille au format paper board ou Post-It géant. Au fur et à mesure de la discussion les éléments d’analyse des risques émergeront sous la forme de post-its de couleurs différentes. Nous allons détailler plus loin ces éléments et le canevas pour les structurer, mais voici à quoi cela pourrait ressembler :
-
-_**==&gt; Pour l'équipe d'infographie : ici sera inséré, en lieu et place des deux visuels, une photo ou un visuel illustrant un atelier.**_
+Le support d’animation de l’atelier peut reposer sur l’utilisation d’un *paper board* ou de *post-its* pour accompagner la discussion et animer les éléments d’analyse de risque qui auront été consignés sur des feuillets.
 
 ![](assets/atelier-1.jpg)![](assets/atelier-2.JPG)
 
