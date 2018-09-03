@@ -1,8 +1,8 @@
 ## Le premier atelier
 
 En amont du premier atelier voire en début de séance, il est important de définir le périmètre de l’analyse : 
-- Interne > ce qui engage la responsabilité de l’équipe et de sa hiérarchie ; 
-- Hors périmètre > ce qui relève éventuellement d’autres acteurs.
+- y est inclus : ce qui engage la responsabilité de l’équipe et de sa hiérarchie ;
+- en est exclu : ce qui relève éventuellement d’autres acteurs.
 
 Pour lancer ce premier atelier, vous pouvez proposer le cadrage suivant : 
 
