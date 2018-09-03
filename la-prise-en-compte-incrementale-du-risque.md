@@ -6,7 +6,7 @@ Voici, illustrées, deux conceptions opposées de ce que devrait être la courbe
 
 ![](assets/projet-vs-produit.png)
 
-Pour une équipe dont l'objectif est de livrer rapidement de la valeur à ses utilisateurs, une évaluation pertinente du risque est donc obtenue en multipliant le nombre d’usagers par le risque encouru par chaque usager, pour déterminer une exposition totale réelle au risque d’attaques numériques.
+Pour une équipe dont l'objectif est de livrer rapidement de la valeur à ses utilisateurs, une évaluation pertinente du risque est donc obtenue en considérant simultanément le nombre d’usagers et le risque encouru par chacun, pour déterminer une exposition globale au risque.
 
 Ainsi la prise en compte des enjeux de sécurité par une équipe agile est continue — tout au long de la construction et de l'amélioration du service — et « pragmatique[^1] » — elle priorise les efforts en fonction du risque réel et assume l’existence de risques résiduels. Ce principe de management de la sécurité numérique par les risques est celui qui guide la démarche proposée. 
 
