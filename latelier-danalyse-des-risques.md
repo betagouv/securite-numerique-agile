@@ -15,7 +15,7 @@ Le support d’animation de l’atelier peut reposer sur l’utilisation d’un 
 
 ### Quand faut-il tenir ces ateliers ?
 
-Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les risques inhérents à la conduite d’un projet donné, idéalement avant même le début des travaux de réalisation, voire d’investigation. Néanmoins, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
+Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les risques inhérents à la conduite d’un projet donné, idéalement **avant même le début des travaux de réalisation, voire d’investigation**. Néanmoins, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
 
 ### Comment animer l'atelier ?
 
