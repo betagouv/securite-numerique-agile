@@ -1,10 +1,10 @@
-# Structurer votre politique de sécurité
+# Structurer sa politique de sécurité
 
-La politique de sécurité d'un système d'information \(ou PSSI\) peut se structurer autour de trois niveaux de mesure de sécurité:
+La politique de sécurité d'un système d'information \(PSSI\) s'articule autour de trois niveaux de mesure de sécurité:
 
-* les mesures d'hygiène informatique
-* les mesures règlementaires et normatives
-* les mesures issues de l'analyse de risque
+* les mesures d'hygiène informatique ;
+* les mesures règlementaires et normatives ;
+* les mesures issues de l'analyse de risque.
 
 ![](assets/pyramide.png)
 
