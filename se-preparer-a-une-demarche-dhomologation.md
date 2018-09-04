@@ -8,9 +8,7 @@ Comme le rappelle le guide relatif à [« _L'homologation de sécurité, en 9 �
 
 > L'objectif de la démarche d'homologation \[...\] est de trouver un équilibre entre le risque acceptable et les coûts de sécurisation, puis de faire arbitrer cet équilibre, de manière formelle, par un responsable qui a autorité pour le faire.
 
-Les livrables de l'atelier d'analyse des risques, tel que nous l'avons présenté dans ces pages, constituent un entrant nécessaire mais non suffisant à une démarche d'homologation.
-
-Par conséquent, en vue de la préparation de l'homologation, l'équipe peut décider de donner la priorité à la réalisation et au suivi des mesures de sécurité pendant une itération.
+Les livrables de l'atelier d'analyse des risques, tel que nous l'avons présenté dans ces pages, constituent un entrant nécessaire mais non suffisant à une démarche d'homologation. Par conséquent, nous recommandons de dédier un atelier à la préparation de la commission d'homologation (formalisation du dossier de sécurité, bilan des tests et audits de sécurité, consolidation des risques résiduels, suivi des mesures de sécurité et du plan d'action correctif).
 
 ### Homologation provisoire
 
