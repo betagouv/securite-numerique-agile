@@ -26,7 +26,7 @@ Il est recommandé de recenser les sources de risques de natures et de motivati
 >
 > Opérateur concurrent cherchant à discréditer, voire saboter le service Le.Taxi \(malveillance\), mafia cherchant à collecter des données à caractère personnel pour les monnayer \(appât du gain\), etc.
 
-\(3\) **Les sources de risques et leurs intentions**
+\(3\) **Les événements redoutés et leur gravité**
 
 Un événement redouté \(ER\) correspond au non-respect d’un besoin de sécurité d'une *user story* : chaque besoin de sécurité associé à une _user story_ de l'étape \(1\) se décline donc sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions ou la sécurité des personnes, financiers, juridiques, d'image, environnementaux, collatéraux, etc.\) ainsi que le niveau de gravité estimé.
 
