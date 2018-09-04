@@ -26,7 +26,7 @@ Il est recommandé de recenser les sources de risques de natures et de motivati
 >
 > _Opérateur concurrent cherchant à discréditer, voire saboter le service Le.Taxi \(malveillance\), mafia cherchant à collecter des données à caractère personnel pour les monnayer \(appât du gain\), etc._
 
-\(3\) **Les événements redoutés et leur gravité**
+\(3\) **Les sources de risques et leurs intentions**
 
 Un événement redouté \(ER\) correspond au non-respect d’un besoin de sécurité : chaque besoin de sécurité associé à une _user story_ de l'étape \(1\) est donc décliné sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions, sur la sécurité des personnes, financiers, juridiques, sur l'image, sur l'environnement, sur les tiers, etc.\) ainsi que le niveau de gravité estimé. L’objectif étant d’identifier en priorité les événements redoutés qui conduisent à des impacts difficiles à surmonter, l'échelle de cotation peut en première approche se réduire à un indice de priorité, par exemple : P1 – ER à retenir, P2 – ER à considérer dans un second temps. De façon plus élaborée, une échelle de cotation à 3 niveaux ou plus pourra être adoptée : **•** gravité faible, **••** moyenne, **•••** élevée.
 
