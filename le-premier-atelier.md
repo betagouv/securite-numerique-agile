@@ -14,14 +14,15 @@ N'hésitez pas à ordonnancer dès ce premier atelier les grandes étapes qui gu
 
 ![](assets/Pense-bête.jpg)
 
-Ressources utiles :
-- référentiels réglementaires et normatifs applicables
-- guides d'hygiène informatique
-- bases de connaissances susceptibles de guider l'analyse de risque
-- stratégie d'homologation visée
-
 ### Un exemple suivi pas à pas: Le.Taxi
 
 Afin d'illustrer concrètement la démarche proposée, nous avons choisi de rendre compte du premier cas réel dans lequel elle a été utilisée. Il s'agit de la plateforme nationale Le.Taxi dont la mission est d’informer sur la disponibilité et la géolocalisation des véhicules des opérateurs de taxi participants.
 
 *Pour ce système d'information, nous avons souhaité retracer dans ce guide l'ensemble de la démarche, du premier atelier à la constitution du dossier d’homologation. L'analyse de risque complète est disponible en fiche mémo et les exemples à suivre sont issus de ces ateliers et de leurs livrables.*
+
+## Ressources utiles
+
+- référentiels réglementaires et normatifs applicables
+- guides d'hygiène informatique
+- bases de connaissances susceptibles de guider l'analyse de risque
+- stratégie d'homologation visée
