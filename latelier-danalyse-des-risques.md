@@ -1,41 +1,38 @@
 ## L'atelier d'analyse des risques: le coeur de la démarche
 
-Distillées à l'essentiel, nos recommandations concrètes envers les équipes agiles peuvent se résumer en une phrase : **l'équipe se réunit, à intervalles réguliers, pour discuter de façon structurée des risques numériques qui peuvent impacter les usagers de son service ou son produit, et décide comment traiter ces risques**. Le moteur de la prise en compte des risques est donc un format d'atelier.
+Nos recommandations concrètes envers les équipes agiles peuvent se résumer ainsi : **l'équipe se réunit à intervalles réguliers et munie d’outils, pour discuter des risques numériques qui peuvent impacter les usagers de son service ou produit et décider de la meilleure manière de traiter ces risques**.
 
-L’atelier type d’analyse de risque lors d’une itération se déroule dans les conditions usuelles pour des équipes agiles :
+Le moteur de la prise en compte des risques prend la forme d’un atelier organisé à intervalles réguliers au cours duquel l’équipe discute des risques numériques encourus par les usagers d’un service ou d’un produit donné en vue de déterminer la manière la plus appropriée de les traiter.
 
-* le format est présentiel,
-* toute l'équipe est présente — et seulement l'équipe, mais nous allons nuancer ci-dessous,
-* la durée est limitée, quitte à programmer plusieurs ateliers \(une durée de une à trois heures, pause comprise, est appropriée\).
+Pour les équipes agiles, un atelier type d’analyse de risque se déroule dans les conditions suivantes :
 
-Le support d’animation de l’atelier peut consister en une feuille au format paper board ou Post-It géant. Au fur et à mesure de la discussion les éléments d’analyse des risques émergeront sous la forme de post-its de couleurs différentes. Nous allons détailler plus loin ces éléments et le canevas pour les structurer, mais voici à quoi cela pourrait ressembler :
+* présence de toute l'équipe et seulement l'équipe ;
+* durée fixe et limitée (une à trois heures), mieux vaut privilégier la programmation de plusieurs ateliers.
 
-_**==&gt; Pour l'équipe d'infographie : ici sera inséré, en lieu et place des deux visuels, une photo ou un visuel illustrant un atelier.**_
+Le support d’animation de l’atelier peut reposer sur l’utilisation d’un *paper board* ou de *post-its* pour accompagner la discussion et animer les éléments d’analyse de risque qui auront été consignés sur des feuillets.
 
 ![](assets/atelier-1.jpg)![](assets/atelier-2.JPG)
 
 ### Quand faut-il tenir ces ateliers ?
 
-L’adage est bien connu: « Le meilleur moment pour planter un arbre, c’était il y a 20 ans; le deuxième meilleur moment, c’est maintenant. » En matière de sécurité numérique, le meilleur moment pour aborder la question des risques numériques, c’est dès le début des travaux de réalisation, voire d’investigation. Le deuxième meilleur moment, c’est maintenant !
-
-En particulier, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
+Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les risques inhérents à la conduite d’un projet donné, idéalement **avant même le début des travaux de réalisation, voire d’investigation**. Néanmoins, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
 
 ### Comment animer l'atelier ?
 
-Les conditions de succès pour un atelier d'analyse des risques sont à rapprocher de celles d'autres « rituels » Agiles, comme la rétrospective par exemple. Le rôle de l'animateur·trice, en charge de la facilitation, est particulièrement important. Il comprend entre autres responsabilités :
+Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. **Véritable facilitateur, l'animateur de ces ateliers assume un rôle  particulièrement important dont voici quelques-unes des principales responsabilités :**
 
-* s'assurer que la parole est bien répartie entre les différents participants à l'atelier
-* s'assurer que le groupe ne dévie pas du sujet à traiter
-* maintenir un climat bienveillant
-* surveiller l'horloge… un bon atelier ne déborde pas \(trop\) du temps imparti
+* répartition équilibrée de la prise de parole ;
+* cadrage et modération des échanges ;
+* maintien d’un climat de bienveillance ;
+* respect du temps : un bon atelier ne déborde pas (trop) du temps imparti.
 
-Pour une animation efficace, il est donc important de bien maîtriser le canevas d'analyse des risques ; celui-ci est présenté schématiquement ci-dessous \(section « Notion de risques : les bases à connaître et à transmettre »\) et de façon plus détaillé et analytique en fiche mémo.
+Une animation efficace suppose donc de bien maîtriser le canevas d'analyse de risque ; celui-ci est présenté schématiquement ci-après (section « Notion de risques : les bases à connaître et à transmettre ») et de façon plus détaillée et analytique en fiche mémo.
 
 ### Faut-il se faire accompagner ?
 
-La présence d'un·e expert·e en sécurité des systèmes d'information \(SSI\) n'est pas indispensable pour la réussite de la démarche. Quelles que soient les conclusions de l'analyse des risques, c'est à l'équipe dans son ensemble qu'il incombera de les mettre en oeuvre — c'est une conséquence de notre définition d'une équipe « agile ». Les personnes pertinentes pour cet atelier sont donc les membres de l'équipe et eux seuls.
+La présence d'un expert en sécurité numérique n'est pas indispensable à la réussite de la démarche. Quelles que soient les conclusions de l'analyse de risque, c'est à l'équipe dans son ensemble qu'il incombera de mettre en œuvre les actions qui s’en dégagent et c'est notamment en cela que s’illustre l’agilité d'une équipe. 
 
-Notez bien en particulier qu'un atelier de travail n'est pas une réunion ; l'efficacité d'un atelier est conditionnée par une prise de parole et d'initiative à peu près équilibrée entre les différents participants, elle risque d'être diminuée par la présence d'observateurs, et a fortiori si des personnes qui n'ont pas de responsabilité pour la réalisation du produit y prennent une part active.
+**Un atelier de travail n'est pas une réunion.** L'efficacité d'un atelier est conditionnée par une prise de parole et d'initiative équilibrée entre participants. Elle risque d'être diminuée par la présence d'observateurs ou de personnes non impliquées (ou très indirectement) dans la réalisation du produit.
 
-Pour autant, il est également vrai que le niveau de maturité et de compétence au sein de l'équipe en matière de sécurité numérique pèsera de façon déterminante sur les résultats de la démarche. Si l'équipe ne maîtrise pas suffisamment ces compétences au démarrage, il lui faudra donc les acquérir. La présence d'un·e expert·e SSI, dans une posture de service et d'accompagnement, peut donc être un facteur de réussite. Il ou elle pourra jouer un rôle d'animation ou de facilitation, mais également injecter son expertise à des moments opportuns.
+Le niveau de maturité et de compétence au sein de l'équipe en matière de sécurité numérique pèsera lui aussi de façon déterminante sur les résultats de la démarche. Si l'équipe ne maîtrise pas suffisamment ces compétences au démarrage, il lui faudra donc les acquérir. La présence d'un expert en sécurité numérique, dans une posture de service et d'accompagnement, peut donc être un facteur de réussite. Il ou elle pourra jouer un rôle d'animation ou de facilitation, mais également faire bénéficier de son expertise lorsque c’est opportun.
 

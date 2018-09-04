@@ -1,21 +1,18 @@
 ## A qui s'adresse ce guide ?
 
-Ce guide est intitulé « Intégrer la sécurité numérique dans une démarche Agile ». Il n'a pas pour intention d'épuiser le sujet, ni d'être exhaustif sur les bases théoriques de la sécurité numérique ou de la démarche Agile, mais de donner un canevas pratique et concret pour les équipes concernées et qui souhaitent traiter la question de la sécurité.
+Intitulé « Agilité & sécurité numériques – Méthode et outils à l’usage des équipes projet », ce guide explique de manière pratique et concrète aux équipes d’entités publiques et privées comment conduire un projet numérique de manière agile tout en considérant le volet sécurité.
 
-Nous vous renvoyons notamment aux fiches mémo présentes en annexe, qui rentrent dans le détail de la démarche d'analyse et de traitement des risques numériques, ou à la bibliographie pour des sources proposant des bases de connaissances en matière de développement sécurisé, et permettant d'approfondir ce qu'on entend par « Agile » - une question qui entraîne des [débats](http://agilefocus.com/2009/02/06/agile-versus-agile/) sans fin.
+De l’analyse au traitement des risques numériques, des fiches mémo, exemples et ressources documentaires **vous accompagnent pas à pas dans le développement sécurisé de vos projets**.
 
-Pour les cerner de façon concrète, nous avons conçu ce guide pour des équipes dans lesquelles :
+Plus précisément, sont concernées par ce document les équipes dont :
 
-* le principal objectif est de livrer rapidement et fréquemment un produit ou un service[^1] à ses usagers, pour résoudre un problème auquel ceux-ci sont confrontés ;
-* des personnes dotées de compétences diverses \(techniques et non techniques\) travaillent ensemble au quotidien ;
-* les membres de l'équipe ont assez d'autonomie pour décider ensemble, sans en référer à leur hiérarchie, de l'organisation de leur propre travail ;
-* l'équipe porte une attention particulière à la qualité de ce qu'elle produit, s'outille en conséquence et cherche en permanence à s'améliorer.
+* le principal objectif est de livrer rapidement et fréquemment un produit ou un service à ses usagers, pour résoudre un problème auquel ceux-ci sont confrontés ;
+* les membres sont dotés de compétences diverses – techniques ou non – et travaillent ensemble au quotidien ;
+* les membres sont suffisamment autonomes pour décider ensemble de l'organisation de leur propre travail ;
+* l’attention est prioritairement tournée vers la qualité de ce qu'elles produisent et qui s'outillent en conséquence dans un souci permanent d'amélioration.
 
-Généralement, ces caractéristiques s'observent dans des équipes plutôt réduites \(souvent de 5 à 10 personnes\), et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel \(task board, etc.\), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations, et ainsi de suite; cependant, prises individuellement aucune de ces propriétés n'est essentielle à « l'Agilité ».
+Généralement, ces caractéristiques – sans être individuellement essentielles à « l’agilité » – s'observent dans des équipes plutôt réduites de 5 à 10 personnes et s'accompagnent de [pratiques](http://referentiel.institut-agile.fr/) telles que le management visuel (*task board*, etc.), l'utilisation systématique de tests automatisés, le déploiement continu et les outils Devops, le cadencement du travail en itérations. Nous désignons l'ensemble des intervenants d'une telle équipe par le terme *équipe produit*.
 
-Nous désignons l'ensemble des intervenants d'une telle équipe par le terme « équipe produit ». Afin d'éviter de trop ancrer notre discours dans celui de telle ou telle « chapelle » de cette grande communauté qu'est le mouvement Agile, nous ne distinguerons pas les rôles au sein de l'équipe de façon plus spécifique.
-
-Quant à la question de la sécurité numérique, elle concerne toutes les organisations et tous les types de projets. L'approche d'identification et de traitement des risques proposée dans ce guide permet d'identifier un ensemble de risques numériques dimensionnants dans un contexte donné, incluant des menaces purement cybersécuritaires \(e.g. _rançongiciel_\), mais également des risques connexes relevant de cas de fraude, de détournement d'usage, voire de problèmes de gouvernance.
-
-[^1]: Précisons qu'il s'agit dans notre esprit de produits ou services dits « _software intensive_ » \(en français, « systèmes à logiciel prépondérant »\), où domine le développement logiciel, plutôt que l'intégration de systèmes comprenant par exemple des équipements \(_hardware_\) et des processus organisationnels complexes. Traiter de la sécurité des systèmes de façon générale nous entraînerait au-delà du périmètre de ce guide. Pour les mêmes raisons, nous n'abordons pas les aspects liés aux processus de certification, agrément ou qualification, ce qui n'exclut pas d'utiliser les outils présentés comme point de départ dans ce type de contexte.
-
+> **La sécurité numérique** concerne toute organisation et tous types de projets. La méthode d’identification et de traitement des risques décrite dans ce guide permet de mettre en évidence quels sont, parmi ces risques numériques, les plus conséquents dans le contexte d’usage du service ou du produit. La nature des risques à considérer est variée.
+>
+> Citons par exemple les actions de sabotage par déni de service distribué, le vol de données économiques ou à caractère personnel, la fraude ou le détournement d’usage à des fins lucratives, l’usurpation d’identité ou encore les actions de déstabilisation et d’atteinte à la réputation.

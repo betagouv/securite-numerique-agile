@@ -2,21 +2,21 @@
 
 Voici à titre d'illustration l'exemple détaillé du service Le.Taxi développée par l'Incubateur de Services Numériques de la DINSIC, extrait du Wiki: https://github.com/openmaraude/le.taxi/wiki/Anayse-des-risques
 
-Les tableaux que nous livrons ci-dessous correspondent à la restitution formelle d'un des ateliers d'analyse des risques, sans retouche (autres que des évolutions de terminologie en cours de rédaction) ou ajout.
+Les tableaux que nous livrons ci-dessous correspondent à la restitution formelle d'un des ateliers d'analyse des risques, sans ajout ou retouches autres que des évolutions de terminologie en cours de rédaction.
 
 | User story | Besoin de sécurité |
 |---------------|--------------------|
-|Un taxi peut remonter sa position via l'API|Disponibilité : une position doit remonter sous 5 minutes<br/> Intégrité : altérations détectables|
+|Un taxi peut remonter sa position via l’interface de programmation applicative (API)|Disponibilité : une position doit remonter sous 5 minutes<br/> Intégrité : altérations détectables|
 |**Un client et un taxi conviennent d'une course** (scénario global décomposé en sous-scénarios ci-dessous)|Disponibilité : sous 5 minutes<br/>Intégrité : altérations détectables et corrigeables<br/>Confidentialité : l'information sur les courses est à diffusion limitée|
 |Un client peut connaître les taxis à proximité (ou suivre un taxi en approche)|_idem_|
 |Un client peut émettre une demande (« héler virtuellement » un taxi)|_idem_|
 |Le taxi, puis le client peuvent confirmer la prise en charge|_idem_|
 |Le taxi ou le client peut annuler la course|_idem_|
-|Un client peut évaluer la course|Disponibilité : sous 72h|
+|Un client peut évaluer une course effectuée ou déclarer un incident|Disponibilité : sous 72h|
 |Un taxi peut signaler un problème lié à une course|Disponibilité : sous 72h|
 |Un partenaire peut enregistrer un véhicule|Disponibilité : sous 72h<br/>Intégrité : altérations détectables|
-|Un administrateur peut enregistrer un partenaire|Disponibilité : sous 72h<br/>Intégrité : altérations détectables|
-|Un administrateur peut consulter les stats partenaires|Confidentialité : les statistiques sont à diffusion limitée|
+|Un administrateur peut enregistrer ou radier un partenaire|Disponibilité : sous 72h<br/>Intégrité : altérations détectables|
+|Un administrateur peut consulter les statistiques partenaires|Confidentialité : les statistiques sont à diffusion limitée|
 
 | **Source de risques** | **Mode opératoire** | Vraisemblance |
 |---------------|---------------|---------------|
@@ -40,9 +40,7 @@ Les tableaux que nous livrons ci-dessous correspondent à la restitution formell
 | Administrateurs |
 | Partenaires |
 
-Les risques suivants sont actuellement traités par les mesures citées:
-
-| Risque | Mesure existante |
+| Risques | Mesures existantes ou prévues |
 |---------------|--------------------|
 |Un partenaire tente de fausser la concurrence en envoyant de fausses positions|Signature cryptographique des remontées de positions par les partenaires|
 |Un attaquant externe accède à des informations confidentielles en exploitant une faille|Fermeture des ports autres que HTTP/HTTPS au trafic issu d'adresses IP inconnues|
@@ -51,9 +49,9 @@ Les risques suivants sont actuellement traités par les mesures citées:
 |Un taxi fournit des courses ne respectant pas la qualité de service attendue|Enregistrement d'une notation attribuée par le client au taxi|
 |Un client de mauvaise foi attribue abusivement une mauvaise note au taxi|Les notations sont associées à une course réelle spécifique|
 
-Les risques résiduels suivants sont acceptés provisoirement, mais doivent être traités par les mesures citées en regard:
+Les risques résiduels suivants sont provisoirement acceptés mais doivent être traités par les mesures citées en regard:
 
 | Risque résiduel | Mesure à prendre |
 |---------------|--------------------|
 |Le système est indisponible suite à un déni de service|Redonder les serveurs|
-|Un taxi ou VTC usurpe l'identité d'un véhicule légitime|En cours d'instruction|
+|Un taxi usurpe l'identité d'un véhicule légitime|À instruire lors de la montée en puissance|
