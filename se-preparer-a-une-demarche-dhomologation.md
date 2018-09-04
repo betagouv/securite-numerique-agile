@@ -32,7 +32,7 @@ Si l'équipe n'a pas eu recours aux services d'un expert en sécurité numériqu
 
 La mise en place d'un **plan d'amélioration continue de la sécurité** pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation. Ce plan garantit la montée en puissance et en maturité de la sécurité du produit, et permet une gestion priorisée des **risques résiduels** selon leur criticité.
 
-Notez enfin qu'on prend soin de ne pas parler d'homologation « définitive » — le caractère évolutif d'un produit avec une forte composante logicielle impose de réévaluer périodiquement les risques, quand bien même le produit serait resté inchangé — ce qui n'arrive en pratique que rarement…
+Notez enfin qu'on prend soin de ne pas parler d'homologation « *définitive* ». En effet, le caractère évolutif d'un produit doté d'une forte composante logicielle impose de réévaluer périodiquement les risques, quand bien même le produit serait resté inchangé. Chose qui n'arrive, en pratique, que très rarement.
 
 ### Formaliser le dossier d'homologation
 
