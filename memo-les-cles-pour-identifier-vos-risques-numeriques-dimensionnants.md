@@ -30,7 +30,7 @@ Parmi les scénarii de risques à prendre en compte dans une analyse de risque,
 
 La réussite d’une attaque sur un système d’information ne relève que rarement de l’exploitation d’une seule faille. Les attaques intentionnelles suivent le plus souvent une séquence appelée *cyber kill chain* exploitant plusieurs vulnérabilités de façon coordonnée. C’est en raison de telles séquences que des failles d’apparence anodines peuvent devenir lourdes de conséquences. Nous vous recommandons d’adopter une vision globale des séquences d’attaques possibles dans vos ateliers de sécurité, afin de ne pas minimiser à tort un scénario dont la vraisemblance et l’impact pourraient se révéler disproportionnés.
 
-Plusieurs modèles de cyber kill chain existent et peuvent être utilisés \(exemple : Lockheed Martin\). L’équipe pourra exploiter le modèle suivant, donné à titre d’information. Cette approche doit permettre d’identifier facilement les composants critiques susceptibles de servir de vecteurs d’entrée, de relais de propagation, de vecteurs d’exploitation, etc. Ces composants – de nature technique, humaine ou organisationnelle – feront alors l’objet de mesures ad hoc ou de durcissement du socle existant.
+Plusieurs modèles de *cyber kill chain* existent et peuvent être utilisés \(exemple : *Lockheed Martin*\). L’équipe pourra exploiter le modèle suivant, donné à titre d’information. Cette approche doit permettre d’identifier facilement les composants critiques susceptibles de servir de vecteurs d’entrée ou d’exploitation, de relais de propagation, etc. Ces composants – de nature technique, humaine ou organisationnelle – feront alors l’objet de mesures ad hoc ou d’un durcissement du socle existant.
 
 ![](assets/killchain.png)
 
