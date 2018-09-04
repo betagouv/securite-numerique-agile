@@ -19,7 +19,7 @@
 | Refactoring | Pratique technique consistant à améliorer la conception (lisibilité, modularité, etc.) d'un code source existant sans en modifier la fonctionnalité, et plus largement à prendre en compte la conception tout au long du développement d'un logiciel, plutôt que lors d'une phase distincte au début. |
 | Risque résiduel | Risque subsistant après le traitement du risque et la mise en œuvre des mesures de sécurité, qui peut être par conception \(l'équipe a accepté la présence du risque\) ou identifié a posteriori \(par exemple lors d'un audit externe\). |
 | Scénario de risque | Scénario décrivant la survenue d'un événement redouté. Il combine les sources de risques susceptibles d'en être à l'origine, les composants du SI qui sont visés, des modes d’actions sur ces composants, et les vulnérabilités exploitables pour qu'ils se réalisent. Dans le présent guide, un scénario de risque est également désigné sous l’appellation *« abuser story »*. |
-| Source de risque | Entité ou personne à l'origine de scénarii de risque. |
+| Source de risque | Entité ou personne à l'origine de scénarios de risque. |
 | *User story* | Au lieu de faire l'objet d'un cahier des charges, la réalisation d'un produit par une équipe agile suppose de découper le travail à réaliser en incréments de valeur métier appelés *« user stories »*. |
 | Vulnérabilité | Caractéristique d'un composant du SI qui peut constituer une faiblesse ou une faille au regard de la sécurité numérique. |
 
