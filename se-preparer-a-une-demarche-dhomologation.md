@@ -12,7 +12,7 @@ Les livrables de l'atelier d'analyse des risques, tel que nous l'avons présent�
 
 ### Homologation provisoire
 
-Par hypothèse, l'équipe à laquelle ce guide s'adresse cherche à mettre rapidement une première version incomplète du produit ou du service, puis à l'étoffer progressivement par incréments fonctionnels.
+Par hypothèse, l'équipe à laquelle s'adresse ce guide cherche à mettre rapidement en service une première version incomplète du produit, puis à l'étoffer par incréments fonctionnels.
 
 Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'**adapter le niveau de risque résiduel accepté à un contexte donné**. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume ou à l'intensité d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de transactions, etc.
 
