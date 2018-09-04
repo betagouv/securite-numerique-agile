@@ -28,7 +28,7 @@ Une stratégie d'homologation pour la plateforme Le.Taxi pourrait ainsi se décl
 
 Une décision d'homologation ferme pourra être prononcée dès lors qu'un produit ou un service aura atteint son « régime de croisière ». Elle est généralement assortie d'une période de validité plus longue \(3 ans étant une valeur typique\) et vise le contexte d'exploitation normalement prévu, sans restrictions particulières d'usage.
 
-Si l'équipe n'a pas eu recours aux services d'un·e expert·e SSI pendant les ateliers d'analyse des risques, ni à l'intervention d'un auditeur externe pour réaliser par exemple des tests d'intrusion ou une revue de code axée sur les besoins de sécurité, ces vérifications extérieures s'imposent comme préalables à une décision ferme.
+Si l'équipe n'a pas eu recours aux services d'un expert en sécurité numérique lors des ateliers d'analyse de risque, ni à l'intervention d'un auditeur externe pour réaliser par exemple des tests d'intrusion ou une revue de code axée sur les besoins de sécurité, ces vérifications extérieures s'imposent comme préalables à une décision ferme.
 
 La mise en place d'un **plan d'amélioration continue de la sécurité** pour les versions successives à venir du produit ou service est également un élément important de la décision d'homologation. Ce plan garantit la montée en puissance et en maturité de la sécurité du produit, et permet une gestion priorisée des **risques résiduels** selon leur criticité.
 
