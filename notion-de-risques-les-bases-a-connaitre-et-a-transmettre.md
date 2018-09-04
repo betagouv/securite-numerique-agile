@@ -1,6 +1,6 @@
-## L’appréciation des risque : les bases à connaitre et à transmettre
+## L’appréciation des risques : les bases à connaitre et à transmettre
 
-**La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en *users stories*.** Les *users stories* au niveau le plus macroscopique (parfois appelées *epics*) revêtent généralement un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
+**La valeur métier correspond à la valeur livrée aux utilisateurs et s’articule en *user stories*.** Les *user stories* au niveau le plus macroscopique (parfois appelées *epics*) revêtent généralement un enjeu de sécurité significatif vis-à-vis de l’un ou l’autre des critères suivants :
 
 * \[D\] Disponibilité : la fonctionnalité peut être utilisée au moment voulu ;
 * \[I\] Intégrité : les données sont exactes et complètes ;

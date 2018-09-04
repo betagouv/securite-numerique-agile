@@ -16,15 +16,15 @@ L’analyse de risque doit s’attacher à identifier les abuser stories spéc
 
 En termes de volumétrie, l’identification et le traitement de 5 à 10 *abuser stories* constituent une première base solide pour définir les mesures de sécurité structurantes liées aux cas d’usage typiques du produit.
 
-L’analyse de risque n’a pas vocation à identifier de nouvelles mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit (voir fiche mémo). En revenche, elle a vocation à :
+L’analyse de risque n’a pas vocation à identifier de nouvelles mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit (voir fiche mémo). En revanche, elle a vocation à :
 
 * valider ou non les dérogations éventuelles à ce socle de sécurité ;
 * identifier le besoin de durcir ce socle ;
 * identifier des mesures complémentaires ad hoc liées aux conditions d’emploi du produit, à ses processus métier, à son écosystème, etc.
 
-## Privilégier les *abuser stories* \(scénarii intentionnels\)
+## Privilégier les *abuser stories* \(scénarios intentionnels\)
 
-Parmi les scénarii de risques à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent s’avérer particulièrement redoutables lorsque l’attaque est menée avec la volonté d’atteindre l’objectif visé en engageant des moyens particulièrement importants. Les éléments constitutifs classiques à prendre en compte dans une *abuser story* intentionnelle sont les suivants :
+Parmi les scénarios de risques à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent s’avérer particulièrement redoutables lorsque l’attaque est menée avec la volonté d’atteindre l’objectif visé en engageant des moyens particulièrement importants. Les éléments constitutifs classiques à prendre en compte dans une *abuser story* intentionnelle sont les suivants :
 
 ![](assets/attaque.png)
 
@@ -52,4 +52,4 @@ Une méthode simple et pragmatique d’évaluation de la menace d’un écosy
 
 ![](assets/ecosysteme.png)
 
-L’identification des scénarii de risque, particulièrement ceux de nature intentionnelle, nécessite une certaine expertise en sécurité numérique. Un constat d’autant plus vrai pour les cas d’attaques sophistiquées, mettant en œuvre un séquencement planifié de modes d’actions sur plusieurs composants – techniques et humains généralement – du produit et de son écosystème. Comme nous l’avons précisé plus haut, l’accompagnement de l’équipe par un expert dans ce domaine peut donc être un atout pour la réussite de l’atelier, en proportion avec le degré de complexité du produit et de l’écosystème.
+L’identification des scénarios de risque, particulièrement ceux de nature intentionnelle, nécessite une certaine expertise en sécurité numérique. Un constat d’autant plus vrai pour les cas d’attaques sophistiquées, mettant en œuvre un séquencement planifié de modes d’actions sur plusieurs composants – techniques et humains généralement – du produit et de son écosystème. Comme nous l’avons précisé plus haut, l’accompagnement de l’équipe par un expert dans ce domaine peut donc être un atout pour la réussite de l’atelier, en proportion avec le degré de complexité du produit et de l’écosystème.

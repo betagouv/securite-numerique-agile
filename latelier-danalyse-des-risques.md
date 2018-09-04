@@ -15,18 +15,18 @@ Le support d’animation de l’atelier peut reposer sur l’utilisation d’un 
 
 ### Quand faut-il tenir ces ateliers ?
 
-Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les risques inhérents à la conduite d’un projet donné, idéalement **avant même le début des travaux de réalisation, voire d’investigation**. Néanmoins, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
+L’adage est bien connu: « Le meilleur moment pour planter un arbre, c’était il y a 20 ans; le deuxième meilleur moment, c’est maintenant. » Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les risques inhérents à la création d'un produit, idéalement **avant même le début des travaux de réalisation, voire d’investigation**. Néanmoins, le fait que l'équipe ait déjà réalisé un ou plusieurs incréments de fonctionnalité, voire que son produit soit déjà accessible à de premiers usagers, ne saurait constituer une raison valable de ne pas se livrer à l'exercice.
 
 ### Comment animer l'atelier ?
 
-Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. **Véritable facilitateur, l'animateur de ces ateliers assume un rôle  particulièrement important dont voici quelques-unes des principales responsabilités :**
+Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. **Animer cet atelier, c'est occuper un rôle particulièrement important qui relève d'un véritable travail de facilitation et dont voici quelques-unes des principales responsabilités :**
 
-* répartition équilibrée de la prise de parole ;
-* cadrage et modération des échanges ;
-* maintien d’un climat de bienveillance ;
-* respect du temps : un bon atelier ne déborde pas (trop) du temps imparti.
+* s'assurer que la parole est bien répartie entre les différents participants à l'atelier
+* s'assurer que le groupe ne dévie pas du sujet à traiter
+* maintenir un climat bienveillant
+* surveiller l'horloge… un bon atelier ne déborde pas \(trop\) du temps imparti
 
-Une animation efficace suppose donc de bien maîtriser le canevas d'analyse de risque ; celui-ci est présenté schématiquement ci-après (section « Notion de risques : les bases à connaître et à transmettre ») et de façon plus détaillée et analytique en fiche mémo.
+Une animation efficace suppose également de bien maîtriser le canevas d'analyse de risque ; celui-ci est présenté schématiquement ci-après (section « Notion de risques : les bases à connaître et à transmettre ») et de façon plus détaillée et analytique en fiche mémo.
 
 ### Faut-il se faire accompagner ?
 
