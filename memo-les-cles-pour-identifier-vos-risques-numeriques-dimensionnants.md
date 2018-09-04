@@ -16,7 +16,7 @@ L’analyse de risque doit s’attacher à identifier les abuser stories spéc
 
 En termes de volumétrie, l’identification et le traitement de 5 à 10 *abuser stories* constituent une première base solide pour définir les mesures de sécurité structurantes liées aux cas d’usage typiques du produit.
 
-L’analyse de risque n’a pas vocation à identifier de nouvelles mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit (voir fiche mémo page 35 ). En revenche, elle a vocation à :
+L’analyse de risque n’a pas vocation à identifier de nouvelles mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit (voir fiche mémo). En revenche, elle a vocation à :
 
 * valider ou non les dérogations éventuelles à ce socle de sécurité ;
 * identifier le besoin de durcir ce socle ;
