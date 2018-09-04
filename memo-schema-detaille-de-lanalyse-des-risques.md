@@ -12,7 +12,7 @@ Le point de départ de l’atelier – les user stories – est essentiel. En c
 
 > Exemple
 > 
-> _Un client peut émettre une demande \(héler virtuellement un taxi\), un client peut évaluer une course effectuée ou déclarer un incident_.
+> Un client peut émettre une demande \(héler virtuellement un taxi\), un client peut évaluer une course effectuée ou déclarer un incident.
 
 \(2\) **Les sources de risques et leurs intentions**
 
@@ -24,7 +24,7 @@ Il est recommandé de recenser les sources de risques de natures et de motivati
 
 > Exemple
 >
-> _Opérateur concurrent cherchant à discréditer, voire saboter le service Le.Taxi \(malveillance\), mafia cherchant à collecter des données à caractère personnel pour les monnayer \(appât du gain\), etc._
+> Opérateur concurrent cherchant à discréditer, voire saboter le service Le.Taxi \(malveillance\), mafia cherchant à collecter des données à caractère personnel pour les monnayer \(appât du gain\), etc.
 
 \(3\) **Les sources de risques et leurs intentions**
 
@@ -42,9 +42,9 @@ Un événement redouté est exprimé sous la forme d’une expression courte
 
 Il s’agit d’identifier parmi les composants du produit ceux contribuant à la réalisation des _user stories_ identifiées dans l’étape \(1\) et susceptibles d’être concernés ou ciblés par les sources de risques de l’étape \(2\). Il est recommandé de préciser, pour chaque composant, quelles sont les vulnérabilités que ces sources de risque pourraient exploiter.
 
-> Exemple :
+> Exemple
 >
-> _Base de données Le.Taxi \(accès en lecture/écriture depuis Internet, modification fréquente\)_.
+> Base de données Le.Taxi \(accès en lecture/écriture depuis Internet, modification fréquente\).
 
 L’identification des composants peut être structurée comme suit :
 
@@ -53,6 +53,12 @@ L’identification des composants peut être structurée comme suit :
 * **Systèmes numériques matériels et logiciels :** systèmes informatiques et de téléphonie, réseaux de communication.
 
 Le degré de granularité dans la description des composants sera adapté au niveau de connaissance du produit lors de l’atelier. Enfin, les composants prioritaires à recenser sont ceux qui contribuent \(de façon directe ou indirecte\) aux _user stories_ ayant des besoins de sécurité « importants ».
+
+Afin d’étendre le périmètre de l’appréciation des risques, vous pouvez compléter cette étape en identifiant quelles parties prenantes de l’écosystème seraient susceptibles d’être exploitées pour faciliter une attaque sur un composant du produit (reportez-vous à la fiche mémo précédente). Les parties prenantes critiques à considérer en priorité sont celles qui ont un lien avec un les composants recensés.
+
+> Exemple
+>
+> Prestataire informatique assurant la télémaintenance du serveur qui héberge la base de données Le.Taxi.
 
 \(5\) **Les scénarios de risques \(**_**abuser stories**_**\) et les mesures de traitement**
 
