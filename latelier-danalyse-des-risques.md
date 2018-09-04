@@ -19,7 +19,7 @@ Il n’est jamais trop tard pour parler de sécurité numérique et évaluer les
 
 ### Comment animer l'atelier ?
 
-Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. Véritable facilitateur, l'animateur de ces ateliers assume un rôle  particulièrement important dont voici quelques-unes des principales responsabilités :
+Les conditions du succès d’un atelier d'analyse de risque sont à rapprocher de celles d'autres « rituels » agiles, comme par exemple la rétrospective. **Véritable facilitateur, l'animateur de ces ateliers assume un rôle  particulièrement important dont voici quelques-unes des principales responsabilités :**
 
 * répartition équilibrée de la prise de parole ;
 * cadrage et modération des échanges ;
