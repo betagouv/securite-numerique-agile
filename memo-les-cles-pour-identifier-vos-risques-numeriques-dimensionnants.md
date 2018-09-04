@@ -22,9 +22,9 @@ L’analyse de risque n’a pas vocation à identifier de nouvelles mesures de 
 * identifier le besoin de durcir ce socle ;
 * identifier des mesures complémentaires ad hoc liées aux conditions d’emploi du produit, à ses processus métier, à son écosystème, etc.
 
-## Privilégier les abuser stories \(scénarios intentionnels\)
+## Privilégier les *abuser stories* \(scénarii intentionnels\)
 
-Parmi les scénarios de risque à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent être particulièrement redoutables lorsque l’attaque est menée avec une volonté délibérément forte d’atteindre un objectif visé avec des moyens engagés qui peuvent être importants. Les éléments constitutifs classiques à prendre en compte dans un abuser story intentionnel sont les suivants :
+Parmi les scénarii de risques à prendre en compte dans une analyse de risque, ceux de nature intentionnelle peuvent s’avérer particulièrement redoutables lorsque l’attaque est menée avec la volonté d’atteindre l’objectif visé en engageant des moyens particulièrement importants. Les éléments constitutifs classiques à prendre en compte dans une *abuser story* intentionnelle sont les suivants :
 
 ![](assets/attaque.png)
 
