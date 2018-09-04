@@ -40,15 +40,17 @@ Un événement redouté est exprimé sous la forme d’une expression courte
 
 \(4\) **Les composants vulnérables**
 
-Il s’agit d’identifier les composants du produit qui contribuent à la réalisation des _user stories_ identifiées dans l’étape \(1\) et susceptibles d’être concernés ou ciblés par les sources de risques de l’étape \(2\). Il est recommandé de préciser pour chaque composant ses vulnérabilités potentielles que des sources de risque seraient susceptibles d’exploiter.
+Il s’agit d’identifier parmi les composants du produit ceux contribuant à la réalisation des _user stories_ identifiées dans l’étape \(1\) et susceptibles d’être concernés ou ciblés par les sources de risques de l’étape \(2\). Il est recommandé de préciser, pour chaque composant, quelles sont les vulnérabilités que ces sources de risque pourraient exploiter.
 
-Exemple : _base de données Le.Taxi \(accès en lecture/écriture depuis Internet, modification fréquente\)_.
+> Exemple :
+>
+> _Base de données Le.Taxi \(accès en lecture/écriture depuis Internet, modification fréquente\)_.
 
 L’identification des composants peut être structurée comme suit :
 
-* Physique : locaux, infrastructures, espaces physiques supports pour l'activité et pour les échanges de flux 
-* Organisations : structures organisationnelles, processus métiers et supports, ressources humaines
-* Systèmes numériques matériels et logiciels : systèmes informatiques et de téléphonie, réseaux de \(télé\)-communication.
+* **Infrastructures physiques :** bâtiments, locaux, espaces physiques permettant l'activité et les échanges de flux 
+* **Organisations :** structures organisationnelles, processus métiers et supports, ressources humaines
+* **Systèmes numériques matériels et logiciels :** systèmes informatiques et de téléphonie, réseaux de communication.
 
 Le degré de granularité dans la description des composants sera adapté au niveau de connaissance du produit lors de l’atelier. Enfin, les composants prioritaires à recenser sont ceux qui contribuent \(de façon directe ou indirecte\) aux _user stories_ ayant des besoins de sécurité « importants ».
 
