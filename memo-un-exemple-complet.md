@@ -2,7 +2,7 @@
 
 Voici à titre d'illustration l'exemple détaillé du service Le.Taxi développée par l'Incubateur de Services Numériques de la DINSIC, extrait du Wiki: https://github.com/openmaraude/le.taxi/wiki/Anayse-des-risques
 
-Les tableaux que nous livrons ci-dessous correspondent à la restitution formelle d'un des ateliers d'analyse des risques, sans retouche (autres que des évolutions de terminologie en cours de rédaction) ou ajout.
+Les tableaux que nous livrons ci-dessous correspondent à la restitution formelle d'un des ateliers d'analyse des risques, sans ajout ou retouches autres que des évolutions de terminologie en cours de rédaction.
 
 | User story | Besoin de sécurité |
 |---------------|--------------------|
