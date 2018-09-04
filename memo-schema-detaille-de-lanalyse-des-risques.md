@@ -28,11 +28,15 @@ Il est recommandé de recenser les sources de risques de natures et de motivati
 
 \(3\) **Les sources de risques et leurs intentions**
 
-Un événement redouté \(ER\) correspond au non-respect d’un besoin de sécurité : chaque besoin de sécurité associé à une _user story_ de l'étape \(1\) est donc décliné sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions, sur la sécurité des personnes, financiers, juridiques, sur l'image, sur l'environnement, sur les tiers, etc.\) ainsi que le niveau de gravité estimé. L’objectif étant d’identifier en priorité les événements redoutés qui conduisent à des impacts difficiles à surmonter, l'échelle de cotation peut en première approche se réduire à un indice de priorité, par exemple : P1 – ER à retenir, P2 – ER à considérer dans un second temps. De façon plus élaborée, une échelle de cotation à 3 niveaux ou plus pourra être adoptée : **•** gravité faible, **••** moyenne, **•••** élevée.
+Un événement redouté \(ER\) correspond au non-respect d’un besoin de sécurité d'une valeur métier : chaque besoin de sécurité associé à une _user story_ de l'étape \(1\) se décline donc sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions ou la sécurité des personnes, financiers, juridiques, d'image, environnementaux, collatéraux, etc.\) ainsi que le niveau de gravité estimé.
 
-Afin de faire le lien à ce stade avec les sources de risques identifiées dans l’étape \(2\), il peut être pertinent de mentionner les sources de risques les plus vraisemblables susceptibles d’en être à l’origine. Enfin, dans un souci d’efficacité, l’équipe s’intéresse en première approche aux événements redoutés associés aux besoins de sécurité « importants ».
+L’objectif étant d’identifier en priorité les événements redoutés dont les conséquences seraient difficilement surmontables. En première approche, l'échelle de cotation peut se limiter à un indice de priorité, par exemple : P1 – ER à retenir, P2 – ER à considérer dans un second temps. De façon plus élaborée, une échelle de cotation à 3 niveaux ou plus pourra être adoptée : **• gravité faible, •• moyenne, ••• élevée**.
 
-Exemple :_ un opérateur concurrent, se faisant passer pour un faux client, hèle un taxi qui fait une course d’approche en pure perte._
+Un événement redouté est exprimé sous la forme d’une expression courte qui permet de comprendre facilement le préjudice lié à la valeur métier concernée. Il est recommandé de mentionner dans l’intitulé de l’ER la source de risque la plus vraisemblable susceptible d’en être à l’origine. Enfin, dans un souci d’efficacité, l’équipe s’intéresse en première approche aux événe- ments redoutés associés aux besoins de sécurité « importants ».
+
+> Exemple
+>
+>_Un opérateur concurrent, se faisant passer pour un client, hèle un taxi qui réalise une course d’approche en pure perte._
 
 \(4\) **Les composants vulnérables**
 
