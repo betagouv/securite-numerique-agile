@@ -20,7 +20,7 @@ Il s’agit de recenser les sources de risques – accidentelles ou intentionnel
 
 ![](assets/sources.png)
 
-Il est recommandé de recenser les sources de risques de natures et de motivations variées pour disposer d’un échantillon de risques représentatif à partir duquel bâtir des scénarii dont les menaces et modes opératoires diffèrent.
+Il est recommandé de recenser les sources de risques de natures et de motivations variées pour disposer d’un échantillon de risques représentatif à partir duquel bâtir des scénarios dont les menaces et modes opératoires diffèrent.
 
 > Exemple
 >
