@@ -10,17 +10,17 @@ Les activités de sécurité visent à identifier les scénarios de risques
 
 * **Scénario accidentel** : *« Le service de réservation en ligne est rendu indisponible en raison d'une erreur de mise à jour du serveur applicatif par le prestataire en charge de la maintenance du système. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».*
 
-## Se concentrer sur les risques numériques dimensionnants
+## Se concentrer sur les risques numériques liés aux cas d'usage du produit
 
-L’analyse de risque doit s’attacher à identifier les abuser stories dimensionnantes, c’est-à-dire significatives en terme d’impact et qui relèvent de menaces – intentionnelles ou accidentelles – non traitées par les mesures d'hygiène ou règlementaires. Ces abuser stories permettent à elles seuls de structurer la politique de sécurité du produit : en terme de volumétrie, l’identification et le traitement de 5 à 10 abuser stories constituent une première base qui nous paraît suffisante pour définir les mesures de sécurité structurantes liées aux cas d'usage typiques du produit.
+L’analyse de risque doit s’attacher à identifier les abuser stories spécifiques, c’est-à-dire significatives en termes d’impact et qui relèvent de menaces – intentionnelles ou accidentelles – non couvertes par les mesures d’hygiène informatiques ou règlementaires. Ces *abuser stories* permettent de compléter, d’orienter et de consolider la politique de sécurité du produit ou du service.
 
-L’analyse de risque n’a pas vocation à re-identifier des mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit \(voir fiche mémo précédente\).
+En termes de volumétrie, l’identification et le traitement de 5 à 10 *abuser stories* constituent une première base solide pour définir les mesures de sécurité structurantes liées aux cas d’usage typiques du produit.
 
-Par contre, elle a vocation à
+L’analyse de risque n’a pas vocation à identifier de nouvelles mesures de traitement connues ou imposées, qui relèvent respectivement de l’hygiène informatique et de la réglementation, et qui sont considérées comme nativement intégrées dans la politique de sécurité du produit (voir fiche mémo page 35 ). En revenche, elle a vocation à :
 
-* valider \(ou non\) les dérogations éventuelles à ce socle de sécurité,
-* identifier le besoin de durcir ce socle,
-* identifier des mesures complémentaires ad hoc liées au contexte d’emploi du produit, à ses processus métier, à son écosystème, etc.
+* valider ou non les dérogations éventuelles à ce socle de sécurité ;
+* identifier le besoin de durcir ce socle ;
+* identifier des mesures complémentaires ad hoc liées aux conditions d’emploi du produit, à ses processus métier, à son écosystème, etc.
 
 ## Privilégier les abuser stories \(scénarios intentionnels\)
 
