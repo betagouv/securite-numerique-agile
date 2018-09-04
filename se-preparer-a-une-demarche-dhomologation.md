@@ -18,11 +18,11 @@ Dans ce contexte, l'équipe se dirigera donc naturellement vers une **décision 
 
 Ces **critères de validité** doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on respecte encore les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
 
-Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décliner en trois jalons :
+Une stratégie d'homologation pour la plateforme Le.Taxi pourrait ainsi se décliner en trois jalons :
 
-* Un jalon « autorisation de tests » \(ADT\) pour une durée de 1 à 3 mois, menée exclusivement avec des usagers volontaires et donnant un consentement explicite
-* Un jalon « autorisation provisoire d'exploitation » \(APE\), pour une durée maximale de 12 mois, et un plafond de 1000 courses
-* Un jalon « mise en service ferme » tel que décrit ci-dessous
+* un jalon « autorisation de tests » d'une durée de 1 à 3 mois, menée exclusivement auprès d'usagers volontaires sur consentement explicite ;
+* un jalon « autorisation provisoire d'exploitation », d'une durée maximale de 12 mois et un plafond de 1 000 courses cumulées ;
+* un jalon « mise en service ferme » tel que décrit ci-après.
 
 ### Homologation ferme
 
