@@ -36,7 +36,7 @@ Notez enfin qu'on prend soin de ne pas parler d'homologation « *définitive* »
 
 ### Formaliser le dossier d'homologation
 
-Le guide relatif à [« _L'homologation de sécurité, en 9 étapes simples_ »](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/) détaille les étapes de la constitution du dossier de sécurité en vue d'une commission d'homologation Simple, pratique et concis, l'expérience prouve qu'il sera un compagnon précieux pour toutes les équipes agiles qui souhaitent aboutir à une décision d'homologation.
+Le guide relatif à [« _L'homologation de sécurité, en 9 étapes simples_ »](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/) détaille les étapes de la constitution du dossier de sécurité en vue d'une commission d'homologation. Simple, pratique et concis, l'expérience prouve qu'il sera un compagnon précieux pour toutes les équipes agiles qui souhaitent aboutir à une décision d'homologation.
 
 A retrouver sur http://www.ssi.gouv.fr/
 
