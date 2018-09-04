@@ -2,16 +2,13 @@
 
 Les activités de sécurité visent à identifier les scénarios de risques critiques et les mesures de sécurité permettant de les traiter. L’objectif est d’atteindre un niveau de sécurité correspondant aux enjeux et besoins sécuritaires dans une démarche agile, un scénario de risque est décrit sous forme d’une *abuser story* de nature intentionnelle, ou d’un scénario d’origine accidentelle. Cette fiche mémo recense les aspects méthodologiques à considérer en priorité lors des ateliers d’analyse de risque.
 
-**Un exemple pour articuler les notions de user story, abuser story, scénario accidentel :**
+***User story, abuser story* et scénario accidentel :**
 
-* user story : « en tant qu’utilisateur, je réserve en ligne mon billet de spectacle ».
+* **User story** : *« En tant qu’utilisateur, je réserve en ligne mon billet de spectacle ».*
 
-* abuser story \(intentionnel\) : « En tant qu’hacktiviste, j’empêche les clients de réserver en ligne leur billet de spectacle en saturant le serveur applicatif par une attaque en déni de service. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».
+* **Abuser story** \(scénario intentionnel\) : *« En tant qu’hacktiviste, j’empêche les clients de réserver en ligne leur billet de spectacle en saturant le serveur applicatif par une attaque en déni de service. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».*
 
-* scénario accidentel : « Le service de réservation en ligne est rendu indisponible suite à  
-  une erreur de mise à jour du serveur applicatif par le prestataire de maintenance. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».
-
-\(Dans la pratique, on pourra utiliser quasiment le même format pour abuser stories et scénarios accidentels.\)
+* **Scénario accidentel** : *« Le service de réservation en ligne est rendu indisponible en raison d'une erreur de mise à jour du serveur applicatif par le prestataire en charge de la maintenance du système. Ceci conduit à un impact préjudiciable sur l’image et la crédibilité du gestionnaire du service, voire une perte de clients ».*
 
 ## Se concentrer sur les risques numériques dimensionnants
 
