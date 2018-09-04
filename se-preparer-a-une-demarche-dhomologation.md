@@ -14,7 +14,7 @@ Les livrables de l'atelier d'analyse des risques, tel que nous l'avons présent�
 
 Par hypothèse, l'équipe à laquelle s'adresse ce guide cherche à mettre rapidement en service une première version incomplète du produit, puis à l'étoffer par incréments fonctionnels.
 
-Dans ce contexte, l'équipe visera donc naturellement une **décision d'homologation provisoire**, afin d'**adapter le niveau de risque résiduel accepté à un contexte donné**. Sa validité sera limitée dans le temps, et conditionnée par des critères liés au volume ou à l'intensité d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de transactions, etc.
+Dans ce contexte, l'équipe se dirigera donc naturellement vers une **décision d'homologation provisoire, afin d'adapter le niveau de risque résiduel accepté à un contexte donné**. Sa validité sera limitée dans le temps et conditionnée par des critères liés au volume ou à l'intensité d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de transactions, etc.
 
 Ces **critères de validité** doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on est resté ou non dans les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
 
