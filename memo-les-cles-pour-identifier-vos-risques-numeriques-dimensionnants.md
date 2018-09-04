@@ -42,7 +42,13 @@ On entend par écosystème l’ensemble des parties prenantes qui gravitent a�
 >
 > Injection de code malveillant par rebond par le biais d’un partenaire tiers connecté ; attaque en déni de service sur le fournisseur de service en nuage ; piégeage de la chaîne logistique d’approvisionnement des postes et serveurs d’administration d’un réseau facilitant l’exfiltration de données sensibles ; etc.).
 
-La sélection des parties prenantes potentiellement critiques d’un écosystème, à prendre en compte dans l’analyse de risque, peut se baser sur l’évaluation des critères suivants, chaque critère étant évalué par exemple sur une échelle de 1 à 4. Les critères d’exposition tendent à accroître le risque alors que ceux relatifs à la protection l’atténue. Les parties prenantes les plus critiques sont ensuite sélectionnées en prenant celles qui totalisent les scores les plus élevés.
+Les parties prenantes critiques d’un écosystème, à prendre en compte dans l’analyse de risque, peuvent par exemple être identifiées en vous posant les questions suivantes :
+* La relation avec cette partie prenante est-elle essentielle pour mon activité ? Suis-je dépendant de services ou de bases de données hébergés ou exploités par la partie prenante ?
+* Jusqu’à quel point la partie prenante accède-t-elle à mes ressources internes (mes locaux, mes réseaux informatiques, mon organisation) ?
+* Ses services et réseaux informatiques sont-ils exposés sur Internet ? Sont-ils suffisamment sécurisés ?
+* Puis-je considérer que ses intentions sont favorables à mon égard ?
+
+Une méthode simple et pragmatique d’évaluation de la menace d’un écosystème est proposée dans le guide « EBIOS » de l’ANSSI.
 
 ![](assets/ecosysteme.png)
 
