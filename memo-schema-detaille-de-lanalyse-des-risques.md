@@ -1,4 +1,4 @@
-# Le canevas de l'analyse des risques
+# Le canevas de l'analyse de risque
 
 L'articulation entre les éléments de l'analyse des risques est résumée par le schéma suivant :
 
