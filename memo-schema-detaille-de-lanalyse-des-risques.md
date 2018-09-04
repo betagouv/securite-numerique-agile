@@ -28,7 +28,7 @@ Il est recommandé de recenser les sources de risques de natures et de motivati
 
 \(3\) **Les événements redoutés et leur gravité**
 
-Un événement redouté \(ER\) correspond au non-respect d’un besoin de sécurité d'une *user story* : chaque besoin de sécurité associé à une _user story_ de l'étape \(1\) se décline donc sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions ou la sécurité des personnes, financiers, juridiques, d'image, environnementaux, collatéraux, etc.\) ainsi que le niveau de gravité estimé.
+Un événement redouté \(ER\) correspond au non-respect d’un besoin de sécurité d'une *user story* : chaque besoin de sécurité associé à une *user story* de l'étape \(1\) se décline donc sous la forme d’un ou plusieurs événements redoutés. On précisera bien le ou les impacts \(sur les missions ou la sécurité des personnes, financiers, juridiques, d'image, environnementaux, collatéraux, etc.\) ainsi que le niveau de gravité estimé.
 
 L’objectif étant d’identifier en priorité les événements redoutés dont les conséquences seraient difficilement surmontables. En première approche, l'échelle de cotation peut se limiter à un indice de priorité, par exemple : P1 – ER à retenir, P2 – ER à considérer dans un second temps. De façon plus élaborée, une échelle de cotation à 3 niveaux ou plus pourra être adoptée : **• gravité faible, •• moyenne, ••• élevée**.
 
@@ -64,22 +64,22 @@ Afin d’étendre le périmètre de l’appréciation des risques, vous pouv
 
 La finalité de l’atelier est d’identifier les risques numériques de référence à prendre en compte pour bâtir ou compléter la politique de sécurité du produit.
 
-L’équipe commence par dresser une liste de **scénarios de risques** – abuser stories – en confrontant les sources de risques \(2\), les événements redoutés \(3\) et les composants vulnérables \(4\). Concrètement, il s’agit de voir de quelle façon chaque source de risque retenue peut impacter des composants du produit, par exploitation notamment de leurs vulnérabilités ou d’un facteur externe aggravant, pour générer un événement redouté. Chaque *abuser story* peut ensuite être classiquement évalué en terme de vraisemblance, puis de criticité à partir de la gravité de l'événement redouté associé.
+L’équipe commence par dresser une liste de **scénarios de risques** – *abuser stories* – en confrontant les sources de risques \(2\), les événements redoutés \(3\) et les composants vulnérables \(4\). Concrètement, il s’agit de voir de quelle façon chaque source de risque retenue peut impacter des composants du produit, par exploitation notamment de leurs vulnérabilités ou d’un facteur externe aggravant, pour générer un événement redouté. Chaque *abuser story* peut ensuite être classiquement évalué en terme de vraisemblance, puis de criticité à partir de la gravité de l'événement redouté associé.
 
 > Exemple
 >
 > Un attaquant externe accède aux informations à caractère personnel des clients en usurpant l'identité du serveur Le.Taxi ou en exploitant une vulnérabilité non corrigée.
 > Un client de mauvaise foi attribue abusivement une mauvaise note au taxi.
 
-Pour chaque abuser story répertoriée, l’équipe peut définir si besoin **l’option de traitement du risque** la plus appropriée (éviter, réduire, transférer, accepter). Dans le cas où le risque doit être réduit, les participants identifient les **mesures de sécurité** complémentaires qu’il faudra mettre en œuvre, en plus des mesures existantes ou déjà prévues. Leur réalisation est consignée par l’équipe au même titre que les autres *user stories*.
+Pour chaque *abuser story* répertoriée, l’équipe peut définir si besoin **l’option de traitement du risque** la plus appropriée (éviter, réduire, transférer, accepter). Dans le cas où le risque doit être réduit, les participants identifient les **mesures de sécurité** complémentaires qu’il faudra mettre en œuvre, en plus des mesures existantes ou déjà prévues. Leur réalisation est consignée par l’équipe au même titre que les autres *user stories*.
 
 Enfin, l'équipe peut clore l'atelier en identifiant les **risques résiduels**. Ces derniers concernent :
 
-  * les _abuser stories_ non traitées \(acceptées en l'état\) ou seulement partiellement \(mesures de sécurité mises en place, mais ne réduisant pas complètement ou suffisamment le risque\).
+  * les *abuser stories* non traitées \(acceptées en l'état\) ou seulement partiellement \(mesures de sécurité mises en place, mais ne réduisant pas complètement ou suffisamment le risque\).
 
-  * les _abuser stories_ faisant l'objet d'un transfert du risque, lequel ne couvre généralement pas l'ensemble des impacts \(exemple : l'assurance ne couvre pas l'atteinte à l'image\).
+  * les *abuser stories* faisant l'objet d'un transfert du risque, lequel ne couvre généralement pas l'ensemble des impacts \(exemple : l'assurance ne couvre pas l'atteinte à l'image\).
 
-  * pour affiner dans un deuxième temps : les besoins de sécurité de l'étape \(1\) et les événements redoutés de l'étape \(3\) non déclinés en abuser stories.
+  * pour affiner dans un deuxième temps : les besoins de sécurité de l'étape \(1\) et les événements redoutés de l'étape \(3\) non déclinés en *abuser stories*.
 
 Un certain travail \(souvent subjectif\) de consolidation des risques résiduels est à effectuer par l'équipe afin de disposer d'un bilan à jour et reflétant l'état de maîtrise du risque numérique du produit. Les risques résiduels les plus significatifs seront en priorité recensés et mis en évidence. Par exemple, l'usage d'échelles de cotation en gravité, vraisemblance et criticité, associé à des seuils d'acception du risque, constituera une aide précieuse pour hiérarchiser les risques résiduels avec objectivité et cohérence. Notons enfin que ce bilan, enrichi au fil des ateliers d'analyse de risque, sera complété des éventuelles vulnérabilités résiduelles identifées à l'issue des audits de sécurité.
 
