@@ -4,7 +4,7 @@
 
 Lorsqu'elle n'est pas réglementairement imposée, **la démarche d'homologation reste toutefois une excellente façon de témoigner, vis-à-vis des usagers, de la volonté de prendre en compte la sécurité numérique des services proposés, et de valoriser le niveau de maîtrise des risques atteint[^1]**.
 
-Comme le rappelle le guide [_L'homologation de sécurité, en 9 étapes simples_](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/) :
+Comme le rappelle le guide relatif à [« _L'homologation de sécurité, en 9 étapes simples_ »](https://www.ssi.gouv.fr/actualite/lhomologation-en-9-etapes-simples-nouvelle-publication-de-lanssi/) :
 
 > L'objectif de la démarche d'homologation \[...\] est de trouver un équilibre entre le risque acceptable et les coûts de sécurisation, puis de faire arbitrer cet équilibre, de manière formelle, par un responsable qui a autorité pour le faire.
 
