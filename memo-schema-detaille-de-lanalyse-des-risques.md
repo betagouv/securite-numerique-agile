@@ -14,7 +14,7 @@ Le point de départ de l’atelier – les user stories – est essentiel. En c
 > 
 > _Un client peut émettre une demande \(héler virtuellement un taxi\), un client peut évaluer une course effectuée ou déclarer un incident_.
 
-\(2\) **Les sources de risques**
+\(2\) **Les sources de risques et leurs intentions**
 
 Il s’agit de recenser les sources de risques – accidentelles ou intentionnelles, externes ou internes – susceptibles d’impacter la valeur métier : qui ou quoi pourrait porter atteinte aux besoins de sécurité. Le schéma ci-dessous résume quelques-unes des motivations à l’origine d‘attaques intentionnelles, et peut constituer un point de départ intéressant à la discussion lors de l’atelier.
 
