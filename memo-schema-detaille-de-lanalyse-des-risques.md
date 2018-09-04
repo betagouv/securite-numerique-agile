@@ -8,7 +8,7 @@ Pour cette rubrique, il s’agit de recenser les principaux éléments de vale
 
 L’objectif est d’identifier, pour chaque user story, quels sont les besoins de sécurité les plus importants afin d’orienter par la suite le travail d’identification des scénarios de risques pertinents. Le degré d’importance peut être pondéré par un indice simple. Par exemple, **• pour un besoin important et • • pour un besoin notable**. Un schéma similaire pourra être adopté pour les autres éléments de l’analyse. L’évaluation de l’importance d’un besoin de sécurité est souvent itérative et obtenue par comparaison au fur et à mesure de l’atelier ; un besoin identifié comme « important » traduit le fait qu’il est essentiel pour le produit.
 
-Le point de départ de l’atelier – les user stories – est essentiel. En commençant par-là, l’équipe ancre dans le reste de l’atelier l’idée que les mesures de sécurité servent la valeur livrée aux usagers. En effet, pour chaque besoin de sécurité important relatif à une *user story*, il y a un ou plusieurs événements redoutés et au moins un scénario de risque susceptible de compromettre la proposition de valeur.
+Le point de départ de l’atelier – les user stories – est essentiel. En commençant par là, l’équipe ancre dans le reste de l’atelier l’idée que les mesures de sécurité servent la valeur livrée aux usagers. En effet, pour chaque besoin de sécurité important relatif à une *user story*, il y a un ou plusieurs événements redoutés et au moins un scénario de risque susceptible de compromettre la proposition de valeur.
 
 > Exemple
 > 
