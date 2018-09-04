@@ -16,7 +16,7 @@ Par hypothèse, l'équipe à laquelle s'adresse ce guide cherche à mettre rapid
 
 Dans ce contexte, l'équipe se dirigera donc naturellement vers une **décision d'homologation provisoire, afin d'adapter le niveau de risque résiduel accepté à un contexte donné**. Sa validité sera limitée dans le temps et conditionnée par des critères liés au volume ou à l'intensité d'exploitation, dans une unité appropriée : en nombre d'usagers, en volume de transactions, etc.
 
-Ces **critères de validité** doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on est resté ou non dans les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
+Ces **critères de validité** doivent pouvoir être mesurés et surveillés afin d'objectiver que l'on respecte encore les conditions de validité de l'homologation provisoire. L'équipe pourra moduler la durée et les critères de validité des homologations provisoires successives en fonction de la diffusion réellement constatée du service.
 
 Ainsi une stratégie d'homologation pour la plateforme Le.Taxi pourrait se décliner en trois jalons :
 
