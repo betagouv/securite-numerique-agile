@@ -36,7 +36,11 @@ Plusieurs modèles de *cyber kill chain* existent et peuvent être utilisés 
 
 ## Considérer l’écosystème comme une source de risque potentiel
 
-L’écosystème constitue l’ensemble des parties prenantes qui gravitent autour du produit ou qui sont nécessaires à son fonctionnement. De plus en plus de modes opératoires d’attaques exploitent les éléments vulnérables d’un écosystème pour atteindre leur cible. \(On a ainsi vu un casino aux Etats-Unis victime d'une attaque par le biais… [d'un aquarium connecté à Internet](https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-hack-a-casino/).\) L’analyse de risque doit alors prendre en compte ces éléments de l’écosystème, susceptibles de rendre possibles ou de faciliter des _abuser stories_ \(ex : injection d’un code malveillant par rebond via un partenaire tiers connecté, attaque en déni de service sur le fournisseur de service en nuage, piégeage de la chaîne logistique d’approvisionnement des postes et serveurs d’administration d'un réseau facilitant l'exfiltration de données sensibles\).
+On entend par écosystème l’ensemble des parties prenantes qui gravitent à son fonctionnement. Un nombre croissant de modes opératoires d’attaques exploite les vulnérabilités d’un écosystème pour atteindre leur cible. C’est ainsi qu’aux États-Unis, un casino a fait les frais d’une attaque menée par le biais… [d’un aquarium connecté !](https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-hack-a-casino/) L’analyse de risque doit alors prendre en compte ces éléments de l’écosystème, susceptibles de rendre possibles ou de faciliter la réalisation *d’abuser stories*.
+
+> Exemple
+>
+> Injection de code malveillant par rebond par le biais d’un partenaire tiers connecté ; attaque en déni de service sur le fournisseur de service en nuage ; piégeage de la chaîne logistique d’approvisionnement des postes et serveurs d’administration d’un réseau facilitant l’exfiltration de données sensibles ; etc.).
 
 La sélection des parties prenantes potentiellement critiques d’un écosystème, à prendre en compte dans l’analyse de risque, peut se baser sur l’évaluation des critères suivants, chaque critère étant évalué par exemple sur une échelle de 1 à 4. Les critères d’exposition tendent à accroître le risque alors que ceux relatifs à la protection l’atténue. Les parties prenantes les plus critiques sont ensuite sélectionnées en prenant celles qui totalisent les scores les plus élevés.
 
