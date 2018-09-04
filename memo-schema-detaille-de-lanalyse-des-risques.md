@@ -60,25 +60,27 @@ Afin d’étendre le périmètre de l’appréciation des risques, vous pouv
 >
 > Prestataire informatique assurant la télémaintenance du serveur qui héberge la base de données Le.Taxi.
 
-\(5\) **Les scénarios de risques \(**_**abuser stories**_**\) et les mesures de traitement**
+\(5\) **Les scénarii de risques \(*abuser stories*\) et les mesures de traitement**
 
-La finalité de l’atelier est d’identifier les risques numériques dimensionnants à prendre en compte pour bâtir ou compléter la politique de sécurité du produit.
+La finalité de l’atelier est d’identifier les risques numériques de référence à prendre en compte pour bâtir ou compléter la politique de sécurité du produit.
 
-* Dans l’étape \(5\), l’équipe commence par dresser une liste de **scénarios de risques** – les _abuser stories_ – en confrontant les sources de risques \(2\), les événements redoutés \(3\) et les composants vulnérables \(4\). Concrètement, il s’agit de voir de quelle façon chaque source de risque retenue peut impacter des composants du produit, par exploitation notamment de leurs vulnérabilités ou d’un facteur externe aggravant, pour générer un événement redouté. Chaque abuser story peut être classiquement évalué en terme de _vraisemblance_, puis de _criticité _à partir de la \_gravité \_de l'événement redouté associé.
+L’équipe commence par dresser une liste de **scénarios de risques** – abuser stories – en confrontant les sources de risques \(2\), les événements redoutés \(3\) et les composants vulnérables \(4\). Concrètement, il s’agit de voir de quelle façon chaque source de risque retenue peut impacter des composants du produit, par exploitation notamment de leurs vulnérabilités ou d’un facteur externe aggravant, pour générer un événement redouté. Chaque *abuser story* peut ensuite être classiquement évalué en terme de vraisemblance, puis de criticité à partir de la gravité de l'événement redouté associé.
 
-Exemples :  _un attaquant externe accède aux informations à caractère personnel des clients en usurpant l'identité du serveur Le.Taxi ou en exploitant une vulnérabilité non corrigée, un client de mauvaise foi attribue abusivement une mauvaise note au taxi._
+> Exemple
+>
+> Un attaquant externe accède aux informations à caractère personnel des clients en usurpant l'identité du serveur Le.Taxi ou en exploitant une vulnérabilité non corrigée.
+> Un client de mauvaise foi attribue abusivement une mauvaise note au taxi.
 
-* Puis, pour chaque _abuser story_ répertorié, l’équipe définit l’**option de traitement du risque** la plus appropriée \(éviter, réduire, transférer, accepter\). Dans le cas où le risque doit être réduit, les participants définissent les mesures de sécurité complémentaires qu'il faudra mettre en œuvre, en plus des mesures existantes ou déjà prévues. Leur réalisation est priorisée par l’équipe au même titre que les autres _user stories_.
+Pour chaque abuser story répertoriée, l’équipe peut définir si besoin **l’option de traitement du risque** la plus appropriée (éviter, réduire, transférer, accepter). Dans le cas où le risque doit être réduit, les participants identifient les **mesures de sécurité** complémentaires qu’il faudra mettre en œuvre, en plus des mesures existantes ou déjà prévues. Leur réalisation est consignée par l’équipe au même titre que les autres *user stories*.
 
-* Enfin, l'équipe termine l'atelier en identifiant les **risques résiduels**. Ces derniers concernent :
-
-  * les besoins de sécurité de l'étape \(1\) et les événements redoutés de l'étape \(3\) non déclinés en _abuser stories_ ;
+Enfin, l'équipe peut clore l'atelier en identifiant les **risques résiduels**. Ces derniers concernent :
 
   * les _abuser stories_ non traitées \(acceptées en l'état\) ou seulement partiellement \(mesures de sécurité mises en place, mais ne réduisant pas complètement ou suffisamment le risque\).
 
   * les _abuser stories_ faisant l'objet d'un transfert du risque, lequel ne couvre généralement pas l'ensemble des impacts \(exemple : l'assurance ne couvre pas l'atteinte à l'image\).
 
-Un certain travail \(souvent subjectif\) de consolidation des risques résiduels est à effectuer par l'équipe afin de disposer d'un bilan à jour et reflétant l'état de maîtrise du risque numérique du produit. Les risques résiduels les plus significatifs seront en priorité recensés et mis en évidence \(l'usage d'échelles de cotation en gravité, vraisemblance et criticité, associé à des seuils d'acception du risque, constituera une aide précieuse pour hiérarchiser les risques résiduels avec une certaine objectivité et cohérence d'ensemble\). Notons enfin que ce bilan, enrichi au fil des ateliers d'analyse de risques, sera complété des éventuelles vulnérabilités résiduelles issues des audits de sécurité \(audit de configuration, de code, test d'intrusion\).
+  * pour affiner dans un deuxième temps : les besoins de sécurité de l'étape \(1\) et les événements redoutés de l'étape \(3\) non déclinés en abuser stories.
+
+Un certain travail \(souvent subjectif\) de consolidation des risques résiduels est à effectuer par l'équipe afin de disposer d'un bilan à jour et reflétant l'état de maîtrise du risque numérique du produit. Les risques résiduels les plus significatifs seront en priorité recensés et mis en évidence. Par exemple, l'usage d'échelles de cotation en gravité, vraisemblance et criticité, associé à des seuils d'acception du risque, constituera une aide précieuse pour hiérarchiser les risques résiduels avec objectivité et cohérence. Notons enfin que ce bilan, enrichi au fil des ateliers d'analyse de risque, sera complété des éventuelles vulnérabilités résiduelles identifées à l'issue des audits de sécurité.
 
 La section suivante présente l'intégralité de l'analyse des risques pour la plateforme Le.Taxi et vous permettra d'observer l'articulation des différents éléments présentés ici sur un cas pratique.
-
