@@ -1,10 +1,8 @@
 # Le canevas de l'analyse de risque
 
-L'articulation entre les éléments de l'analyse des risques est résumée par le schéma suivant :
-
 ![](assets/canevas.png)
 
-\(1\) **Les user stories et leurs besoins de sécurité**
+\(1\) **Les valeurs métiers (user stories) et leurs besoins de sécurité**
 
 Pour cette rubrique, il s’agit de recenser les principaux éléments de valeur d'usage mis en œuvre par le produit, et à estimer leurs besoins de sécurité \(DICP : disponibilité, intégrité, confidentialité, preuve\). Ces éléments seront généralement exprimés sous la forme de _user stories_.
 
