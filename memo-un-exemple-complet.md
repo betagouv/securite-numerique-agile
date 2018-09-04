@@ -40,9 +40,7 @@ Les tableaux que nous livrons ci-dessous correspondent à la restitution formell
 | Administrateurs |
 | Partenaires |
 
-Les risques suivants sont actuellement traités par les mesures citées:
-
-| Risque | Mesure existante |
+| Risques | Mesures existantes ou prévues |
 |---------------|--------------------|
 |Un partenaire tente de fausser la concurrence en envoyant de fausses positions|Signature cryptographique des remontées de positions par les partenaires|
 |Un attaquant externe accède à des informations confidentielles en exploitant une faille|Fermeture des ports autres que HTTP/HTTPS au trafic issu d'adresses IP inconnues|
@@ -51,9 +49,9 @@ Les risques suivants sont actuellement traités par les mesures citées:
 |Un taxi fournit des courses ne respectant pas la qualité de service attendue|Enregistrement d'une notation attribuée par le client au taxi|
 |Un client de mauvaise foi attribue abusivement une mauvaise note au taxi|Les notations sont associées à une course réelle spécifique|
 
-Les risques résiduels suivants sont acceptés provisoirement, mais doivent être traités par les mesures citées en regard:
+Les risques résiduels suivants sont provisoirement acceptés mais doivent être traités par les mesures citées en regard:
 
 | Risque résiduel | Mesure à prendre |
 |---------------|--------------------|
 |Le système est indisponible suite à un déni de service|Redonder les serveurs|
-|Un taxi ou VTC usurpe l'identité d'un véhicule légitime|En cours d'instruction|
+|Un taxi usurpe l'identité d'un véhicule légitime|À instruire lors de la montée en puissance|
