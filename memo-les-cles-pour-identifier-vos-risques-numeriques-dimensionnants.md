@@ -1,6 +1,6 @@
 # Les clés pour identifier les risques numériques critiques
 
-Les activités de sécurité visent à identifier les scénarios de risques dimensionnants et les mesures de sécurité associées permettant de traiter ces risques. L’objectif est d’atteindre un niveau de sécurité correspondant aux enjeux et besoins sécuritaires. En démarche Agile, un scénario de risque est décrit sous la forme d’un « abuser story » de nature intentionnelle, ou un scénario d'origine accidentelle. Cette fiche mémo présente les éléments méthodologiques importants à considérer dans l’analyse de risque.
+Les activités de sécurité visent à identifier les scénarios de risques critiques et les mesures de sécurité permettant de les traiter. L’objectif est d’atteindre un niveau de sécurité correspondant aux enjeux et besoins sécuritaires dans une démarche agile, un scénario de risque est décrit sous forme d’une *abuser story* de nature intentionnelle, ou d’un scénario d’origine accidentelle. Cette fiche mémo recense les aspects méthodologiques à considérer en priorité lors des ateliers d’analyse de risque.
 
 **Un exemple pour articuler les notions de user story, abuser story, scénario accidentel :**
 
