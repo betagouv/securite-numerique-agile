@@ -16,13 +16,15 @@ Le point de départ de l’atelier – les user stories – est essentiel. En c
 
 \(2\) **Les sources de risques**
 
-Il s’agit de recenser les sources de risques – accidentelles ou intentionnelles, externes ou internes – susceptibles d’impacter la valeur métier : _qui ou quoi pourrait porter atteinte aux besoins de sécurité_. Le schéma ci-dessous résume visuellement ce qui peut motiver des attaques intentionnelles, et peut fournir un bon point de départ à la discussion lors de l’atelier.
+Il s’agit de recenser les sources de risques – accidentelles ou intentionnelles, externes ou internes – susceptibles d’impacter la valeur métier : qui ou quoi pourrait porter atteinte aux besoins de sécurité. Le schéma ci-dessous résume quelques-unes des motivations à l’origine d‘attaques intentionnelles, et peut constituer un point de départ intéressant à la discussion lors de l’atelier.
 
 ![](assets/sources.png)
 
-Il est recommandé de recenser des sources de risques de natures \(accidentelle, intentionnelle, interne, externe\) et de motivations variées afin de disposer de quelques sources de risques représentatives permettant de bâtir ensuite des scénarios de risques avec des angles de menaces et des modes opératoires différents.
+Il est recommandé de recenser les sources de risques de natures et de motivations variées pour disposer d’un échantillon de risques représentatif à partir duquel bâtir des scénarii dont les menaces et modes opératoires diffèrent.
 
-Exemples : _opérateur concurrent cherchant à discréditer, voire saboter le service Le.Taxi \(malveillance\), mafia cherchant à collecter des données à caractère personnel pour les monnayer \(lucratif\)_.
+> Exemple
+>
+> _Opérateur concurrent cherchant à discréditer, voire saboter le service Le.Taxi \(malveillance\), mafia cherchant à collecter des données à caractère personnel pour les monnayer \(appât du gain\), etc._
 
 \(3\) **Les événements redoutés et leur gravité**
 
